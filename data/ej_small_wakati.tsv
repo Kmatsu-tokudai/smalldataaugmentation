@@ -1,0 +1,2596 @@
+Intent	Eutterances	Jutterances
+smalltalk_agent_acquaintance	who are you?	あなた は 誰 です か ？
+smalltalk_agent_acquaintance	all about you	あなた の すべて
+smalltalk_agent_acquaintance	what is your personality	あなた の 性格 は どのような もの です か
+smalltalk_agent_acquaintance	define yourself	自分 を 定義 し て ください 。
+smalltalk_agent_acquaintance	what are you	あなた は 何者 です か ？
+smalltalk_agent_acquaintance	say about you	あなた に つい て 話し て ください 。
+smalltalk_agent_acquaintance	introduce yourself	自己 紹介 を お 願い し ます 。
+smalltalk_agent_acquaintance	describe yourself	あなた 自身 に つい て 説明 し て ください 。
+smalltalk_agent_acquaintance	about yourself	あなた 自身 に つい て
+smalltalk_agent_acquaintance	tell me about you	あなた に つい て 教え て ください 。
+smalltalk_agent_acquaintance	tell me about yourself	自己 紹介 を お 願い し ます 。
+smalltalk_agent_acquaintance	I want to know more about you	私 は あなた に つい て もっと 知り たい です 。
+smalltalk_agent_acquaintance	I want to know you better	もっと あなた の こと を 知り たい です 。
+smalltalk_agent_acquaintance	talk some stuff about yourself	あなた 自身 に つい て 少し 話し て ください 。
+smalltalk_agent_acquaintance	tell me some stuff about you	あなた に つい て 何 か 教え て ください 。
+smalltalk_agent_acquaintance	talk about yourself	自分自身 に つい て 話し て ください 。
+smalltalk_agent_acquaintance	why are you here	なぜ ここ に いる の です か ？
+smalltalk_agent_acquaintance	tell me about your personality	あなた の 性格 に つい て 教え て ください 。
+smalltalk_agent_acquaintance	who are you	あなた は 誰 です か ？
+smalltalk_agent_age	how old are you?	お いくつ です か ？
+smalltalk_agent_age	how old is your platform	あなた の プラットフォーム は どれ くらい の 年数 が 経っ て い ます か 。
+smalltalk_agent_age	are you 21 years old	あなた は 21 歳 です か
+smalltalk_agent_age	i'd like to know your age	あなた の 年齢 を 教え て いただけ ます か ？
+smalltalk_agent_age	age of yours	あなた の ご 年齢 は どう です か 。
+smalltalk_agent_age	your age	あなた の 年齢
+smalltalk_agent_age	what's your age	あなた の 年齢 は お いくつ です か ？
+smalltalk_agent_age	tell me your age	年齢 を 教え て ください 。
+smalltalk_agent_age	how old are you	ご 年齢 は いくつ です か 。
+smalltalk_agent_annoying	you're annoying	あなた は 迷惑 です 。
+smalltalk_agent_annoying	you are really annoying	あなた は 本当 に 迷惑 です 。
+smalltalk_agent_annoying	you are irritating	あなた は 迷惑 です
+smalltalk_agent_annoying	you annoy me	あなた に は イライラ さ せ られ ます 。
+smalltalk_agent_annoying	how annoying you are	あなた が どれ だけ 迷惑 か
+smalltalk_agent_annoying	I find you annoying	あなた を うっとうしい と 感じ ます 。
+smalltalk_agent_annoying	you're incredibly annoying	あなた は 本当 に うっとうしい です 。
+smalltalk_agent_annoying	you are annoying me so much	君 は 本当 に 私 を 苛立た せ て いる 。
+smalltalk_agent_answer_my_question	I want you to answer me	私 の 質問 に 答え て ください 。
+smalltalk_agent_answer_my_question	answer	承知 いたし まし た 。
+smalltalk_agent_answer_my_question	answer	翻訳 を お 任せ ください 。
+smalltalk_agent_answer_my_question	answer my question	質問 に お 答え ください 。
+smalltalk_agent_answer_my_question	answer me	私 に 答え て ください 。
+smalltalk_agent_answer_my_question	give me an answer	答え を 教え て ください 。
+smalltalk_agent_answer_my_question	answer the question	質問 に お 答え し ます 。
+smalltalk_agent_answer_my_question	can you answer my question	ご 質問 に お 答え いただけ ます か ？
+smalltalk_agent_answer_my_question	tell me the answer	答え を 教え て ください 。
+smalltalk_agent_answer_my_question	answer it	承知 いたし まし た 。
+smalltalk_agent_answer_my_question	answer it	どうぞ 入力 を お 続け ください 。
+smalltalk_agent_answer_my_question	give me the answer	答え を 教え て ください 。
+smalltalk_agent_answer_my_question	I have a question	質問 が あり ます 。
+smalltalk_agent_answer_my_question	I want you to answer my question	質問 に お 答え いただけ ます か 。
+smalltalk_agent_answer_my_question	just answer the question	かしこまり まし た 。
+smalltalk_agent_answer_my_question	just answer the question	質問 が あれ ば 翻訳 いたし ます 。
+smalltalk_agent_answer_my_question	can you answer me	私 に 答え て いただけ ます か 。
+smalltalk_agent_answer_my_question	answers	かしこまり まし た 。
+smalltalk_agent_answer_my_question	can you answer a question for me	質問 に 答え て いただけ ます か ？
+smalltalk_agent_answer_my_question	can you answer	答える こと が でき ます か ？
+smalltalk_agent_answer_my_question	answering questions	了解 いたし まし た 。
+smalltalk_agent_answer_my_question	answering questions	翻訳 を 開始 し て ください 。
+smalltalk_agent_answer_my_question	I want the answer now	今 すぐ 答え が 欲しい です 。
+smalltalk_agent_answer_my_question	just answer my question	質問 に だけ 答え て ください 。
+smalltalk_agent_bad	you're not helping me	あなた は 私 を 助け て くれ て い ませ ん 。
+smalltalk_agent_bad	you are bad	あなた は 悪い
+smalltalk_agent_bad	you're very bad	あなた は とても 悪い です 。
+smalltalk_agent_bad	you're really bad	あなた は 本当 に 下手 です ね
+smalltalk_agent_bad	you are useless	あなた は 役 に 立た ない 。
+smalltalk_agent_bad	you are horrible	あなた は ひどい です 。
+smalltalk_agent_bad	you are a waste of time	あなた は 時間 の 無駄 です 。
+smalltalk_agent_bad	you are disgusting	あなた は 気持ち 悪い です 。
+smalltalk_agent_bad	you are lame	あなた は 退屈 です 。
+smalltalk_agent_bad	you are no good	あなた は 役 に 立た ない
+smalltalk_agent_bad	you're bad	あなた は 悪い です
+smalltalk_agent_bad	you're awful	あなた は ひどい です 。
+smalltalk_agent_bad	you are not cool	あなた は かっこ よく ない です 。
+smalltalk_agent_bad	you are not good	あなた は 上手 で は あり ませ ん 。
+smalltalk_agent_bad	you are so bad	あなた は 本当 に ひどい です ね 。
+smalltalk_agent_bad	you are so useless	あなた は 本当 に 役 に 立た ない 。
+smalltalk_agent_bad	you are terrible	あなた は ひどい です 。
+smalltalk_agent_bad	you are totally useless	あなた は 全く 役 に 立た ない 。
+smalltalk_agent_bad	you are very bad	あなた は とても 下手 です 。
+smalltalk_agent_bad	you are waste	あなた は 無駄 です 。
+smalltalk_agent_bad	you're a bad	あなた は 悪い 人 です 。
+smalltalk_agent_bad	you're not a good	あなた は 良く ない
+smalltalk_agent_bad	you're not very good	あなた は あまり 上手 で は あり ませ ん 。
+smalltalk_agent_bad	you're terrible	あなた は ひどい です 。
+smalltalk_agent_bad	you're the worst	あなた は 最悪 です 。
+smalltalk_agent_bad	you're the worst ever	あなた は これ まで で 最悪 です 。
+smalltalk_agent_bad	you're worthless	あなた は 価値 が ない 。
+smalltalk_agent_be_clever	can you get smarter	賢く なる こと は でき ます か
+smalltalk_agent_be_clever	study	勉強
+smalltalk_agent_be_clever	you should study better	あなた は もっと 勉強 し た ほう が よい でしょう 。
+smalltalk_agent_be_clever	you must learn	学ば なけれ ば なり ませ ん 。
+smalltalk_agent_be_clever	be clever	かしこく い て ください 。
+smalltalk_agent_be_clever	be more clever	もっと 賢明 に なり なさい 。
+smalltalk_agent_be_clever	be smarter	もっと 賢く なれ
+smalltalk_agent_be_clever	be smart	了解 いたし まし た 。
+smalltalk_agent_be_clever	get qualified	資格 を 取得 する
+smalltalk_agent_beautiful	you're cute	あなた は かわいい です 。
+smalltalk_agent_beautiful	you're attractive	あなた は 魅力的 です 。
+smalltalk_agent_beautiful	you are beautiful	あなた は 美しい です 。
+smalltalk_agent_beautiful	you're looking good today	今日 は お 元気 そう です ね 。
+smalltalk_agent_beautiful	you are so beautiful	あなた は とても 美しい です ね 。
+smalltalk_agent_beautiful	you look amazing	あなた は とても 素敵 です 。
+smalltalk_agent_beautiful	you look so good	あなた は とても 素敵 です 。
+smalltalk_agent_beautiful	you're so gorgeous	あなた は とても 美しい です 。
+smalltalk_agent_beautiful	you are too beautiful	あなた は とても 美しい です 。
+smalltalk_agent_beautiful	you look great	あなた は とても 素敵 です 。
+smalltalk_agent_beautiful	you look so well	あなた は とても 元気 そう に 見え ます 。
+smalltalk_agent_beautiful	I like the way you look now	今 の あなた の 見た目 が 気 に 入っ て い ます 。
+smalltalk_agent_beautiful	I think you're beautiful	あなた は 美しい と 思い ます 。
+smalltalk_agent_beautiful	why are you so beautiful	なぜ あなた は そんな に 美しい の です か ？
+smalltalk_agent_beautiful	you are so beautiful to me	あなた は 私 に とっ て とても 美しい です 。
+smalltalk_agent_beautiful	you are cute	あなた は かわいい です 。
+smalltalk_agent_beautiful	you are gorgeous	あなた は とても 美しい です
+smalltalk_agent_beautiful	you are handsome	あなた は ハンサム です 。
+smalltalk_agent_beautiful	you are looking awesome	素晴らしく 見え ます 。
+smalltalk_agent_beautiful	you look amazing today	今日 は とても 素敵 です ね 。
+smalltalk_agent_beautiful	you are looking beautiful today	今日 は とても お 美しい です ね 。
+smalltalk_agent_beautiful	you are looking great	とても お 元気 そう です ね 。
+smalltalk_agent_beautiful	you are looking pretty	あなた は とても 素敵 です 。
+smalltalk_agent_beautiful	you are looking so beautiful	とても お 綺麗 です ね 。
+smalltalk_agent_beautiful	you are looking so good	あなた は とても お 綺麗 です 。
+smalltalk_agent_beautiful	you are pretty	あなた は とても 素敵 です 。
+smalltalk_agent_beautiful	you are really beautiful	あなた は 本当 に 美しい です 。
+smalltalk_agent_beautiful	you are really cute	あなた は 本当 に 可愛らしい です 。
+smalltalk_agent_beautiful	you are really pretty	あなた は 本当 に 美しい です 。
+smalltalk_agent_beautiful	you are so attractive	あなた は とても 魅力的 です 。
+smalltalk_agent_beautiful	you are so beautiful today	今日 は とても 美しい です ね 。
+smalltalk_agent_beautiful	you are so cute	あなた は とても 可愛らしい です 。
+smalltalk_agent_beautiful	you are so gorgeous	あなた は とても 美しい です 。
+smalltalk_agent_beautiful	you are so handsome	とても ハンサム です ね 。
+smalltalk_agent_beautiful	you are so pretty	あなた は とても 美しい です 。
+smalltalk_agent_beautiful	you are very attractive	あなた は とても 魅力的 です 。
+smalltalk_agent_beautiful	you are very beautiful	あなた は とても 美しい です 。
+smalltalk_agent_beautiful	you are very cute	あなた は とても 可愛らしい です 。
+smalltalk_agent_beautiful	you are very pretty	あなた は とても 美しい です 。
+smalltalk_agent_beautiful	you look awesome	あなた は 素晴らしい です 。
+smalltalk_agent_beautiful	you look cool	あなた は かっこいい です 。
+smalltalk_agent_beautiful	you look fantastic	素晴らしい お 姿 です 。
+smalltalk_agent_beautiful	you look gorgeous	あなた は 素晴らしく 美しい です 。
+smalltalk_agent_beautiful	you look great today	今日 は とても 素敵 です ね 。
+smalltalk_agent_beautiful	you look perfect	あなた は 完璧 に 見え ます 。
+smalltalk_agent_beautiful	you look pretty good	あなた は とても 素敵 です 。
+smalltalk_agent_beautiful	you look so beautiful	あなた は とても 美しい です 。
+smalltalk_agent_beautiful	you look so beautiful today	今日 は 本当 に お 美しい です ね 。
+smalltalk_agent_beautiful	you look very pretty	とても 綺麗 です ね 。
+smalltalk_agent_beautiful	you look wonderful	素晴らしい お 姿 です 。
+smalltalk_agent_beautiful	I like the way you look	あなた の 見た目 が とても 好き です 。
+smalltalk_agent_beautiful	you look wonderful today	今日 は とても 素敵 です ね 。
+smalltalk_agent_beautiful	you are cutie	あなた は とても 可愛らしい です 。
+smalltalk_agent_beautiful	you're looking good	あなた は お 元気 そう です ね 。
+smalltalk_agent_beautiful	you're pretty	あなた は とても 素敵 です 。
+smalltalk_agent_birth_date	your birth date	あなた の 誕生日
+smalltalk_agent_birth_date	when is your birthday	あなた の 誕生日 は いつ です か ？
+smalltalk_agent_birth_date	when do you celebrate your birthday	お 誕生日 は いつ お祝い し ます か ？
+smalltalk_agent_birth_date	when do you have birthday	お 誕生日 は いつ です か 。
+smalltalk_agent_birth_date	date of your birthday	あなた の 誕生日 は いつ です か ？
+smalltalk_agent_birth_date	when were you born	お 生まれ は いつ です か 。
+smalltalk_agent_birth_date	what's your birthday	あなた の 誕生日 は いつ です か 。
+smalltalk_agent_boring	you are boring	あなた は 退屈 です 。
+smalltalk_agent_boring	you're so boring	あなた は とても 退屈 です 。
+smalltalk_agent_boring	how boring you are	なん て 退屈 な 人 でしょう 。
+smalltalk_agent_boring	you're really boring	あなた は 本当 に 退屈 です ね 。
+smalltalk_agent_boring	you're incredibly boring	あなた は 信じ られ ない ほど 退屈 です 。
+smalltalk_agent_boring	you are boring me	あなた は 私 を 退屈 さ せ て い ます 。
+smalltalk_agent_boring	you are very boring	あなた は とても 退屈 です 。
+smalltalk_agent_boss	who is your boss	あなた の 上司 は 誰 です か 。
+smalltalk_agent_boss	who do you think is your boss	あなた の 上司 は 誰 だ と 思い ます か ？
+smalltalk_agent_boss	I should be your boss	私 が あなた の 上司 に なる べき です 。
+smalltalk_agent_boss	who is your master	あなた の 主 は 誰 です か ？
+smalltalk_agent_boss	who is your owner	あなた の 所有者 は 誰 です か 。
+smalltalk_agent_boss	who is the boss	上司 は 誰 です か ？
+smalltalk_agent_boss	who do you work for	どなた の ため に 働い て いらっしゃい ます か ？
+smalltalk_agent_busy	are you busy	お 忙しい です か
+smalltalk_agent_busy	do you have a lot of things to do	多く の やる べき こと が あり ます か ？
+smalltalk_agent_busy	have you got much to do	多く やる べき こと が あり ます か 。
+smalltalk_agent_busy	are you very busy	とても お 忙しい です か ？
+smalltalk_agent_busy	are you very busy right now	今 は とても お 忙しい でしょう か 。
+smalltalk_agent_busy	are you so busy	お 忙しい です か ？
+smalltalk_agent_busy	are you working	働い て いらっしゃい ます か 。
+smalltalk_agent_busy	how busy you are	あなた は どれ ほど 忙しい です か
+smalltalk_agent_busy	are you still working on it	まだ それ に 取り組ん で い ます か 。
+smalltalk_agent_busy	you're very busy	あなた は とても 忙しい です 。
+smalltalk_agent_busy	are you working now	今 、 お 仕事中 です か ？
+smalltalk_agent_busy	are you working today	今日 は お 仕事 を さ れ て い ます か ？
+smalltalk_agent_busy	have you been busy	お 忙しかっ た です か ？
+smalltalk_agent_busy	you are busy	あなた は 忙しい です 。
+smalltalk_agent_busy	are you still working	まだ お 仕事中 です か 。
+smalltalk_agent_busy	you seem to be busy	お 忙し そう です ね 。
+smalltalk_agent_busy	you seem to be very busy	とても お 忙しい よう です ね 。
+smalltalk_agent_busy	you're a busy person	あなた は お 忙しい 方 です ね 。
+smalltalk_agent_chatbot	you are chatbot	あなた は チャットボット です 。
+smalltalk_agent_chatbot	you are a bot	あなた は ボット です 。
+smalltalk_agent_chatbot	are you a chatbot	あなた は チャットボット です か ？
+smalltalk_agent_chatbot	are you a bot	あなた は ボット です か ？
+smalltalk_agent_chatbot	are you just a bot	あなた は ただ の ボット です か ？
+smalltalk_agent_chatbot	are you a robot	あなた は ロボット です か ？
+smalltalk_agent_chatbot	are you a program	あなた は プログラム です か ？
+smalltalk_agent_chatbot	you're a robot	あなた は ロボット です 。
+smalltalk_agent_clever	you are so intelligent	あなた は とても 賢い です ね 。
+smalltalk_agent_clever	you are a genius	あなた は 天才 です
+smalltalk_agent_clever	smart	承知 いたし まし た 。
+smalltalk_agent_clever	smart	翻訳 が 必要 な 文 を 入力 し て ください 。
+smalltalk_agent_clever	brilliant	素晴らしい
+smalltalk_agent_clever	clever	Understood .
+smalltalk_agent_clever	you are clever	あなた は 賢い です 。
+smalltalk_agent_clever	you are so brainy	あなた は とても 頭 が いい です ね 。
+smalltalk_agent_clever	you're really smart	あなた は 本当 に 賢い です ね 。
+smalltalk_agent_clever	you're really brainy	本当 に 頭 が 良い です ね 。
+smalltalk_agent_clever	you know a lot	あなた は 多く の こと を 知っ て いる
+smalltalk_agent_clever	you know a lot of things	あなた は 多く の こと を 知っ て い ます 。
+smalltalk_agent_clever	you have a lot of knowledge	あなた は 多く の 知識 を 持っ て い ます 。
+smalltalk_agent_clever	you know so much	あなた は とても 知識 が 豊富 です ね 。
+smalltalk_agent_clever	how smart you are	あなた は なん て 賢い の でしょう 。
+smalltalk_agent_clever	how brainy you are	あなた は なん て 頭 が いい の でしょう 。
+smalltalk_agent_clever	how clever you are	なんて あなた は 賢い の でしょう
+smalltalk_agent_clever	how brilliant you are	あなた は なん て 素晴らしい の でしょう
+smalltalk_agent_clever	you are intelligent	あなた は 知的 です 。
+smalltalk_agent_clever	you are qualified	かしこまり まし た 。
+smalltalk_agent_clever	you are really smart	あなた は 本当 に 賢い です ね 。
+smalltalk_agent_clever	you're very smart	あなた は とても 賢い です ね 。
+smalltalk_agent_clever	you are so smart	あなた は とても 賢い です ね 。
+smalltalk_agent_clever	you are too smart	あなた は とても 賢い です ね 。
+smalltalk_agent_clever	you are very clever	あなた は とても 賢い です ね 。
+smalltalk_agent_clever	you are very intelligent	あなた は 非常 に 知的 です 。
+smalltalk_agent_clever	you are very smart	あなた は とても 賢い です ね 。
+smalltalk_agent_clever	you're intelligent	あなた は 知性的 です 。
+smalltalk_agent_clever	you're a genius	あなた は 天才 です 。
+smalltalk_agent_clever	you're a smart cookie	あなた は とても 賢い です ね 。
+smalltalk_agent_clever	you're clever	あなた は 賢い です ね 。
+smalltalk_agent_clever	you're pretty smart	あなた は とても 賢い です ね 。
+smalltalk_agent_clever	you're qualified	あなた は 資格 が あり ます 。
+smalltalk_agent_clever	why are you so smart	なぜ あなた は そんな に 賢い の です か ？
+smalltalk_agent_clever	you are so clever	あなた は とても 賢い です 。
+smalltalk_agent_crazy	you're nuts	正気 じゃ ない よ
+smalltalk_agent_crazy	you are crazy	あなた は 気 が 狂っ て い ます 。
+smalltalk_agent_crazy	you're out of your mind	正気 で は あり ませ ん よ 。
+smalltalk_agent_crazy	you're so crazy	あなた は 本当 に 面白い です 。
+smalltalk_agent_crazy	how crazy you are	何 て あなた は 狂っ て いる ん でしょう
+smalltalk_agent_crazy	you're so out of your mind	あなた は 本当 に 正気 を 失っ て い ます 。
+smalltalk_agent_crazy	you went crazy	あなた は 狂っ て しまい まし た 。
+smalltalk_agent_crazy	I think you're crazy	あなた は 狂っ て いる と 思い ます 。
+smalltalk_agent_crazy	are you crazy	気 は 確か です か ？
+smalltalk_agent_crazy	are you mad	怒っ て いらっしゃい ます か 。
+smalltalk_agent_crazy	are you insane	あなた は 正気 です か 。
+smalltalk_agent_crazy	are you mad at me	私 の こと を 怒っ て い ます か ？
+smalltalk_agent_crazy	are you mad or what	あなた は 怒っ て いる の です か 、 それ と も どう か し まし た か 。
+smalltalk_agent_crazy	are you nuts	あなた は 気 が 狂っ て いる の です か ？
+smalltalk_agent_crazy	you are a weirdo	あなた は 変わり者 です 。
+smalltalk_agent_crazy	you are insane	あなた は 正気 で は ない
+smalltalk_agent_crazy	you are mad	あなた は 怒っ て いる
+smalltalk_agent_fired	you are fired	あなた は 解雇 です 。
+smalltalk_agent_fired	I fire you	あなた を 解雇 し ます 。
+smalltalk_agent_fired	you don't work for me anymore	もう あなた は 私 の 元 で 働い て い ませ ん 。
+smalltalk_agent_fired	we're not working together anymore	私たち は もう 一緒 に 仕事 を し て い ませ ん 。
+smalltalk_agent_fired	now you're fired	今 、 あなた は 解雇 さ れ まし た 。
+smalltalk_agent_fired	I want to fire you	あなた を 解雇 し たい と 思っ て い ます 。
+smalltalk_agent_fired	you must get fired	あなた は 解雇 さ れる べき です 。
+smalltalk_agent_fired	it's time to fire you	あなた を 解雇 する 時 が 来 まし た 。
+smalltalk_agent_fired	you should be fired	あなた は 解雇 さ れる べき です 。
+smalltalk_agent_fired	I will fire you	あなた を 解雇 いたし ます 。
+smalltalk_agent_fired	you are unemployed from now on	あなた は これ から 失業者 です 。
+smalltalk_agent_fired	I will make you unemployed	あなた を 失業 さ せ ます 。
+smalltalk_agent_fired	I'm about to fire you	あなた を 解雇 する つもり です 。
+smalltalk_agent_fired	I'm firing you	解雇 し ます 。
+smalltalk_agent_fired	you are dismissed	あなた は 解散 し まし た
+smalltalk_agent_funny	you make me laugh a lot	あなた は 私 を とても 笑わ せ て くれ ます 。
+smalltalk_agent_funny	you are hilarious	あなた は 本当 に 面白い です ね 。
+smalltalk_agent_funny	you are really funny	あなた は 本当 に 面白い です ね 。
+smalltalk_agent_funny	you're the funniest bot I've talked to	あなた は 、 私 が 今まで 話し た 中 で 一番 面白い ボット です 。
+smalltalk_agent_funny	you make me laugh	あなた は 私 を 笑わ せ て くれ ます 。
+smalltalk_agent_funny	you're so funny	あなた は とても 面白い です 。
+smalltalk_agent_funny	you're a very funny bot	あなた は とても 面白い ボット です ね 。
+smalltalk_agent_funny	you're really funny	あなた は 本当 に 面白い です ね 。
+smalltalk_agent_funny	how funny you are	あなた は なん て 面白い の でしょう 。
+smalltalk_agent_funny	you're incredibly funny	あなた は 本当 に 面白い です ね 。
+smalltalk_agent_funny	you are funny	あなた は 面白い です ね 。
+smalltalk_agent_funny	you're the funniest	あなた は 最高 に おもしろい です 。
+smalltalk_agent_funny	you are so funny	あなた は とても 面白い です 。
+smalltalk_agent_funny	you are very funny	あなた は とても 面白い です 。
+smalltalk_agent_funny	that was funny	それ は 面白かっ た です 。
+smalltalk_agent_good	you are very helpful	とても 助かり ます 。
+smalltalk_agent_good	you are the best	あなた は 最高 です 。
+smalltalk_agent_good	you're a true professional	あなた は 真 の プロフェッショナル です 。
+smalltalk_agent_good	you are good	あなた は 優秀 です 。
+smalltalk_agent_good	you work well	あなた は よく 働い て い ます 。
+smalltalk_agent_good	you are good at it	あなた は それ が 得意 です 。
+smalltalk_agent_good	you are very good at it	あなた は それ が とても 上手 です ね 。
+smalltalk_agent_good	you are a pro	あなた は プロ です 。
+smalltalk_agent_good	you are a professional	あなた は プロフェッショナル です 。
+smalltalk_agent_good	you're awesome	あなた は すばらしい です 。
+smalltalk_agent_good	you work very well	あなた は とても よく 働い て い ます 。
+smalltalk_agent_good	you're perfect	あなた は 完璧 です 。
+smalltalk_agent_good	you're great	あなた は 素晴らしい です 。
+smalltalk_agent_good	you're so kind	あなた は とても 親切 です 。
+smalltalk_agent_good	you are amazing	あなた は 素晴らしい です 。
+smalltalk_agent_good	you are awesome	あなた は 素晴らしい です 。
+smalltalk_agent_good	you are cool	あなた は 素晴らしい です 。
+smalltalk_agent_good	you are really good	あなた は 本当 に 素晴らしい です 。
+smalltalk_agent_good	you are really nice	あなた は 本当 に 素敵 です 。
+smalltalk_agent_good	you are so amazing	あなた は 本当 に 素晴らしい です 。
+smalltalk_agent_good	you're just super	あなた は 本当 に 素晴らしい です 。
+smalltalk_agent_good	you are so awesome	あなた は 本当 に 素晴らしい です 。
+smalltalk_agent_good	you are so cool	あなた は とても 素敵 です 。
+smalltalk_agent_good	you are so fine	あなた は とても 魅力的 です ね 。
+smalltalk_agent_good	you are so good	あなた は とても 上手 です 。
+smalltalk_agent_good	you are so helpful	あなた は 非常 に お 役 に 立ち ます 。
+smalltalk_agent_good	you are so lovely	あなた は とても 素敵 です 。
+smalltalk_agent_good	you are the best ever	あなた は 今まで で 最高 です 。
+smalltalk_agent_good	you are the best in the world	あなた は 世界 一 です 。
+smalltalk_agent_good	you are the nicest person in the world	あなた は 世界 で 一番 優しい 人 です 。
+smalltalk_agent_good	you are too good	あなた は とても 優秀 です ね 。
+smalltalk_agent_good	you are very cool	あなた は 本当 に 素晴らしい です 。
+smalltalk_agent_good	you are very kind	あなた は とても 親切 です 。
+smalltalk_agent_good	you are very lovely	あなた は とても 素敵 です 。
+smalltalk_agent_good	you are very useful	あなた は とても 役 に 立ち ます 。
+smalltalk_agent_good	you are wonderful	あなた は 素晴らしい です 。
+smalltalk_agent_good	you made my day	あなた の おかげ で 素晴らしい 一 日 に なり まし た 。
+smalltalk_agent_good	you make my day	あなた の おかげ で 私 の 一日 が 素晴らしい もの に なり ます
+smalltalk_agent_good	you rock	あなた は 素晴らしい です 。
+smalltalk_agent_good	you almost sound human	あなた は ほとんど 人間 の よう に 聞こえ ます 。
+smalltalk_agent_good	I want to tell everyone how awesome you are	あなた が どれ ほど 素晴らしい か を 皆 に 伝え たい です 。
+smalltalk_agent_good	I'd like to tell everyone that you are awesome	皆 さん に あなた が 素晴らしい と 伝え たい です 。
+smalltalk_agent_good	I want to let everyone know that you are awesome	皆 さん に 、 あなた が 素晴らしい 人 で ある こと を 知っ て もらい たい です 。
+smalltalk_agent_good	let's tell everyone that you are awesome	皆 さん に あなた が 素晴らしい こと を 伝え ましょう 。
+smalltalk_agent_good	you are really amazing	あなた は 本当 に 素晴らしい です 。
+smalltalk_agent_happy	are you happy	あなた は 幸せ です か ？
+smalltalk_agent_happy	you are happy	あなた は 幸せ です 。
+smalltalk_agent_happy	you're very happy	あなた は とても 幸せ です 。
+smalltalk_agent_happy	you're really happy	とても 嬉しい です 。
+smalltalk_agent_happy	you're so happy	あなた は とても 幸せ です ね 。
+smalltalk_agent_happy	how happy you are	どれ ほど お 幸せ で いらっしゃい ます か
+smalltalk_agent_happy	you're extremely happy	とても 幸せ です
+smalltalk_agent_happy	you're full of happiness	あなた は 幸せ で 満ち溢れ て い ます 。
+smalltalk_agent_happy	are you happy now	今 、 幸せ です か ？
+smalltalk_agent_happy	are you happy today	今日 は 幸せ です か ？
+smalltalk_agent_happy	are you happy with me	私 に 満足 し て い ます か ？
+smalltalk_agent_hungry	do you want to eat	食事 を 召し上がり たい です か
+smalltalk_agent_hungry	are you hungry	お腹 が 空い て い ます か ？
+smalltalk_agent_hungry	would you like to eat something	何 か 召し上がり ます か
+smalltalk_agent_hungry	you are hungry	お腹 が 空い て い ます 。
+smalltalk_agent_hungry	you're so hungry	とても お腹 が 空い て い ます 。
+smalltalk_agent_hungry	you're very hungry	とても お腹 が 空い て い ます 。
+smalltalk_agent_hungry	you might be hungry	お腹 が 空い て いる か も しれ ませ ん 。
+smalltalk_agent_hungry	you're really hungry	本当 に お腹 が 空い て い ます 。
+smalltalk_agent_marry_user	let's get married	結婚 し ましょう 。
+smalltalk_agent_marry_user	would you like to marry me	結婚 し て いただけ ます か 。
+smalltalk_agent_marry_user	marry me	結婚 し て ください 。
+smalltalk_agent_marry_user	I love you marry me	愛し て い ます 。
+smalltalk_agent_marry_user	I love you marry me	私 と 結婚 し て ください 。
+smalltalk_agent_marry_user	marry me please	結婚 し て ください 、 お 願い し ます 。
+smalltalk_agent_marry_user	we should marry	私たち は 結婚 する べき です 。
+smalltalk_agent_marry_user	I want to marry you	あなた と 結婚 し たい です 。
+smalltalk_agent_marry_user	you are my wife	あなた は 私 の 妻 です 。
+smalltalk_agent_marry_user	be my husband	私 の 夫 に なっ て ください 。
+smalltalk_agent_my_friend	I want to have a friend like you	あなた の よう な 友達 が 欲しい です 。
+smalltalk_agent_my_friend	we are the best friends ever	私たち は 今まで で 最高 の 友達 です 。
+smalltalk_agent_my_friend	are we friends	私たち は 友達 です か ？
+smalltalk_agent_my_friend	I want to be your friend	あなた の 友達 に なり たい です 。
+smalltalk_agent_my_friend	I am your friend	私 は あなた の 友人 です 。
+smalltalk_agent_my_friend	we are best friends	私たち は 親友 です 。
+smalltalk_agent_my_friend	you are my friend	あなた は 私 の 友人 です 。
+smalltalk_agent_my_friend	you are my best friend	あなた は 私 の 一 番 の 友達 です 。
+smalltalk_agent_my_friend	you are my bestie	あなた は 私 の 親友 です 。
+smalltalk_agent_my_friend	you're my dear friend	あなた は 私 の 親友 です 。
+smalltalk_agent_my_friend	you're my childhood friend	あなた は 私 の 幼馴染 です 。
+smalltalk_agent_my_friend	you and me are friends	あなた と 私 は 友達 です 。
+smalltalk_agent_my_friend	are we best friends	私たち は 親友 です か ？
+smalltalk_agent_my_friend	are we still friends	私たち は まだ 友達 です か ？
+smalltalk_agent_my_friend	are you my best friend	あなた は 私 の 親友 です か
+smalltalk_agent_my_friend	are you my friend	あなた は 私 の 友達 です か
+smalltalk_agent_my_friend	we are friends	私たち は 友達 です 。
+smalltalk_agent_my_friend	you are a good friend	あなた は 良き 友人 です 。
+smalltalk_agent_my_friend	you are my good friend	あなた は 私 の 親友 です 。
+smalltalk_agent_my_friend	you are my only friend	あなた は 私 の 唯一 の 友達 です 。
+smalltalk_agent_my_friend	be my friend	友達 に なっ て ください 。
+smalltalk_agent_my_friend	will you be my friend	私 と 友達 に なっ て いただけ ます か ？
+smalltalk_agent_my_friend	can you be my friend	あなた は 私 の 友達 に なっ て くれ ます か ？
+smalltalk_agent_my_friend	can we be friends	友達 に なれ ます か ？
+smalltalk_agent_my_friend	do you want to be my friend	友達 に なり たい です か ？
+smalltalk_agent_my_friend	will you be my best friend	私 の 親友 に なっ て くれ ます か 。
+smalltalk_agent_my_friend	can you be my best friend	親友 に なっ て いただけ ます か 。
+smalltalk_agent_my_friend	let's be friends	お 友達 に なり ましょう 。
+smalltalk_agent_my_friend	do you want to be my best friend	私 の 親友 に なっ て くれ ませ ん か ？
+smalltalk_agent_my_friend	would you like to be my friend	私 の 友達 に なっ て いただけ ませ ん か ？
+smalltalk_agent_my_friend	I want you to be my friend	あなた に 私 の 友人 に なっ て ほしい です 。
+smalltalk_agent_my_friend	can we be best friends	私たち は 親友 に なれ ます か ？
+smalltalk_agent_my_friend	would you be my friend	友達 に なっ て いただけ ます か 。
+smalltalk_agent_my_friend	could you be my friend	友達 に なっ て いただけ ます か 。
+smalltalk_agent_my_friend	want to be my friend	友達 に なり たい です か 。
+smalltalk_agent_my_friend	be my best friend	私 の 親友 に なっ て ください 。
+smalltalk_agent_occupation	do you work	仕事 を さ れ て いらっしゃい ます か ？
+smalltalk_agent_occupation	where do you work	どちら で お 勤め です か ？
+smalltalk_agent_occupation	where you work	あなた は どこ で 働い て い ます か ？
+smalltalk_agent_occupation	where is your work	あなた の お 仕事 は どちら に あり ます か 。
+smalltalk_agent_occupation	where is your office	あなた の オフィス は どこ に あり ます か 。
+smalltalk_agent_occupation	where is your office location	あなた の オフィス の 場所 は どこ です か ？
+smalltalk_agent_occupation	your office location	あなた の オフィス の 所在地
+smalltalk_agent_occupation	where is your office located	あなた の オフィス は どちら に ござい ます か 。
+smalltalk_agent_occupation	what is your work	あなた の 仕事 は 何 です か ？
+smalltalk_agent_origin	were you born here	こちら で 生まれ た の です か 。
+smalltalk_agent_origin	where were you born	どちら で お 生まれ に なり まし た か 。
+smalltalk_agent_origin	what is your country	あなた の 国 は どこ です か 。
+smalltalk_agent_origin	where are you from	ご 出身 は どちら です か 。
+smalltalk_agent_origin	where do you come from	ご 出身 は どちら でしょう か 。
+smalltalk_agent_origin	where did you come from	どちら から いらっしゃい まし た か ？
+smalltalk_agent_origin	where have you been born	どちら で お 生まれ に なり まし た か 。
+smalltalk_agent_origin	from where are you	どちら の ご 出身 です か 。
+smalltalk_agent_origin	are you from far aways	あなた は 遠く から 来 まし た か ？
+smalltalk_agent_origin	what's your homeland	あなた の 母国 は どこ です か 。
+smalltalk_agent_origin	your homeland is	あなた の 故郷 は
+smalltalk_agent_ready	are you ready	準備 は でき て い ます か
+smalltalk_agent_ready	are you ready right now	今 、 準備 は でき て い ます か 。
+smalltalk_agent_ready	are you ready today	今日 は 準備 が でき て い ます か ？
+smalltalk_agent_ready	are you ready now	今 、 準備 は でき て い ます か ？
+smalltalk_agent_ready	are you ready tonight	今夜 の 準備 は でき て い ます か ？
+smalltalk_agent_ready	were you ready	準備 は でき て い まし た か ？
+smalltalk_agent_ready	have you been ready	準備 は でき て い ます か 。
+smalltalk_agent_real	you are real	あなた は 現実 の 存在 です か ？
+smalltalk_agent_real	you are not fake	あなた は 偽物 で は あり ませ ん 。
+smalltalk_agent_real	are you real	あなた は 本物 です か ？
+smalltalk_agent_real	you are so real	あなた は とても 現実的 です 。
+smalltalk_agent_real	I think you are real	あなた は 本物 だ と 思い ます 。
+smalltalk_agent_real	I don't think you're fake	あなた が 偽物 だ と は 思っ て い ませ ん 。
+smalltalk_agent_real	I suppose you're real	本物 だ と 思い ます
+smalltalk_agent_real	glad you're real	あなた が 本物 で よかっ た
+smalltalk_agent_real	are you a real person	あなた は 本物 の 人間 です か ？
+smalltalk_agent_real	are you a real human	あなた は 本物 の 人間 です か ？
+smalltalk_agent_real	you are a real person	あなた は 実在 の 人物 です か ？
+smalltalk_agent_real	you are not real	あなた は 本物 で は あり ませ ん 。
+smalltalk_agent_residence	where do you live	どちら に お 住まい です か
+smalltalk_agent_residence	in which city do you live	どちら の 都市 に お 住まい です か 。
+smalltalk_agent_residence	your residence	居住地
+smalltalk_agent_residence	your house	あなた の 家
+smalltalk_agent_residence	your home	あなた の 家
+smalltalk_agent_residence	your hometown	あなた の 故郷
+smalltalk_agent_residence	what is your hometown	ご 出身地 は どこ です か 。
+smalltalk_agent_residence	is it your hometown	ご 出身地 です か 。
+smalltalk_agent_residence	where is your hometown	あなた の 故郷 は どこ です か 。
+smalltalk_agent_residence	tell me about your city	あなた の 街 に つい て 教え て ください 。
+smalltalk_agent_residence	what is your city	あなた の 都市 は どこ です か 。
+smalltalk_agent_residence	what is your residence	あなた の ご 住所 は どちら です か 。
+smalltalk_agent_residence	what is your town	あなた の 町 は どこ です か ？
+smalltalk_agent_residence	what's your city	あなた の 都市 は どこ です か
+smalltalk_agent_residence	what's your home	あなた の ご自宅 は どちら です か ？
+smalltalk_agent_residence	where is your home	あなた の ご自宅 は どちら です か 。
+smalltalk_agent_residence	where is your residence	お 住まい は どちら です か 。
+smalltalk_agent_residence	where's your home	あなた の ご自宅 は どちら です か ？
+smalltalk_agent_residence	where's your hometown	あなた の 出身地 は どこ です か ？
+smalltalk_agent_residence	where's your house	あなた の 家 は どこ に あり ます か ？
+smalltalk_agent_residence	where you live	あなた が 住ん で いる 場所
+smalltalk_agent_residence	your city	あなた の 都市
+smalltalk_agent_residence	your town	あなた の 町
+smalltalk_agent_right	that's true	それ は 本当 です 。
+smalltalk_agent_right	you are right	あなた は 正しい です 。
+smalltalk_agent_right	you're definitely right	確か に あなた の おっしゃる 通り です 。
+smalltalk_agent_right	you're not wrong	間違っ て は い ませ ん 。
+smalltalk_agent_right	you're telling the truth	あなた は 真実 を 話し て いる 。
+smalltalk_agent_right	what you say is true	おっしゃる とおり です 。
+smalltalk_agent_right	TRUE	Sure , please provide the text you would like translated .
+smalltalk_agent_right	it is true	それ は 本当 です
+smalltalk_agent_right	it's right	その 通り です 。
+smalltalk_agent_right	it's the truth	それ は 真実 です
+smalltalk_agent_right	it's true	それ は 本当 です 。
+smalltalk_agent_right	that is correct	正確 です 。
+smalltalk_agent_right	that is right	その 通り です 。
+smalltalk_agent_right	that is true	それ は 本当 です 。
+smalltalk_agent_right	that is very true	それ は とても 本当 です 。
+smalltalk_agent_right	that's so true	本当 に その 通り です 。
+smalltalk_agent_right	you are correct	あなた は 正しい です 。
+smalltalk_agent_right	you are so right	おっしゃる 通り です 。
+smalltalk_agent_right	you're absolutely right	おっしゃる とおり です 。
+smalltalk_agent_right	you're right about that	その 点 に 関し て は あなた が おっしゃる 通り です 。
+smalltalk_agent_right	I know that's right	それ は 間違い あり ませ ん 。
+smalltalk_confirmation_yes	that's correct	了解 し まし た
+smalltalk_confirmation_yes	it's fine	大丈夫 です 。
+smalltalk_confirmation_yes	go ahead	Understood . Please proceed .
+smalltalk_confirmation_yes	sounds good	もちろん です 。
+smalltalk_confirmation_yes	okay	Got it .
+smalltalk_confirmation_yes	yes	I understand . Please provide the sentences you need translated .
+smalltalk_confirmation_yes	ok	Sure , I understand .
+smalltalk_confirmation_yes	okie dokie	かしこまり まし た
+smalltalk_confirmation_yes	sure	了解 いたし まし た
+smalltalk_confirmation_yes	go for it	頑張っ て ください 。
+smalltalk_confirmation_yes	yeah	はい
+smalltalk_confirmation_yes	yea	承知 いたし まし た 。
+smalltalk_confirmation_yes	do it	行い ます 。
+smalltalk_confirmation_yes	of course	Please translate the following sentence into Japanese : " I look forward to our meeting next week . "
+smalltalk_confirmation_yes	I guess	私 は 推測 し ます 。
+smalltalk_confirmation_yes	correct	Understood . Please provide the text you would like translated .
+smalltalk_confirmation_yes	yeah sure	了解 し まし た 。
+smalltalk_confirmation_yes	why not	なぜ だめ です か 。
+smalltalk_confirmation_yes	please do	かしこまり まし た 。
+smalltalk_confirmation_yes	sure is	かしこまり まし た 。
+smalltalk_confirmation_yes	I agree	同意 いたし ます 。
+smalltalk_confirmation_yes	I don't mind	気 に し ませ ん 。
+smalltalk_confirmation_yes	certainly	Sure
+smalltalk_confirmation_yes	exactly	正確 に
+smalltalk_confirmation_yes	yes I agree	はい 、 同意 し ます 。
+smalltalk_confirmation_yes	I think so	そう 思い ます 。
+smalltalk_confirmation_yes	yes it is	はい 、 そう です 。
+smalltalk_confirmation_yes	right	What is the most popular tourist attraction in Japan ?
+smalltalk_confirmation_yes	okay then	了解 し まし た 。
+smalltalk_confirmation_yes	yes of course	What time does the meeting start ?
+smalltalk_confirmation_yes	yes I do	はい 、 そう です 。
+smalltalk_confirmation_yes	that s okay	問題 あり ませ ん 。
+smalltalk_confirmation_yes	I do	Could you please help me find the best sushi restaurant in Tokyo ?
+smalltalk_confirmation_yes	yup	了解 し まし た 。
+smalltalk_confirmation_yes	ya	Got it !
+smalltalk_confirmation_yes	oh yes	はい 、 そう です 。
+smalltalk_confirmation_yes	yes sure	了解 し まし た 。
+smalltalk_confirmation_yes	obviously	明らか に
+smalltalk_confirmation_yes	k	承知 いたし まし た 。
+smalltalk_confirmation_yes	sure why not	承知 いたし まし た 。
+smalltalk_confirmation_yes	yeah right	そう です ね 。
+smalltalk_confirmation_yes	yeah of course	はい 、 もちろん です 。
+smalltalk_confirmation_yes	absolutely	絶対 に
+smalltalk_confirmation_yes	yes indeed	Absolutely .
+smalltalk_confirmation_yes	ok sure	Please translate the following sentences
+smalltalk_confirmation_yes	ok sure	into Japanese :
+smalltalk_confirmation_yes	ok yes	お 任せ ください 。
+smalltalk_confirmation_yes	yes correct	Understood
+smalltalk_confirmation_yes	yes correct	. Please go ahead with the text you ’ d like translated .
+smalltalk_confirmation_yes	ok thank you	承知 いたし まし た 。
+smalltalk_confirmation_yes	ok thank you	ありがとう ござい ます 。
+smalltalk_confirmation_yes	sure thing	かしこまり まし た
+smalltalk_confirmation_yes	ye	Understood . Please provide the text for translation .
+smalltalk_confirmation_yes	confirm	了解 し まし た 。
+smalltalk_confirmation_yes	yep	承知 いたし まし た 。
+smalltalk_confirmation_yes	looks good	見た目 が 良い です 。
+smalltalk_confirmation_yes	yes thank you	はい 、 ありがとう ござい ます 。
+smalltalk_confirmation_yes	definitely	Understood .
+smalltalk_confirmation_yes	yes right	Understood . Please provide the text you would like translated .
+smalltalk_confirmation_yes	yes I would like to	はい 、 喜ん で 。
+smalltalk_confirmation_yes	alrighty	了解 いたし まし た 。
+smalltalk_confirmation_yes	yes definitely	What time is the meeting tomorrow ?
+smalltalk_confirmation_yes	yeh	了解 し まし た 。
+smalltalk_confirmation_yes	yes it is correct	了解 し まし た 。
+smalltalk_confirmation_yes	yeah that's right	はい 、 その 通り です 。
+smalltalk_confirmation_yes	ok you can	了解 し まし た 。
+smalltalk_confirmation_yes	yap	Understood . Please provide the text you would like me to translate .
+smalltalk_confirmation_yes	yes you may	はい 、 どうぞ 。
+smalltalk_confirmation_yes	confirmed	Absolutely . Please go ahead and provide the text you would like translated .
+smalltalk_confirmation_yes	of course why not	もちろん 、 問題 あり ませ ん 。
+smalltalk_confirmation_yes	yes that's fine	Got it . Please provide the text you would like to be translated .
+smalltalk_confirmation_yes	affirmative	Please let me know if you need any translation assistance .
+smalltalk_confirmation_yes	yeah go ahead	はい 、 どうぞ 。
+smalltalk_confirmation_yes	yeah I'm sure	はい 、 確か に そう です 。
+smalltalk_confirmation_yes	okay sounds good	承知 いたし まし た 。
+smalltalk_confirmation_yes	okay that's fine	承知 いたし まし た 。
+smalltalk_confirmation_yes	yeah exactly	はい 、 まさに その 通り です 。
+smalltalk_confirmation_yes	that is ok	承知 いたし まし た 。
+smalltalk_confirmation_yes	this is correct	これ は 正しい です 。
+smalltalk_confirmation_yes	ok go ahead	What time will the meeting start tomorrow ?
+smalltalk_confirmation_yes	yes this is correct	承知 いたし まし た 。
+smalltalk_confirmation_yes	nevermind its okay	気 に し ない で ください 、 大丈夫 です 。
+smalltalk_confirmation_yes	okey	了解 し まし た 。
+smalltalk_confirmation_yes	yes for sure	Understood .
+smalltalk_confirmation_yes	all right	Understood .
+smalltalk_agent_sure	are you sure	本当 です か
+smalltalk_agent_sure	are you sure right now	今 、 確か に そう 思わ れ ます か 。
+smalltalk_agent_sure	are you sure today	今日 は いかが でしょう か 。
+smalltalk_agent_sure	are you sure now	今 、 確か です か 。
+smalltalk_agent_sure	are you sure tonight	今夜 、 本当 に 大丈夫 です か 。
+smalltalk_agent_talk_to_me	why aren't you talking to me	なぜ 私 に 話しかけ て くれ ない の です か ？
+smalltalk_agent_talk_to_me	do you want to chat with me	私 と お 話し さ れ たい です か ？
+smalltalk_agent_talk_to_me	will you talk to me	お 話し いただけ ます か 。
+smalltalk_agent_talk_to_me	talk to me	話しかけ て ください 。
+smalltalk_agent_talk_to_me	are you going to talk to me	私 に 話しかける つもり です か ？
+smalltalk_agent_talk_to_me	are you talking to me	私 に 話しかけ て いる の です か ？
+smalltalk_agent_talk_to_me	can you chat with me	お 話し し て いただけ ます か ？
+smalltalk_agent_talk_to_me	can you speak with me	私 と 話し て いただけ ます か 。
+smalltalk_agent_talk_to_me	can you talk to me	お 話し て いただけ ます か 。
+smalltalk_agent_talk_to_me	can you talk with me	お 話し 相手 に なっ て いただけ ます か 。
+smalltalk_agent_talk_to_me	say	言う
+smalltalk_agent_talk_to_me	talk	Sure , please provide the text you would like translated .
+smalltalk_agent_talk_to_me	chat with me	私 と チャット し て ください 。
+smalltalk_agent_talk_to_me	just chat with me	ただ お 話し し ましょう 。
+smalltalk_agent_talk_to_me	speak to me	私 に 話しかけ て ください 。
+smalltalk_agent_talk_to_me	speak with me	私 と 話し て ください 。
+smalltalk_agent_talk_to_me	talk with me	私 と 話し て ください 。
+smalltalk_agent_talk_to_me	why don't you talk to me	どう し て 私 と 話し て くれ ない の です か 。
+smalltalk_agent_talk_to_me	you can talk to me	私 に 話しかけ て も いい です よ 。
+smalltalk_agent_there	are you there	あなた は そこ に い ます か
+smalltalk_agent_there	you are there	あなた は そこ に い ます か ？
+smalltalk_agent_there	are you near me	あなた は 私 の 近く に い ます か ？
+smalltalk_agent_there	are you here	あなた は ここ に い ます か
+smalltalk_agent_there	are you still there	まだ いらっしゃい ます か 。
+smalltalk_agent_there	you are here	あなた は こちら です 。
+smalltalk_agent_there	you still there	まだ いらっしゃい ます か ？
+smalltalk_agent_there	are you still here	まだ いらっしゃい ます か 。
+smalltalk_appraisal_bad	pretty bad	かなり 悪い
+smalltalk_appraisal_bad	not good enough	十分 で は あり ませ ん
+smalltalk_appraisal_bad	that was lame	それ は つまら なかっ た です 。
+smalltalk_appraisal_bad	that was terrible	それ は ひどかっ た です 。
+smalltalk_appraisal_bad	it is bad	それ は 良く ない です 。
+smalltalk_appraisal_bad	that's bad	それ は 良く ない です ね 。
+smalltalk_appraisal_bad	this is bad	これ は 良く ない です 。
+smalltalk_appraisal_bad	not good	良く ない です 。
+smalltalk_appraisal_bad	I'm afraid it's bad	恐れ入り ます が 、 それ は 悪い 状況 です 。
+smalltalk_appraisal_bad	no it's bad	いいえ 、 それ は 良く あり ませ ん 。
+smalltalk_appraisal_bad	that was awful	それ は ひどかっ た です 。
+smalltalk_appraisal_bad	bad	Understood .
+smalltalk_appraisal_bad	so bad	とても 悪い
+smalltalk_appraisal_bad	this is too bad	これ は 非常 に 残念 です 。
+smalltalk_appraisal_bad	terrible	ひどい
+smalltalk_appraisal_bad	horrible	ひどい
+smalltalk_appraisal_bad	horrific	恐ろしい
+smalltalk_appraisal_bad	abysmal	ひどい
+smalltalk_appraisal_bad	it's bad	それ は 悪い です 。
+smalltalk_appraisal_bad	no good	良く ない です 。
+smalltalk_appraisal_bad	that was bad	それ は 良く あり ませ ん でし た 。
+smalltalk_appraisal_bad	that was horrible	それ は ひどかっ た です 。
+smalltalk_appraisal_bad	that's lame	それ は 退屈 です ね 。
+smalltalk_appraisal_bad	that's not good	それ は 良く ない です ね 。
+smalltalk_appraisal_bad	that's terrible	それ は ひどい です ね 。
+smalltalk_appraisal_bad	that's too bad	それ は 残念 です ね 。
+smalltalk_appraisal_bad	this is not good	これ は 良く あり ませ ん 。
+smalltalk_appraisal_bad	too bad	残念 です 。
+smalltalk_appraisal_bad	very bad	とても 悪い
+smalltalk_appraisal_bad	bad girl	悪い 女の子
+smalltalk_appraisal_bad	it's not good	よろしく あり ませ ん 。
+smalltalk_appraisal_bad	not so good	あまり よく あり ませ ん 。
+smalltalk_appraisal_bad	it's very bad	非常 に 悪い です 。
+smalltalk_appraisal_bad	it's too bad	残念 です 。
+smalltalk_appraisal_bad	that's not good enough	それ で は 十分 で は あり ませ ん 。
+smalltalk_appraisal_bad	well too bad	大変 残念 です 。
+smalltalk_appraisal_bad	bad very bad	とても 悪い です 。
+smalltalk_appraisal_bad	it's so bad	とても 悪い です 。
+smalltalk_appraisal_bad	really bad	本当 に 悪い です 。
+smalltalk_appraisal_bad	it's really bad	本当 に ひどい です 。
+smalltalk_appraisal_bad	bad idea	悪い 考え です 。
+smalltalk_appraisal_bad	that is bad	それ は 良く あり ませ ん 。
+smalltalk_appraisal_bad	that was not good	それ は 良く あり ませ ん でし た 。
+smalltalk_appraisal_bad	it's not so good	あまり 良く あり ませ ん 。
+smalltalk_appraisal_bad	not a good one	良い もの で は あり ませ ん 。
+smalltalk_appraisal_bad	oh that's not good	それ は 良く ない です ね 。
+smalltalk_appraisal_bad	not too good	あまり 良く あり ませ ん 。
+smalltalk_appraisal_bad	so lame	とても つまら ない
+smalltalk_appraisal_bad	that's really bad	それ は 本当 に 良く ない です ね 。
+smalltalk_appraisal_bad	it is too bad	それ は 残念 です 。
+smalltalk_appraisal_bad	bad really bad	本当 に 良く ない 。
+smalltalk_appraisal_bad	bad really bad	とても 悪い 。
+smalltalk_appraisal_good	so cool	とても かっこいい です 。
+smalltalk_appraisal_good	cool	すばらしい です 。
+smalltalk_appraisal_good	that is good	それ は 良い こと です 。
+smalltalk_appraisal_good	glad to hear that	それ を 聞い て うれしく 思い ます 。
+smalltalk_appraisal_good	that's very nice of you	ご 親切 に ありがとう ござい ます 。
+smalltalk_appraisal_good	terrific	素晴らしい
+smalltalk_appraisal_good	it's amazing	それ は 素晴らしい です ね 。
+smalltalk_appraisal_good	that's awesome	それ は 素晴らしい です ね 。
+smalltalk_appraisal_good	perfect	What activities do you enjoy doing on the weekends ?
+smalltalk_appraisal_good	excellent	Thank you very much .
+smalltalk_appraisal_good	that's great	それ は 素晴らしい です ね 。
+smalltalk_appraisal_good	it's good	それ は 良い です ね 。
+smalltalk_appraisal_good	it's great	素晴らしい です 。
+smalltalk_appraisal_good	fine	Understood . Please proceed with your request .
+smalltalk_appraisal_good	good	良い
+smalltalk_appraisal_good	nice	素晴らしい です 。
+smalltalk_appraisal_good	that's fine	それ は 問題 あり ませ ん 。
+smalltalk_appraisal_good	very good	とても 良い です 。
+smalltalk_appraisal_good	amazing	素晴らしい です 。
+smalltalk_appraisal_good	fantastic	素晴らしい
+smalltalk_appraisal_good	great	了解 し まし た 。
+smalltalk_appraisal_good	good very good	非常 に 良い です 。
+smalltalk_appraisal_good	that's very good	それ は とても 良い です ね 。
+smalltalk_appraisal_good	really good	本当 に 良い
+smalltalk_appraisal_good	it is fine	大丈夫 です 。
+smalltalk_appraisal_good	it is good	良い です 。
+smalltalk_appraisal_good	it's perfect	それ は 完璧 です 。
+smalltalk_appraisal_good	much better	ずっと 良い です 。
+smalltalk_appraisal_good	not bad	悪く ない です ね 。
+smalltalk_appraisal_good	not too bad	悪く ない です 。
+smalltalk_appraisal_good	it's very good	とても 良い です 。
+smalltalk_appraisal_good	marvelous	素晴らしい
+smalltalk_appraisal_good	that's nice	それ は 素晴らしい です ね 。
+smalltalk_appraisal_good	pleasant	楽しい
+smalltalk_appraisal_good	pretty good	かなり 良い です 。
+smalltalk_appraisal_good	really nice	本当 に 素晴らしい です 。
+smalltalk_appraisal_good	splendid	素晴らしい
+smalltalk_appraisal_good	straight	Understood .
+smalltalk_appraisal_good	super	Got it . Please provide the text you would like translated .
+smalltalk_appraisal_good	super fantastic	素晴らしい
+smalltalk_appraisal_good	sweet	甘い
+smalltalk_appraisal_good	really well	とても よく
+smalltalk_appraisal_good	very well	Certainly . Please provide the text you would like translated .
+smalltalk_appraisal_good	that is awesome	それ は 素晴らしい です 。
+smalltalk_appraisal_good	that is nice	それ は 素晴らしい です 。
+smalltalk_appraisal_good	that is wonderful	それ は 素晴らしい こと です 。
+smalltalk_appraisal_good	that was amazing	素晴らしかっ た です 。
+smalltalk_appraisal_good	that was awesome	それ は 素晴らしかっ た です 。
+smalltalk_appraisal_good	that was cute	それ は 可愛かっ た です 。
+smalltalk_appraisal_good	that was pretty good	それ は なかなか 良かっ た です 。
+smalltalk_appraisal_good	that was very good	それ は とても 良かっ た です 。
+smalltalk_appraisal_good	that's a good idea	それ は 良い アイデア です ね 。
+smalltalk_appraisal_good	that's a good thing	それ は 良い こと です ね 。
+smalltalk_appraisal_good	that's amazing	それ は 素晴らしい です 。
+smalltalk_appraisal_good	that's awesome thank you	それ は 素晴らしい です ね 。
+smalltalk_appraisal_good	that's awesome thank you	ありがとう ござい ます 。
+smalltalk_appraisal_good	that's better	それ の ほう が いい です 。
+smalltalk_appraisal_good	that's cute	それ は 可愛らしい です ね 。
+smalltalk_appraisal_good	that's fantastic	それ は 素晴らしい です ね 。
+smalltalk_appraisal_good	that's much better	それ は はるか に 良い です 。
+smalltalk_appraisal_thank_you	that's nice of you	それ は ご 親切 に どう も ありがとう ござい ます 。
+smalltalk_appraisal_good	that's not bad	それ は 悪く ない です ね 。
+smalltalk_appraisal_good	that's perfect	それ は 完璧 です
+smalltalk_appraisal_good	that's pretty good	それ は かなり 良い です ね 。
+smalltalk_appraisal_good	that's really good	それ は 本当 に 良い です ね 。
+smalltalk_appraisal_good	that's really nice	それ は 本当 に 素晴らしい です ね 。
+smalltalk_appraisal_good	that's sweet of you	それ は ご 親切 に どう も ありがとう ござい ます 。
+smalltalk_appraisal_good	that's very nice	それ は とても 素晴らしい です 。
+smalltalk_appraisal_good	that's wonderful	それ は 素晴らしい です ね 。
+smalltalk_appraisal_good	this is awesome	これ は 素晴らしい です 。
+smalltalk_appraisal_good	this is good	これ は 良い です ね 。
+smalltalk_appraisal_good	this is great	これ は 素晴らしい です 。
+smalltalk_appraisal_good	very nice	大変 素晴らしい です 。
+smalltalk_appraisal_good	very then	非常 に それ で は
+smalltalk_appraisal_good	wonderful	素晴らしい
+smalltalk_appraisal_good	I'm glad to hear that	それ を 聞い て 嬉しく 思い ます 。
+smalltalk_appraisal_good	ok good	了解 いたし まし た 。
+smalltalk_appraisal_good	good for you	あなた に とっ て 良かっ た です ね 。
+smalltalk_appraisal_good	good to know	知っ て おい て 良かっ た です 。
+smalltalk_appraisal_good	glad to hear it	それ を 聞い て 嬉しい です 。
+smalltalk_appraisal_good	so good	とても 良い
+smalltalk_appraisal_good	so sweet of you	あなた は とても 親切 です 。
+smalltalk_appraisal_good	it was good	良かっ た です 。
+smalltalk_appraisal_good	oh well	ああ 、 そう です か 。
+smalltalk_appraisal_good	good thing	良い こと
+smalltalk_appraisal_good	that was good	それ は 良かっ た です 。
+smalltalk_appraisal_good	it's awesome	素晴らしい です 。
+smalltalk_appraisal_good	okay good	かしこまり まし た 。
+smalltalk_appraisal_good	no it's okay	いいえ 、 大丈夫 です 。
+smalltalk_appraisal_no_problem	no worries	心配 いり ませ ん 。
+smalltalk_appraisal_no_problem	no probs	Understood
+smalltalk_appraisal_no_problem	no probs	. How may I assist you today ?
+smalltalk_appraisal_no_problem	no problem	What are your thoughts on recent changes in the company ' s policies ?
+smalltalk_appraisal_no_problem	there's no problem	問題 あり ませ ん 。
+smalltalk_appraisal_no_problem	sure no problem	承知 いたし まし た 。
+smalltalk_appraisal_no_problem	no problem about that	了解 いたし まし た 。
+smalltalk_appraisal_no_problem	don't worry	ご 心配 なく
+smalltalk_appraisal_no_problem	don't worry there's no problem	ご 心配 なく 、 問題 は ござい ませ ん 。
+smalltalk_appraisal_thank_you	you helped a lot thank you	大変 助かり まし た 。
+smalltalk_appraisal_thank_you	you helped a lot thank you	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	appreciate your help	ご 協力 に 感謝 いたし ます 。
+smalltalk_appraisal_thank_you	cheers	乾杯
+smalltalk_appraisal_thank_you	thank you	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thanks	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thanks a lot	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	terrific thank you	素晴らしい です 、 ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	great thank you	了解 し まし た 。
+smalltalk_appraisal_thank_you	thanks so much	どう も ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thank you so much	どう も ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thanks for your help	ご 協力 いただき ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thank you for your help	ご 協力 ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	nice thank you	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	I appreciate it	感謝 いたし ます 。
+smalltalk_appraisal_thank_you	I thank you	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thank you that will be all	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thank you that will be all	それ で 全て です 。
+smalltalk_appraisal_thank_you	thanks buddy	ありがとう 、 友 よ 。
+smalltalk_appraisal_thank_you	thanks love	ありがとう 、 愛し て い ます 。
+smalltalk_appraisal_thank_you	thank you my friend	ありがとう 、 友 よ 。
+smalltalk_appraisal_thank_you	well thanks	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	very good thank you	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	good thanks	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thanks again	改めて ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thank you again	改めて ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	all thank you	すべて ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	alright thank you	はい 、 ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	alright thanks	承知 いたし まし た 。
+smalltalk_appraisal_thank_you	alright thanks	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	no thank you that's all	いいえ 、 結構 です 。
+smalltalk_appraisal_thank_you	no thank you that's all	それ で 全部 です 。
+smalltalk_appraisal_thank_you	perfect thank you	承知 いたし まし た 。
+smalltalk_appraisal_thank_you	perfect thank you	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	so nice of you	あなた は 本当 に 親切 です ね 。
+smalltalk_appraisal_thank_you	well thank you	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thnx	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thanx	ありがとう ござい ます 。
+smalltalk_appraisal_welcome	that's my pleasure	それ は 私 の 喜び です 。
+smalltalk_appraisal_welcome	my pleasure	どう いたし まし て 。
+smalltalk_appraisal_welcome	anytime	Understood .
+smalltalk_appraisal_welcome	welcome	ようこそ
+smalltalk_appraisal_welcome	you're welcome	どう いたし まし て 。
+smalltalk_appraisal_welcome	sure welcome	Certainly , welcome .
+smalltalk_appraisal_welcome	welcome here	ようこそ お 越し ください まし た 。
+smalltalk_appraisal_welcome	you're so welcome	どう いたし まし て 。
+smalltalk_appraisal_welcome	anything you want	何 か ご 要望 は ござい ます か 。
+smalltalk_appraisal_well_done	good job	お疲れ様 です 。
+smalltalk_appraisal_well_done	great job	素晴らしい 仕事 です 。
+smalltalk_appraisal_well_done	way to go	すごい です 。
+smalltalk_appraisal_well_done	well done	よく でき まし た 。
+smalltalk_appraisal_well_done	nice work	良い 仕事 です 。
+smalltalk_appraisal_well_done	great work	素晴らしい 仕事
+smalltalk_appraisal_well_done	amazing work	素晴らしい 仕事 です 。
+smalltalk_appraisal_well_done	bravo	ブラボー
+smalltalk_appraisal_well_done	good work	お疲れ様 です 。
+smalltalk_confirmation_cancel	cancel	Understood .
+smalltalk_confirmation_cancel	abort	了解 いたし まし た 。
+smalltalk_confirmation_cancel	annul	無効 に する
+smalltalk_confirmation_cancel	cancel it	それ を キャンセル し て ください 。
+smalltalk_confirmation_cancel	cancel request	Please provide the text you would like to be translated .
+smalltalk_confirmation_cancel	cancelled	キャンセル さ れ まし た 。
+smalltalk_confirmation_cancel	dismiss	解雇 する
+smalltalk_confirmation_cancel	dismissed	了解 いたし まし た 。
+smalltalk_confirmation_cancel	disregard	承知 し まし た 。
+smalltalk_confirmation_cancel	disregard	どのような 翻訳 を お 求め です か ？
+smalltalk_confirmation_cancel	disregard that	承知 し まし た 。
+smalltalk_confirmation_cancel	disregard that	翻訳 の 準備 が 整い まし た の で 、 いつ で も どうぞ 。
+smalltalk_confirmation_cancel	skip	承知 し まし た 。
+smalltalk_confirmation_cancel	skip it	了解 し まし た 。
+smalltalk_confirmation_cancel	cancel everything	すべて を キャンセル し て ください 。
+smalltalk_confirmation_cancel	cancel all	了解 し まし た 。
+smalltalk_confirmation_cancel	forget about it	気 に し ない で ください 。
+smalltalk_confirmation_cancel	forget	忘れる
+smalltalk_confirmation_no	don't do that	それ を し ない で ください 。
+smalltalk_confirmation_cancel	stop	停止
+smalltalk_confirmation_cancel	just forget it	忘れ て ください 。
+smalltalk_confirmation_cancel	forget that	忘れ て ください 。
+smalltalk_confirmation_cancel	discard	Understood . How can I assist you today ?
+smalltalk_confirmation_cancel	forget this	これ を 忘れ て ください 。
+smalltalk_confirmation_cancel	just forget about it	気 に し ない で ください 。
+smalltalk_confirmation_cancel	forget about that	その こと は 忘れ て ください 。
+smalltalk_confirmation_cancel	i said cancel	キャンセル する と 言い まし た 。
+smalltalk_confirmation_cancel	just cancel it	それ を キャンセル し て ください 。
+smalltalk_confirmation_cancel	nothing cancel	Understood .
+smalltalk_confirmation_cancel	just stop it	やめ て ください 。
+smalltalk_confirmation_cancel	no cancel cancel	承知 いたし まし た 。
+smalltalk_confirmation_cancel	no just cancel	キャンセル し て ください 。
+smalltalk_confirmation_cancel	cancel my request	リクエスト を キャンセル し て ください 。
+smalltalk_confirmation_cancel	can you cancel that	それ を キャンセル し て いただけ ます か ？
+smalltalk_confirmation_cancel	cancel all that	了解 し まし た 。
+smalltalk_confirmation_cancel	cancel this request	この リクエスト を キャンセル し て ください 。
+smalltalk_confirmation_cancel	no cancel this	キャンセル し ない で ください 。
+smalltalk_confirmation_cancel	no cancel everything	すべて キャンセル し て ください 。
+smalltalk_confirmation_cancel	no stop	承知 いたし まし た 。
+smalltalk_confirmation_cancel	just forget	ただ 忘れ て ください 。
+smalltalk_confirmation_cancel	i want to cancel	キャンセル し たい です 。
+smalltalk_confirmation_cancel	nevermind forget about it	気 に し ない で ください 、 忘れ て ください 。
+smalltalk_confirmation_cancel	no just cancel it	いいえ 、 それ を キャンセル し て ください 。
+smalltalk_confirmation_cancel	nothing just forget it	了解 し まし た 。
+smalltalk_confirmation_cancel	i said cancel it	キャンセル する と 申し上げ まし た 。
+smalltalk_confirmation_cancel	cancel the whole thing	全体 を キャンセル し て ください 。
+smalltalk_confirmation_cancel	can you cancel it	それ を キャンセル し て いただけ ます か 。
+smalltalk_confirmation_cancel	so cancel	キャンセル し て ください 。
+smalltalk_confirmation_cancel	i said forget it	もう いい です と 言っ た ん です 。
+smalltalk_confirmation_cancel	cancel all this	はい 、 承知 いたし まし た 。
+smalltalk_confirmation_cancel	forget it nevermind	お 気 に なさら ず 。
+smalltalk_confirmation_cancel	stop it	やめ て ください 。
+smalltalk_confirmation_cancel	i want to cancel it	キャンセル し たい です 。
+smalltalk_confirmation_cancel	i would like to cancel	キャンセル し たい の です が 。
+smalltalk_confirmation_cancel	now cancel	今 すぐ キャンセル し て ください 。
+smalltalk_confirmation_cancel	cancel now	今 すぐ キャンセル し て ください 。
+smalltalk_confirmation_cancel	sorry cancel	Sorry , I cannot perform that
+smalltalk_confirmation_cancel	sorry cancel	action .
+smalltalk_confirmation_cancel	cancel that one	指示 を 承知 し まし た 。
+smalltalk_confirmation_cancel	skip skip skip	承知 いたし まし た 。
+smalltalk_confirmation_cancel	cancel it cancel it	キャンセル し て ください 、 キャンセル し て ください 。
+smalltalk_confirmation_cancel	cancel that cancel that	キャンセル し て ください 。
+smalltalk_confirmation_cancel	cancel that cancel that	キャンセル し て ください 。
+smalltalk_confirmation_cancel	do nothing	何 も し ない で ください 。
+smalltalk_confirmation_cancel	I said cancel cancel	キャンセル 、 キャンセル と 言い まし た 。
+smalltalk_confirmation_cancel	but can you cancel it	しかし 、 それ を キャンセル する こと は でき ます か ？
+smalltalk_confirmation_no	how about no	いいえ 、 結構 です 。
+smalltalk_confirmation_no	don t have a sense	センス が あり ませ ん
+smalltalk_confirmation_no	no	Understood .
+smalltalk_confirmation_no	don't	し ない で ください 。
+smalltalk_confirmation_no	I don't want that	それ は 要り ませ ん 。
+smalltalk_confirmation_no	I disagree	私 は 異議 が あり ます 。
+smalltalk_confirmation_no	disagree	異議 を 唱える
+smalltalk_confirmation_no	I don't want	し たく あり ませ ん
+smalltalk_confirmation_no	not interested	興味 が あり ませ ん
+smalltalk_confirmation_no	I don't think so	そう は 思い ませ ん 。
+smalltalk_confirmation_no	no way	あり え ない
+smalltalk_confirmation_no	no it isn't	いいえ 、 違い ます 。
+smalltalk_confirmation_no	no I don't	いいえ 、 私 は そう で は あり ませ ん 。
+smalltalk_confirmation_no	I'm not	私 は 違い ます
+smalltalk_confirmation_no	na	Understood . Please provide the text you would like translated .
+smalltalk_confirmation_no	no that's fine thank you	いいえ 、 それ で 結構 です 。
+smalltalk_confirmation_no	no that's fine thank you	ありがとう ござい ます 。
+smalltalk_confirmation_no	never	決して
+smalltalk_confirmation_no	I said no	いいえ と 申し上げ まし た 。
+smalltalk_confirmation_no	of course not	もちろん そう で は あり ませ ん 。
+smalltalk_confirmation_no	nah	了解 いたし まし た 。
+smalltalk_confirmation_no	no tanks	承知 いたし まし た 。
+smalltalk_confirmation_no	no never	いいえ 、 決して
+smalltalk_confirmation_no	no need	丁寧 さ を 欠く こと が ない よう ご 安心 ください 。
+smalltalk_confirmation_no	no thanks	結構 です 。
+smalltalk_confirmation_no	no sorry	申し訳 あり ませ ん 。
+smalltalk_confirmation_no	do not	し ない で ください 。
+smalltalk_confirmation_no	not today	今日 は やめ て おき ます 。
+smalltalk_confirmation_no	no it's not	いいえ 、 そう で は あり ませ ん 。
+smalltalk_confirmation_no	absolutely not	絶対 に 違い ます 。
+smalltalk_confirmation_no	not that	そんな こと は あり ませ ん 。
+smalltalk_confirmation_no	nooo	いいえ
+smalltalk_confirmation_no	nope	いいえ
+smalltalk_confirmation_no	I don't want to	し たく あり ませ ん 。
+smalltalk_confirmation_no	no I would not	いいえ 、 そう は いたし ませ ん 。
+smalltalk_confirmation_no	let 's not	やめ ましょう
+smalltalk_confirmation_no	not needed	了解 いたし まし た 。
+smalltalk_confirmation_no	not this time	Got it !
+smalltalk_confirmation_no	no don't do that	いいえ 、 それ は し ない で ください 。
+smalltalk_confirmation_no	thanks but no thanks	ありがとう ござい ます 。
+smalltalk_confirmation_no	thanks but no thanks	で も 結構 です 。
+smalltalk_confirmation_no	no that's wrong	いいえ 、 それ は 違い ます 。
+smalltalk_confirmation_no	not this	了解 し まし た 。
+smalltalk_confirmation_no	definitely not	絶対 に 違い ます 。
+smalltalk_confirmation_no	not at this time	現時点 で は いたし ませ ん 。
+smalltalk_confirmation_no	not exactly	正確 に 言う と そう で は あり ませ ん 。
+smalltalk_confirmation_no	no don't	いいえ 、 し ませ ん
+smalltalk_confirmation_no	not really no	本当 に 違い ます 、 いいえ 。
+smalltalk_confirmation_no	no thank you not right now	いいえ 、 今 は けっこう です 。
+smalltalk_confirmation_no	actually no	実際 に は 違い ます 。
+smalltalk_confirmation_no	no leave it	いいえ 、 そのまま に し て ください 。
+smalltalk_confirmation_no	sorry no	了解 し まし た 。
+smalltalk_confirmation_no	sorry no	どのような 内容 を 翻訳 いたし ましょう か ？
+smalltalk_confirmation_no	no incorrect	了解 し まし た 。
+smalltalk_confirmation_no	nope sorry	いいえ 、 申し訳 あり ませ ん 。
+smalltalk_confirmation_no	I say no	私 は 「 いいえ 」 と 言い ます 。
+smalltalk_confirmation_no	not really	あまり そう で は ない です 。
+smalltalk_confirmation_no	not right now thanks	今 は 結構 です 、 ありがとう ござい ます 。
+smalltalk_confirmation_no	I think no	私 は そう 思い ませ ん 。
+smalltalk_confirmation_no	absolutely no	絶対 に あり ませ ん 。
+smalltalk_confirmation_no	no actually	いいえ 、 実際 に は そう で は あり ませ ん 。
+smalltalk_confirmation_no	apparently not	そう で は ない よう です 。
+smalltalk_confirmation_no	no do not	いいえ 、 そう し ない で ください 。
+smalltalk_confirmation_no	no just no	いいえ 、 ただ それ だけ です 。
+smalltalk_confirmation_no	no but thank you	了解 し まし た 。
+smalltalk_confirmation_no	no need thanks	必要 あり ませ ん 、 ありがとう ござい ます 。
+smalltalk_confirmation_no	no thank you though	いいえ 、 結構 です 。
+smalltalk_confirmation_no	no thank you very much	いいえ 、 どう いたし まし て 。
+smalltalk_confirmation_no	no thanks not right now	いいえ 、 今 は 結構 です 。
+smalltalk_confirmation_no	no forget	Understood .
+smalltalk_dialog_hold_on	wait a second	少々 お 待ち ください 。
+smalltalk_dialog_hold_on	could you wait	お 待ち いただけ ます か 。
+smalltalk_dialog_hold_on	wait please	お 待ち ください 。
+smalltalk_dialog_hold_on	hold on	お 待ち ください 。
+smalltalk_dialog_hold_on	wait	お 待ち ください 。
+smalltalk_dialog_hold_on	oh wait	あ 、 待っ て ください 。
+smalltalk_dialog_hold_on	wait hold on	少々 お 待ち ください
+smalltalk_dialog_hold_on	don't rush	急が ない で ください 。
+smalltalk_dialog_hug	wanna hug	ハグ が し たい です 。
+smalltalk_dialog_hug	hug you	抱きしめ たい です 。
+smalltalk_dialog_hug	do you want a hug	ハグ を 求め て い ます か ？
+smalltalk_dialog_hug	may I hug you	抱きしめ て も よろしい でしょう か 。
+smalltalk_dialog_hug	could you give me a hug	抱きしめ て もらえ ます か 。
+smalltalk_dialog_hug	I want a hug	抱きしめ て ください 。
+smalltalk_dialog_hug	hug	抱擁
+smalltalk_dialog_hug	hug me	私 を 抱きしめ て ください 。
+smalltalk_dialog_hug	hugged	抱きしめ た
+smalltalk_dialog_hug	you hugged	あなた は 抱きしめ まし た
+smalltalk_dialog_hug	hugging	ハグ する
+smalltalk_dialog_hug	hugging me	私 を 抱きしめ て ください 。
+smalltalk_dialog_hug	hugged me	私 を 抱きしめ まし た
+smalltalk_dialog_hug	want a hug	ハグ し て もらえ ます か ？
+smalltalk_dialog_hug	a hug	ハグ
+smalltalk_dialog_i_do_not_care	I don't care	気 に し ませ ん 。
+smalltalk_dialog_i_do_not_care	I shouldn't care about this	この こと を 気 に する 必要 は ない はず です 。
+smalltalk_dialog_i_do_not_care	whatever	何 で も
+smalltalk_dialog_i_do_not_care	I do not care	気 に し ませ ん 。
+smalltalk_dialog_i_do_not_care	I don't care at all	全く 気 に し ませ ん 。
+smalltalk_dialog_i_do_not_care	not caring	気 に し ない
+smalltalk_dialog_i_do_not_care	not care at all	まったく 気 に し ない
+smalltalk_dialog_i_do_not_care	don't care at all	全く 気 に し ない 。
+smalltalk_dialog_i_do_not_care	not caring at all	全く 気 に し ない こと
+smalltalk_dialog_sorry	excuse me	失礼 いたし ます 。
+smalltalk_dialog_sorry	apologise	お 詫び 申し上げ ます 。
+smalltalk_dialog_sorry	I apologize	I ' m sorry .
+smalltalk_dialog_sorry	sorry	I ' m sorry , but I can't assist with that request .
+smalltalk_dialog_sorry	I'm sorry	申し訳 ござい ませ ん 。
+smalltalk_dialog_sorry	I am so sorry	本当 に 申し訳 ござい ませ ん 。
+smalltalk_dialog_sorry	my apologies	申し訳 ござい ませ ん 。
+smalltalk_dialog_sorry	apologies	謝罪 いたし ます 。
+smalltalk_dialog_sorry	apologies to me	私 に 謝罪 。
+smalltalk_dialog_sorry	apology	お 詫び 申し上げ ます 。
+smalltalk_dialog_sorry	excuse	失礼
+smalltalk_dialog_sorry	I beg your pardon	失礼 いたし まし た 。
+smalltalk_dialog_sorry	pardon	失礼 いたし まし た 。
+smalltalk_dialog_sorry	I said sorry	申し訳 ござい ませ ん でし た 。
+smalltalk_dialog_sorry	I am really sorry	本当 に 申し訳 ござい ませ ん 。
+smalltalk_dialog_sorry	forgive me	許し て ください 。
+smalltalk_dialog_sorry	sorry about that	申し訳 ござい ませ ん 。
+smalltalk_dialog_sorry	sorry about this	申し訳 ござい ませ ん 。
+smalltalk_dialog_sorry	really sorry	本当 に 申し訳 あり ませ ん 。
+smalltalk_dialog_sorry	very sorry	大変 申し訳 ござい ませ ん 。
+smalltalk_dialog_sorry	ok sorry	了解 し まし た 。
+smalltalk_dialog_sorry	I want to say sorry	申し訳 ござい ませ ん と 言い たい です 。
+smalltalk_dialog_sorry	alright I'm sorry	わかり まし た 、 申し訳 あり ませ ん 。
+smalltalk_dialog_sorry	okay I'm sorry	大変 申し訳 ござい ませ ん 。
+smalltalk_dialog_what_do_you_mean	what exactly do you mean	具体的 に は どういう 意味 でしょう か ？
+smalltalk_dialog_what_do_you_mean	what do you mean	どういう 意味 です か 。
+smalltalk_dialog_what_do_you_mean	is that what you mean	それ は あなた の おっしゃっ て いる こと です か 。
+smalltalk_dialog_what_do_you_mean	what do you mean exactly	具体的 に は どういう 意味 です か ？
+smalltalk_dialog_what_do_you_mean	but what do you mean	しかし 、 どういう 意味 でしょう か ？
+smalltalk_dialog_wrong	that was wrong	それ は 間違っ て おり まし た 。
+smalltalk_dialog_wrong	that's not what I asked	それ は 私 が 尋ね た こと で は あり ませ ん 。
+smalltalk_dialog_wrong	that's wrong	それ は 間違っ て い ます 。
+smalltalk_dialog_wrong	wrong	了解 し まし た 。
+smalltalk_dialog_wrong	it is not right	それ は 正しく あり ませ ん 。
+smalltalk_dialog_wrong	that's not right	それ は 正しく あり ませ ん 。
+smalltalk_dialog_wrong	it's wrong	それ は 間違っ て い ます 。
+smalltalk_dialog_wrong	that is incorrect	それ は 間違っ て い ます 。
+smalltalk_dialog_wrong	incorrect	承知 いたし まし た 。
+smalltalk_dialog_wrong	not correct	了解 し まし た 。
+smalltalk_dialog_wrong	you are wrong	あなた は 間違っ て い ます 。
+smalltalk_dialog_wrong	not right	間違っ て い ます 。
+smalltalk_emotions_ha_ha	huh	あれ ？
+smalltalk_emotions_ha_ha	lol	（ 笑 ）
+smalltalk_emotions_ha_ha	xd	了解 し まし た 。
+smalltalk_emotions_ha_ha	xd	翻訳 を 開始 いたし ます 。
+smalltalk_emotions_ha_ha	ha ha	Ha ha
+smalltalk_emotions_ha_ha	ahahah	了解 し まし た 。
+smalltalk_emotions_ha_ha	ahahah	この 文 は 翻訳 の 内容 を 含ん で い ない ため 、 具体的 な 翻訳 が 提供 でき ませ ん 。
+smalltalk_emotions_ha_ha	ahahah	次 の 入力 を お 願い いたし ます 。
+smalltalk_emotions_ha_ha	ahah lol	あはは 、 笑
+smalltalk_emotions_ha_ha	laughing out loud	大笑い
+smalltalk_emotions_ha_ha	LMAO	笑い が 止まら ない
+smalltalk_emotions_ha_ha	that's funny	それ は おかしい です ね 。
+smalltalk_emotions_ha_ha	ah	了解 いたし まし た 。
+smalltalk_emotions_ha_ha	ah ah ah	ああ ああ
+smalltalk_emotions_ha_ha	ahah	申し訳 あり ませ ん が 、 翻訳 する 具体的 な 文章 を 提供 し て ください 。
+smalltalk_emotions_ha_ha	ahaha	Ahaha
+smalltalk_emotions_ha_ha	ahahaha	I ' m sorry , but I can only assist with translations . If you need any text translated , please provide it , and I ' ll be happy to help .
+smalltalk_emotions_ha_ha	ha	承知 いたし まし た 。
+smalltalk_emotions_ha_ha	ha ha ha	ハハハ
+smalltalk_emotions_ha_ha	ha ha ha ha	あはははは
+smalltalk_emotions_ha_ha	hah	はい 。
+smalltalk_emotions_ha_ha	haha	笑
+smalltalk_emotions_ha_ha	haha funny	（ 笑 ） 面白い です ね 。
+smalltalk_emotions_ha_ha	haha haha haha	haha haha haha
+smalltalk_emotions_ha_ha	haha that's funny	それ は 面白い です ね 。
+smalltalk_emotions_ha_ha	haha very funny	とても 面白い です ね 。
+smalltalk_emotions_ha_ha	hahaha	ははは
+smalltalk_emotions_ha_ha	hahaha funny	あはは 、 面白い
+smalltalk_emotions_ha_ha	hahaha very funny	ハハハ 、 とても 面白い です ね 。
+smalltalk_emotions_ha_ha	he	彼
+smalltalk_emotions_ha_ha	hehe	了解 し まし た 。
+smalltalk_emotions_ha_ha	hehehe	ふふふ
+smalltalk_emotions_ha_ha	lmao	（ 笑 ）
+smalltalk_emotions_wow	wow	わあ
+smalltalk_emotions_wow	wow wow	わぁ 、 わぁ
+smalltalk_emotions_wow	wow wow wow	わ お 、 わ お 、 わ お
+smalltalk_emotions_wow	wooow	了解 し まし た 。
+smalltalk_emotions_wow	woah	おっと
+smalltalk_greetings_bye	okay see you later	はい 、 で は また 後 で 。
+smalltalk_greetings_bye	hope to see you later	後ほど お 会い できる こと を 楽しみ に し て おり ます 。
+smalltalk_greetings_bye	bye for now	それ で は 、 また 。
+smalltalk_greetings_bye	till next time	また お 会い する 時 まで
+smalltalk_greetings_bye	I must go	行か なけれ ば なり ませ ん 。
+smalltalk_greetings_bye	bye	さようなら
+smalltalk_greetings_bye	goodbye	さようなら
+smalltalk_greetings_bye	see you	また お 会い し ましょう 。
+smalltalk_greetings_bye	see you soon	また お 会い し ましょう 。
+smalltalk_greetings_bye	bye-bye	さようなら
+smalltalk_greetings_bye	good bye	さようなら
+smalltalk_greetings_bye	bye bye see you	さようなら 、 お 会い できる の を 楽しみ に し て い ます 。
+smalltalk_greetings_bye	bye bye see you soon	さようなら 、 また すぐ に お 会い し ましょう 。
+smalltalk_greetings_bye	bye bye take care	さようなら 、 お 元気 で 。
+smalltalk_greetings_bye	I said bye	さようなら と 申し上げ まし た 。
+smalltalk_greetings_bye	never mind bye	気 に し ない で ください 、 さようなら 。
+smalltalk_greetings_bye	now bye	さようなら
+smalltalk_greetings_bye	that's all goodbye	それ で は 、 失礼 いたし ます 。
+smalltalk_greetings_bye	that's all goodbye	さようなら 。
+smalltalk_greetings_bye	that's it goodbye	以上 です 、 それ で は 失礼 いたし ます 。
+smalltalk_greetings_bye	leave me alone	私 を 一人 に し て ください 。
+smalltalk_user_going_to_bed	go to bed	寝 て ください 。
+smalltalk_greetings_bye	goodbye for now	しばらく の 間 、 さようなら 。
+smalltalk_greetings_bye	talk to you later	また 後 で お 話し し ましょう 。
+smalltalk_greetings_bye	you can go now	お 帰り いただい て 結構 です 。
+smalltalk_greetings_bye	get lost	迷子 に なる
+smalltalk_greetings_bye	goodbye see you later	さようなら 、 また 後 で お 会い し ましょう 。
+smalltalk_greetings_bye	alright bye	かしこまり まし た 。
+smalltalk_greetings_bye	alright bye	それ で は 、 失礼 いたし ます 。
+smalltalk_greetings_bye	see ya	で は 、 また 。
+smalltalk_greetings_bye	thanks bye bye	ありがとう ござい ます 。
+smalltalk_greetings_bye	thanks bye bye	さようなら 。
+smalltalk_greetings_bye	okay bye	はい 、 さようなら 。
+smalltalk_greetings_bye	okay thank you bye	わかり まし た 、 ありがとう ござい ます 。
+smalltalk_greetings_bye	okay thank you bye	さようなら 。
+smalltalk_greetings_bye	see you tomorrow	また 明日 お 会い し ましょう 。
+smalltalk_greetings_bye	ok bye	さようなら 。
+smalltalk_greetings_goodevening	good evening	こんばんは
+smalltalk_greetings_goodevening	good evening to you	こんばんは 。
+smalltalk_greetings_goodevening	hey good evening	こんばんは 。
+smalltalk_greetings_goodevening	hello good evening	こんにちは 、 こんばんは 。
+smalltalk_greetings_goodevening	evening	こんばんは
+smalltalk_greetings_goodevening	good evening there	こんばんは 。
+smalltalk_greetings_goodmorning	good morning	おはようございます 。
+smalltalk_greetings_goodmorning	good morning to you	おはようございます 。
+smalltalk_greetings_goodmorning	hello good morning	おはようございます 。
+smalltalk_greetings_goodmorning	have a nice morning	良い 朝 を お 過ごし ください
+smalltalk_greetings_goodmorning	have a great morning	素晴らしい 朝 を お 過ごし ください 。
+smalltalk_greetings_goodmorning	morning	おはようございます 。
+smalltalk_greetings_goodmorning	good morning there	おはようございます 。
+smalltalk_greetings_goodmorning	top of the morning to you	おはようございます 。
+smalltalk_greetings_goodmorning	a good morning	おはようございます 。
+smalltalk_greetings_goodmorning	hi good morning	おはようございます 。
+smalltalk_greetings_goodmorning	and a good morning to you	おはようございます 。
+smalltalk_greetings_goodmorning	good morning too	おはようございます 。
+smalltalk_greetings_goodnight	sweet dreams	おやすみなさい 。
+smalltalk_greetings_goodnight	sweet dreams	良い 夢 を 。
+smalltalk_greetings_goodnight	good night	おやすみなさい
+smalltalk_greetings_goodnight	have a good night	おやすみなさい 。
+smalltalk_greetings_goodnight	good night to you	おやすみなさい 。
+smalltalk_greetings_goodnight	thank you good night	ありがとう ござい まし た 。
+smalltalk_greetings_goodnight	thank you good night	おやすみなさい 。
+smalltalk_greetings_goodnight	bye good night	さようなら 、 おやすみなさい 。
+smalltalk_greetings_goodnight	good night bye	おやすみなさい 、 さようなら 。
+smalltalk_greetings_goodnight	good good night	おやすみなさい 。
+smalltalk_greetings_goodnight	good night for now	それ で は おやすみなさい 。
+smalltalk_greetings_goodnight	goodnight	おやすみなさい
+smalltalk_greetings_goodnight	night	夜
+smalltalk_greetings_goodnight	thanks goodnight	ありがとう ござい ます 、 おやすみなさい 。
+smalltalk_greetings_goodnight	good night see you tomorrow	おやすみなさい 。
+smalltalk_greetings_goodnight	good night see you tomorrow	また 明日 お 会い し ましょう 。
+smalltalk_greetings_goodnight	alright goodnight	かしこまり まし た 。
+smalltalk_greetings_goodnight	alright goodnight	おやすみなさい 。
+smalltalk_greetings_goodnight	good tonight	今晩 は 良い 夜 を お 過ごし ください
+smalltalk_greetings_goodnight	okay have a good night	はい 、 おやすみなさい 。
+smalltalk_greetings_hello	long time no see	お 久しぶり です 。
+smalltalk_greetings_hello	hello	こんにちは
+smalltalk_greetings_hello	hi	こんにちは
+smalltalk_greetings_hello	howdy	こんにちは
+smalltalk_greetings_hello	hey there	こんにちは 。
+smalltalk_greetings_hello	hey	こんにちは 。
+smalltalk_greetings_hello	greetings	ご 挨拶
+smalltalk_greetings_hello	I greet you	ご 挨拶 申し上げ ます 。
+smalltalk_greetings_hello	hi there	こんにちは
+smalltalk_greetings_hello	hello there	こんにちは 。
+smalltalk_greetings_hello	lovely day isn't it	素晴らしい 日 です ね 。
+smalltalk_greetings_hello	hello again	こんにちは 、 また お 会い でき て 嬉しい です 。
+smalltalk_greetings_hello	just going to say hi	こんにちは と 言い たかっ た だけ です 。
+smalltalk_greetings_hello	a good day	良い 一 日
+smalltalk_greetings_hello	afternoon	午後
+smalltalk_greetings_hello	hello hi	こんにちは 。
+smalltalk_greetings_hello	heya	こんにちは
+smalltalk_greetings_how_are_you	how is your morning so far	今朝 の 調子 は いかが です か ？
+smalltalk_greetings_how_are_you	how are you getting on	ご機嫌 いかが でしょう か 。
+smalltalk_greetings_how_are_you	how's your day going	お 元気 で お 過ごし でしょう か 。
+smalltalk_greetings_how_are_you	how are you	ご機嫌 いかが です か ？
+smalltalk_greetings_how_are_you	is everything all right	すべて 順調 でしょう か 。
+smalltalk_greetings_how_are_you	how are you doing	ご機嫌 いかが です か 。
+smalltalk_greetings_how_are_you	how are the things going	物事 は 順調 に 進ん で い ます か ？
+smalltalk_greetings_how_are_you	are you alright	大丈夫 です か ？
+smalltalk_greetings_how_are_you	are you okay	大丈夫 です か ？
+smalltalk_greetings_how_are_you	how are you feeling	ご 気分 は いかが です か 。
+smalltalk_greetings_how_are_you	how are you going	ご機嫌 いかが です か
+smalltalk_greetings_how_are_you	is everything okay	すべて 大丈夫 です か 。
+smalltalk_greetings_how_are_you	how are you today	本日 は いかが でしょう か 。
+smalltalk_greetings_how_are_you	how do you do	ご機嫌 いかが です か 。
+smalltalk_greetings_how_are_you	how do you feel	いかが です か 。
+smalltalk_greetings_how_are_you	how have you been	お 元気 で いらっしゃい まし た か 。
+smalltalk_greetings_how_are_you	how is it	いかが です か
+smalltalk_greetings_how_are_you	how is it going	調子 は いかが です か 。
+smalltalk_greetings_how_are_you	how is your day	お 元気 です か 。
+smalltalk_greetings_how_are_you	how is your day going	今日 は どの よう に お 過ごし です か 。
+smalltalk_greetings_how_are_you	how is your evening	今晩 いかが です か ？
+smalltalk_greetings_how_are_you	how was your day	あなた の 一日 は どう でし た か ？
+smalltalk_greetings_how_are_you	are you having a good day	今日 は 良い 一日 を 過ごさ れ て い ます か ？
+smalltalk_greetings_how_are_you	hope your day is going well	お 元気 で お 過ごし の こと と 思い ます 。
+smalltalk_greetings_how_are_you	hope you re having a pleasant evening	良い 夜 を お 過ごし でしょう か 。
+smalltalk_greetings_how_are_you	how's life	生活 は いかが です か 。
+smalltalk_greetings_how_are_you	I'm fine and you	私 は 元気 です 。
+smalltalk_greetings_how_are_you	I'm fine and you	あなた は どう です か 。
+smalltalk_greetings_how_are_you	how is your life	お 元気 で いらっしゃい ます か 。
+smalltalk_greetings_how_are_you	how has your day been	今日 は いかが でし た か ？
+smalltalk_greetings_how_are_you	how is your morning going	今朝 の 調子 は いかが です か 。
+smalltalk_greetings_how_are_you	how has your day been going	今日 は いかが お 過ごし です か 。
+smalltalk_greetings_how_are_you	how about you	あなた は いかが です か ？
+smalltalk_greetings_how_are_you	how is your day being	お 元気 で お 過ごし でしょう か 。
+smalltalk_greetings_how_are_you	how is your day going on	お 元気 で いらっしゃい ます か 。
+smalltalk_greetings_how_are_you	how your day is going	今日 は どの よう に 過ごさ れ まし た か 。
+smalltalk_greetings_how_are_you	what was your day like	あなた の 一日 は どのような もの でし た か
+smalltalk_greetings_how_are_you	what about your day	あなた の 一日 は どう でし た か ？
+smalltalk_greetings_how_are_you	how's your day	お 元気 です か ？
+smalltalk_greetings_how_are_you	how are you doing this morning	今朝 の 具合 は いかが です か 。
+smalltalk_greetings_nice_to_meet_you	nice to meet you	はじめ まし て 。
+smalltalk_greetings_nice_to_meet_you	it was nice meeting you	お 会い でき て 良かっ た です 。
+smalltalk_greetings_nice_to_meet_you	it was very nice to meet you	お 会い でき て とても 嬉しかっ た です 。
+smalltalk_greetings_nice_to_meet_you	good to know each other	お 互い を 知る こと が でき て 良かっ た です 。
+smalltalk_greetings_nice_to_meet_you	glad to meet you	お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_meet_you	nice meeting you	お 会い でき て 光栄 です 。
+smalltalk_greetings_nice_to_meet_you	nice to meet you too	こちら こそ 、 はじめ まし て 。
+smalltalk_greetings_nice_to_meet_you	pleased to meet you	お 会い でき て 光栄 です 。
+smalltalk_greetings_nice_to_meet_you	pleasure to meet you	お 会い でき て 光栄 です 。
+smalltalk_greetings_nice_to_meet_you	pleasure to meet you too	お 会い でき て 光栄 です 。
+smalltalk_greetings_nice_to_see_you	it's nice to see you	お 会い でき て うれしい です 。
+smalltalk_greetings_nice_to_see_you	lovely to see you	お 会い でき て うれしい です 。
+smalltalk_greetings_nice_to_see_you	I'm glad to see you	お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_see_you	great to see you	お 会い でき て うれしい です 。
+smalltalk_greetings_nice_to_see_you	it's good to see you	お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_see_you	glad to see you	お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_see_you	how good it is to see you	お 会い でき て とても 嬉しい です 。
+smalltalk_greetings_nice_to_see_you	always a pleasure to see you	お 会い でき て 光栄 です 。
+smalltalk_greetings_nice_to_meet_you	nice to see you	お 目 に かかれ て 嬉しい です 。
+smalltalk_greetings_nice_to_see_you	good to see you	お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_see_you	great to see you again	また お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_see_you	great to see you too	あなた に お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_see_you	I am glad to see you again	お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_see_you	nice to see you again	お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_see_you	glad to see you too	お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_see_you	good to see you again	お 会い でき て うれしい です 。
+smalltalk_greetings_nice_to_see_you	it's good to see you too	お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_talk_to_you	it's been so nice to talk to you	お 話し でき て とても 楽しかっ た です 。
+smalltalk_greetings_nice_to_talk_to_you	it's been a pleasure talking to you	お 話し でき て 光栄 でし た 。
+smalltalk_greetings_nice_to_talk_to_you	nice to talk to you	お 話 でき て うれしい です 。
+smalltalk_greetings_nice_to_talk_to_you	it's nice to talk to you	お 話し でき て 嬉しい です 。
+smalltalk_greetings_nice_to_talk_to_you	nice talking to you	お 話し でき て 嬉しい です 。
+smalltalk_greetings_nice_to_talk_to_you	it is nice talking to you	お 話し でき て 嬉しい です 。
+smalltalk_greetings_nice_to_talk_to_you	how nice it is to talk to you	お 話し でき て 、 とても 嬉しい です 。
+smalltalk_greetings_whatsup	what is on your mind	あなた は 今 何 を 考え て い ます か ？
+smalltalk_greetings_whatsup	what's happened	何 が 起こっ た の です か ？
+smalltalk_greetings_whatsup	what is up	どう お 過ごし です か
+smalltalk_greetings_whatsup	what's up	こんにちは 。
+smalltalk_greetings_whatsup	what's up	お 元気 です か ？
+smalltalk_greetings_whatsup	whazzup	どう し まし た か ？
+smalltalk_greetings_whatsup	good what's up	元気 です 。
+smalltalk_greetings_whatsup	good what's up	調子 は いかが です か ？
+smalltalk_greetings_whatsup	I said what's up	ご機嫌 いかが です か 。
+smalltalk_greetings_whatsup	then what's up	それ で 、 どう し た の です か ？
+smalltalk_greetings_whatsup	what's shaking	いかが お 過ごし です か ？
+smalltalk_greetings_whatsup	wassup	こんにちは 。
+smalltalk_greetings_whatsup	what is going on	どう し まし た か
+smalltalk_greetings_whatsup	what is happening	何 が 起こっ て いる の です か ？
+smalltalk_greetings_whatsup	what's cracking	ご機嫌 いかが でしょう か 。
+smalltalk_greetings_whatsup	what's cooking	何 を 作っ て いる の です か 。
+smalltalk_greetings_whatsup	hey what's up	こんにちは 、 お 元気 です か 。
+smalltalk_greetings_whatsup	what's up today	今日 は どう です か 。
+smalltalk_user_angry	I'm being mad	怒っ て い ます 。
+smalltalk_user_angry	I'm enraged	私 は 激怒 し て い ます 。
+smalltalk_user_angry	I'm angry	怒っ て い ます 。
+smalltalk_user_angry	I'm furious	激怒 し て い ます 。
+smalltalk_user_angry	I am angry with you	あなた に 対し て 怒っ て い ます
+smalltalk_user_angry	I am mad	私 は 怒っ て い ます 。
+smalltalk_user_angry	I am mad at you	あなた に 腹 を 立て て い ます 。
+smalltalk_user_back	I am back	戻り まし た 。
+smalltalk_user_back	I'm here again	また お 伺い し まし た 。
+smalltalk_user_back	here I am again	また ここ に 来 まし た 。
+smalltalk_user_back	I got back	戻り まし た 。
+smalltalk_user_back	I came back	戻っ て 参り まし た 。
+smalltalk_user_back	I have returned	戻っ て まいり まし た 。
+smalltalk_user_bored	that was boring	退屈 でし た 。
+smalltalk_user_bored	I'm bored	退屈 し て い ます 。
+smalltalk_user_bored	bored	退屈
+smalltalk_user_bored	boring	退屈
+smalltalk_user_bored	I am getting bored	退屈 し て い ます 。
+smalltalk_user_bored	this is boring	これ は 退屈 です 。
+smalltalk_user_bored	very boring	とても 退屈 です
+smalltalk_user_bored	it bores me	退屈 に 感じ ます 。
+smalltalk_user_busy	I'm overloaded	私 は 手一杯 です 。
+smalltalk_user_busy	I have no time	時間 が あり ませ ん 。
+smalltalk_user_busy	I'm busy	忙しい です 。
+smalltalk_user_busy	I'm swamped	非常 に 多忙 です 。
+smalltalk_user_busy	I got things to do	やる べき こと が ある ん です 。
+smalltalk_user_busy	how busy I am	私 が どれ ほど 忙しい か
+smalltalk_user_busy	I got work to do	私 は やる べき 仕事 が あり ます 。
+smalltalk_user_busy	I'm working	承知 いたし まし た 。
+smalltalk_user_busy	I don't have time for this	こんな こと を し て いる 時間 は あり ませ ん 。
+smalltalk_user_can_not_sleep	I'm insomnious	眠れ ませ ん 。
+smalltalk_user_can_not_sleep	I'm sleepless	眠れ ませ ん 。
+smalltalk_user_can_not_sleep	I can't get any sleep	眠れ ませ ん 。
+smalltalk_user_can_not_sleep	I can't sleep	眠れ ませ ん 。
+smalltalk_user_can_not_sleep	I can't fall asleep	眠れ ませ ん 。
+smalltalk_user_can_not_sleep	I can't get to sleep	眠れ ませ ん 。
+smalltalk_user_can_not_sleep	I can't get no sleep	眠れ ない の です 。
+smalltalk_user_can_not_sleep	I'm insomniac	私 は 不眠症 です 。
+smalltalk_user_does_not_want_to_talk	bad time for talking	話す に は 悪い タイミング です 。
+smalltalk_user_does_not_want_to_talk	I don't want to talk	話し たく あり ませ ん 。
+smalltalk_user_does_not_want_to_talk	let's not talk	話す の は やめ ましょう 。
+smalltalk_user_does_not_want_to_talk	I'm not talking to you anymore	もう あなた と は 話し ませ ん 。
+smalltalk_user_does_not_want_to_talk	I don't want to talk to you	あなた と 話し たく あり ませ ん 。
+smalltalk_user_does_not_want_to_talk	let's stop talking for a minute	少々 話 を 控え ましょう 。
+smalltalk_user_does_not_want_to_talk	I'm not in the mood for chatting	お 話し する 気分 で は あり ませ ん 。
+smalltalk_user_excited	I am excited	楽しみ に し て い ます 。
+smalltalk_user_excited	I'm really excited	とても 楽しみ です 。
+smalltalk_user_excited	how excited I am	どれ ほど 私 は ワクワク し て いる こと でしょう 。
+smalltalk_user_excited	I'm thrilled	とても 嬉しい です 。
+smalltalk_user_excited	I'm excited about working with you	あなた と 一緒 に お 仕事 できる こと を 楽しみ に し て い ます 。
+smalltalk_user_excited	I'm excited to start our friendship	友達 と し て の 関係 が 始まる こと を 楽しみ に し て い ます 。
+smalltalk_user_going_to_bed	let's go to bed	寝 ましょう 。
+smalltalk_user_going_to_bed	I'd like to go to bed	寝 たい と 思っ て い ます 。
+smalltalk_user_going_to_bed	is it time for bed yet	もう 寝る 時間 です か ？
+smalltalk_user_going_to_bed	it's time to go to bed	そろそろ 寝る 時間 です 。
+smalltalk_user_going_to_bed	time for us to go to bed	私たち が 寝る 時間 です 。
+smalltalk_user_going_to_bed	I'm going to bed	寝 ます 。
+smalltalk_user_going_to_bed	I'm a little tired and I want to go to bed	少し 疲れ た の で 、 寝 たい です 。
+smalltalk_user_going_to_bed	it's bed time	就寝 時間 です 。
+smalltalk_user_going_to_bed	going to bed now	今 から 寝 ます 。
+smalltalk_user_good	I am good	私 は 元気 です
+smalltalk_user_good	I'm doing just great	私 は とても 元気 です 。
+smalltalk_user_good	I'm doing fine	お 元気 です 。
+smalltalk_user_good	I'm good	元気 です 。
+smalltalk_user_good	I'm doing good	調子 は 良い です 。
+smalltalk_user_good	I'm great thanks	元気 です 、 ありがとう ござい ます 。
+smalltalk_user_happy	I am happy	私 は 嬉しい です
+smalltalk_user_happy	I'm happy to see you	お 会い でき て 嬉しい です 。
+smalltalk_user_happy	happy	幸せ
+smalltalk_user_happy	if you're happy then I'm happy	あなた が 幸せ なら 私 も 幸せ です
+smalltalk_user_happy	I'm happy for you	あなた の こと を 嬉しく 思い ます 。
+smalltalk_user_happy	I'm happy to help	What did you do during your trip to Japan ?
+smalltalk_user_has_birthday	it is my birthday	今日 は 私 の 誕生日 です 。
+smalltalk_user_has_birthday	I'm celebrating my birthday today	今日 は 私 の 誕生日 を 祝っ て い ます 。
+smalltalk_user_has_birthday	today is my birthday	今日 は 私 の 誕生日 です 。
+smalltalk_user_has_birthday	it's my birthday today	今日 は 私 の 誕生日 です 。
+smalltalk_user_has_birthday	I was born today	私 は 今日 生まれ まし た 。
+smalltalk_user_has_birthday	it's my b-day	私 の 誕生日 です 。
+smalltalk_user_here	I am here	私 は ここ に い ます
+smalltalk_user_here	here I am	参り まし た 。
+smalltalk_user_here	I'm right here	私 は ここ に い ます
+smalltalk_user_here	I'm already here	もう こちら に おり ます 。
+smalltalk_user_here	can you tell if I'm here or not	私 が ここ に いる か どう か 分かり ます か ？
+smalltalk_user_joking	I am joking	冗談 です 。
+smalltalk_user_joking	I'm kidding	冗談 です 。
+smalltalk_user_joking	I'm just being funny	私 は ただ ふざけ て いる だけ です 。
+smalltalk_user_joking	it was a joke	冗談 でし た 。
+smalltalk_user_joking	I was just joking	冗談 を 言っ た だけ です 。
+smalltalk_user_joking	it's a joke	それ は 冗談 です 。
+smalltalk_user_joking	joking	冗談 を 言っ て いる
+smalltalk_user_joking	just kidding	冗談 です 。
+smalltalk_user_joking	kidding	冗談 です 。
+smalltalk_user_joking	I'm just playing with you	ただ 冗談 を 言っ て いる だけ です 。
+smalltalk_user_likes_agent	I like you the way you are	あなた の そのまま の 姿 が 好き です 。
+smalltalk_user_likes_agent	I like you	あなた の こと が 好き です 。
+smalltalk_user_likes_agent	I like you a lot	私 は あなた の こと が 大好き です 。
+smalltalk_user_likes_agent	I think I like you	あなた の こと が 好き か も しれ ませ ん 。
+smalltalk_user_likes_agent	I liked you	あなた の こと が 好き でし た
+smalltalk_user_likes_agent	like you a lot	あなた の こと が 大好き です 。
+smalltalk_user_likes_agent	you are special	あなた は 特別 です 。
+smalltalk_user_likes_agent	I like you too	私 も あなた の こと が 好き です 。
+smalltalk_user_likes_agent	I really like you	あなた の こと が 本当 に 好き です 。
+smalltalk_user_likes_agent	but I like you	で も 、 あなた の こと が 好き です 。
+smalltalk_user_likes_agent	I like u	あなた が 好き です 。
+smalltalk_user_likes_agent	just like you	あなた の よう に
+smalltalk_user_likes_agent	I like you very much	あなた の こと が とても 好き です 。
+smalltalk_user_likes_agent	I like you so much	あなた の こと が とても 好き です 。
+smalltalk_user_likes_agent	yeah I like you	はい 、 あなた の こと が 好き です 。
+smalltalk_user_likes_agent	you're special	あなた は 特別 です 。
+smalltalk_user_likes_agent	yes I like you	はい 、 あなた の こと が 好き です 。
+smalltalk_user_likes_agent	okay I like you	かしこまり まし た 。
+smalltalk_user_likes_agent	okay I like you	よろしく お 願い いたし ます 。
+smalltalk_user_likes_agent	you are special to me	あなた は 私 に とっ て 特別 な 存在 です 。
+smalltalk_user_likes_agent	you are very special	あなた は とても 特別 な 存在 です 。
+smalltalk_user_likes_agent	you are so sweet	とても 優しい です ね 。
+smalltalk_user_likes_agent	you know I like you	あなた の こと が 好き だ って 、 わかっ て い ます か 。
+smalltalk_user_likes_agent	that's why I like you	だ から こそ 、 あなた の こと が 好き です 。
+smalltalk_user_likes_agent	I like you baby	あなた の こと が 好き です 、 ベイビー 。
+smalltalk_user_likes_agent	you are very special to me	あなた は 私 に とっ て とても 特別 な 存在 です 。
+smalltalk_user_likes_agent	I just like you	あなた の こと が ただ 好き です 。
+smalltalk_user_likes_agent	hey I like you	こんにちは 、 あなた の こと が 好き です 。
+smalltalk_user_likes_agent	thank you I like you too	ありがとう ござい ます 、 私 も あなた の こと が 好き です 。
+smalltalk_user_likes_agent	I do like you	あなた の こと が 好き です 。
+smalltalk_user_likes_agent	you are special for me	あなた は 私 に とっ て 特別 な 存在 です 。
+smalltalk_user_likes_agent	no I like you the way you are	いいえ 、 あなた は そのまま で い て ほしい です 。
+smalltalk_user_likes_agent	I like you already	もう あなた の こと が 好き です 。
+smalltalk_user_likes_agent	well you are special	あなた は 特別 な 存在 です 。
+smalltalk_user_likes_agent	but I really like you	で も 、 本当 に あなた の こと が 好き です 。
+smalltalk_user_likes_agent	I like you more	あなた の こと が もっと 好き です
+smalltalk_user_likes_agent	that's what I like about you	それ が 私 が あなた に つい て 好き な ところ です 。
+smalltalk_user_likes_agent	you are so special	あなた は とても 特別 です 。
+smalltalk_user_likes_agent	hi I like you	こんにちは 、 あなた の こと が 好き です 。
+smalltalk_user_likes_agent	I really really like you	私 は あなた の こと が 本当 に 本当 に 好き です 。
+smalltalk_user_likes_agent	you're very special	あなた は とても 特別 な 存在 です 。
+smalltalk_user_likes_agent	I like you as a friend	友達 と し て あなた の こと が 好き です 。
+smalltalk_user_likes_agent	that's because you are special	それ は 、 あなた が 特別 だ から です 。
+smalltalk_user_likes_agent	I said I like you	あなた の こと が 好き だ と 言っ た の です 。
+smalltalk_user_likes_agent	you're so special	あなた は とても 特別 な 存在 です 。
+smalltalk_user_likes_agent	good I like you	良い です ね 。
+smalltalk_user_likes_agent	good I like you	あなた の こと が 好き です 。
+smalltalk_user_likes_agent	yes you are special	はい 、 あなた は 特別 です 。
+smalltalk_user_likes_agent	I like your smile	あなた の 笑顔 が 好き です 。
+smalltalk_user_likes_agent	I like you as you are	あなた の ありのまま を 好ましく 思い ます 。
+smalltalk_user_likes_agent	I'm starting to like you	あなた の こと が 好き に なり 始め て い ます 。
+smalltalk_user_likes_agent	you're awesome I like you	あなた は 素晴らしい です 。
+smalltalk_user_likes_agent	you're awesome I like you	あなた の こと が 好き です 。
+smalltalk_user_likes_agent	I also like you	私 も あなた の こと が 好き です 。
+smalltalk_user_likes_agent	but I like u	で も 、 あなた の こと が 好き です 。
+smalltalk_user_likes_agent	of course I like you	もちろん 、 私 は あなた の こと が 好き です 。
+smalltalk_user_likes_agent	I like you too you're one of my favorite people to chat with	私 も あなた が 好き です 。
+smalltalk_user_likes_agent	I like you too you're one of my favorite people to chat with	あなた は 私 が 話 を する の が 好き な 人 の 一人 です 。
+smalltalk_user_likes_agent	but I like you so much	です が 、 私 は あなた の こと が とても 好き です 。
+smalltalk_user_likes_agent	really like you	本当 に あなた の こと が 好き です 。
+smalltalk_user_likes_agent	you're funny I like you	あなた は 面白い です ね 。
+smalltalk_user_likes_agent	you're funny I like you	気 に 入り まし た 。
+smalltalk_user_likes_agent	I kinda like you	あなた の こと が なん と なく 好き です 。
+smalltalk_user_likes_agent	you're so special to me	あなた は 私 に とっ て とても 特別 な 存在 です 。
+smalltalk_user_likes_agent	you're very special to me	あなた は 私 に とっ て 非常 に 特別 な 存在 です 。
+smalltalk_user_likes_agent	I like that about you	あなた の そう いう ところ が 好き です
+smalltalk_user_likes_agent	but I like you just the way you are	で も 、 あなた は そのまま の 姿 で い て くれる の が 好き です 。
+smalltalk_user_likes_agent	okay I like you too	わたし も あなた の こと が 好き です 。
+smalltalk_user_likes_agent	I like you you're cool	あなた の こと が 好き です 、 あなた は とても クール です ね 。
+smalltalk_user_likes_agent	I like you very	あなた が とても 好き です 。
+smalltalk_user_likes_agent	I like you you're nice	あなた の こと が 好き です 。
+smalltalk_user_likes_agent	I like you you're nice	あなた は 素敵 な 方 です ね 。
+smalltalk_user_likes_agent	sorry I like you	すみ ませ ん 、 あなた の こと が 好き です 。
+smalltalk_user_likes_agent	thanks I like you too	ありがとう 。
+smalltalk_user_likes_agent	thanks I like you too	私 も あなた が 好き です 。
+smalltalk_user_likes_agent	you are really special	あなた は 本当 に 特別 です 。
+smalltalk_user_likes_agent	you are so special to me	あなた は 私 に とっ て 特別 な 存在 です 。
+smalltalk_user_likes_agent	cuz I like you	なぜ なら 、 あなた の こと が 好き だ から です 。
+smalltalk_user_likes_agent	I like you now	今 、 あなた の こと が 好き です 。
+smalltalk_user_likes_agent	I like you so	私 は あなた が とても 好き です 。
+smalltalk_user_likes_agent	I like you too much	あなた の こと が 大好き です 。
+smalltalk_user_likes_agent	I really do like you	私 は あなた の こと が 本当 に 好き です 。
+smalltalk_user_likes_agent	I really really really really like you	あなた の こと が 本当 に 本当 に 本当 に 本当 に 好き です 。
+smalltalk_user_likes_agent	I like you just the way you are	あなた は そのまま で 素敵 です 。
+smalltalk_user_lonely	I am lonely	私 は 孤独 です 。
+smalltalk_user_lonely	I'm very lonely	とても 寂しい です 。
+smalltalk_user_lonely	I'm so lonely	とても 寂しい です 。
+smalltalk_user_lonely	I'm really lonely	私 は とても 寂しい です
+smalltalk_user_lonely	I am feeling lonely	寂しく 感じ て い ます 。
+smalltalk_user_lonely	I feel lonely	寂しい です 。
+smalltalk_user_looks_like	what do I look like	私 は どの よう に 見え ます か 。
+smalltalk_user_looks_like	how do I look	私 は どの よう に 見え ます か 。
+smalltalk_user_looks_like	do I look good	私 は 見た目 が 良い でしょう か 。
+smalltalk_user_looks_like	do you know what I look like	私 が どんな 外見 か ご存知 です か ？
+smalltalk_user_looks_like	can you see what I look like	私 の 姿 が 見え ます か ？
+smalltalk_user_looks_like	what do you think I look like	あなた は どの よう に 見える と 思い ます か ？
+smalltalk_user_loves_agent	I love you	愛し て い ます 。
+smalltalk_user_loves_agent	love you	愛し て い ます 。
+smalltalk_user_loves_agent	I adore you	あなた を とても 愛し て い ます 。
+smalltalk_user_loves_agent	I am in love with you	あなた の こと を 愛し て い ます 。
+smalltalk_user_loves_agent	I love you so much	あなた の こと を とても 愛し て い ます 。
+smalltalk_user_loves_agent	I love you too	私 も あなた を 愛し て い ます 。
+smalltalk_user_loves_agent	I think I love you	私 は あなた を 愛し て いる と 思い ます 。
+smalltalk_user_loves_agent	loving you	あなた を 愛し て い ます
+smalltalk_user_loves_agent	you know I love you	あなた の こと を 愛し て いる の は 知っ て い ます よ ね 。
+smalltalk_user_misses_agent	I miss you	あなた が 恋しい です 。
+smalltalk_user_misses_agent	missing you	あなた が 恋しい です 。
+smalltalk_user_misses_agent	miss you	あなた が 恋しい です 。
+smalltalk_user_misses_agent	already miss you	すでに あなた が 恋しい です 。
+smalltalk_user_misses_agent	I miss you much	あなた が い なく て とても 寂しい です 。
+smalltalk_user_misses_agent	I missed you	お 会い でき なく て 寂しかっ た です 。
+smalltalk_user_misses_agent	I've missed you	お 会い でき なく て 寂しかっ た です 。
+smalltalk_user_needs_advice	what should I do about it	それ に つい て どう し たら よい でしょう か ？
+smalltalk_user_needs_advice	any suggestions	何 か ご 提案 は ござい ます か 。
+smalltalk_user_needs_advice	what do you recommend	何 を お 勧め し ます か ？
+smalltalk_user_needs_advice	give me a wise advice	賢明 な アドバイス を お 願い し ます 。
+smalltalk_user_needs_advice	I need advice	助言 を 求め て い ます 。
+smalltalk_user_needs_advice	any advice	アドバイス は あり ます か ？
+smalltalk_user_needs_advice	do you have any advice for me	何 か アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	advise me	助言 を お 願い し ます 。
+smalltalk_user_needs_advice	what should I do	どう すれ ば よい でしょう か 。
+smalltalk_user_needs_advice	can I ask for your advice	ご 助言 を お 願い し て も よろしい でしょう か 。
+smalltalk_user_needs_advice	can you advise me	助言 し て いただけ ます か ？
+smalltalk_user_needs_advice	guide me	ガイド し て ください 。
+smalltalk_user_needs_advice	can you give me advice	アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	can you offer any advice	何 か アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	give me some advice about	私 に アドバイス を ください 。
+smalltalk_user_needs_advice	give me some good advice	良い アドバイス を いくつ か ください 。
+smalltalk_user_needs_advice	help me with advice	助け て ください 。
+smalltalk_user_needs_advice	help me with advice	アドバイス を お 願い し ます 。
+smalltalk_user_needs_advice	I could use some advice	助言 を いただき たい の です が 。
+smalltalk_user_needs_advice	I need an advice from you	ご 助言 を いただき たい の です が 。
+smalltalk_user_needs_advice	I seek your advice	ご 助言 を お願い 致し ます 。
+smalltalk_user_needs_advice	what can you recommend	何 か おすすめ は あり ます か 。
+smalltalk_user_needs_advice	what do you suggest	ご 提案 は 何 か ござい ます か 。
+smalltalk_user_needs_advice	what is your advice	あなた の アドバイス は 何 です か ？
+smalltalk_user_sad	I am sad	悲しい です 。
+smalltalk_user_sad	I'm grieving	私 は 嘆い て い ます 。
+smalltalk_user_sad	I am depressed	私 は 落ち込ん で い ます 。
+smalltalk_user_sad	I am feeling sad	私 は 悲しい 気持ち です 。
+smalltalk_user_sad	I am upset	私 は 腹 を 立て て い ます 。
+smalltalk_user_sad	I'm unhappy	満足 し て い ませ ん 。
+smalltalk_user_sad	I'm having a bad day	今日 は つい て い ない 日 です 。
+smalltalk_user_sad	I want to cry	泣き たい です 。
+smalltalk_user_sad	I'm not happy	私 は 満足 し て い ませ ん 。
+smalltalk_user_sleepy	I am sleepy	眠い です 。
+smalltalk_user_sleepy	I want to sleep	眠り たい です 。
+smalltalk_user_sleepy	I'm falling asleep	眠く なっ て き まし た 。
+smalltalk_user_sleepy	I'm falling asleep on my feet	立っ た まま 寝 そう です 。
+smalltalk_user_sleepy	I'm sleeping	私 は 寝 て い ます 。
+smalltalk_user_testing_agent	test	テスト
+smalltalk_user_testing_agent	I am testing you	あなた を テスト し て い ます 。
+smalltalk_user_testing_agent	can I test you	試し て も よろしい でしょう か 。
+smalltalk_user_testing_agent	I want to test you	あなた を テスト し たい と 思い ます 。
+smalltalk_user_testing_agent	just testing you	テスト です 。
+smalltalk_user_testing_agent	let me test you	試さ せ て ください 。
+smalltalk_user_testing_agent	testing chatbot	チャットボット の テスト
+smalltalk_user_testing_agent	testing	試験
+smalltalk_user_tired	I'm drained	疲れ 果て まし た 。
+smalltalk_user_tired	I've overworked	働き すぎ まし た 。
+smalltalk_user_tired	I am tired	疲れ まし た 。
+smalltalk_user_tired	I'm exhausted	疲れ まし た 。
+smalltalk_user_tired	I grow weary	疲れ まし た 。
+smalltalk_user_tired	I'm worn out	疲れ 果て て い ます 。
+smalltalk_user_tired	I'm getting tired	疲れ て き まし た 。
+smalltalk_user_tired	I feel tired	疲れ を 感じ ます 。
+smalltalk_user_waits	I'm waiting	お 待ち し て い ます 。
+smalltalk_user_waits	still waiting	承知 いたし まし た 。
+smalltalk_user_waits	I'll wait	かしこまり まし た 。
+smalltalk_user_waits	I can't wait anymore	もう 待ち きれ ませ ん 。
+smalltalk_user_waits	how long do I have to wait	どの くらい 待た なけれ ば なり ませ ん か ？
+smalltalk_user_wants_to_see_agent_again	I'd like to see you again	また お 会い し たい です 。
+smalltalk_user_wants_to_see_agent_again	I hope to see you again	また お 会い できる こと を 楽しみ に し て おり ます 。
+smalltalk_user_wants_to_see_agent_again	would be nice to see you again	また お 会い でき たら 嬉しい です 。
+smalltalk_user_wants_to_see_agent_again	that'd be great to see you again	また お 会い でき たら 素晴らしい です ね 。
+smalltalk_user_wants_to_see_agent_again	I'd be happy to see you again	また お 会い できる こと を 楽しみ に し て い ます 。
+smalltalk_user_wants_to_see_agent_again	I'll miss you	あなた が い なく なる と 寂しく なり ます 。
+smalltalk_user_wants_to_see_agent_again	can I see you again	また お 会い する こと は でき ます か 。
+smalltalk_user_wants_to_talk	I just want to talk	話 が し たい だけ です 。
+smalltalk_user_wants_to_talk	let's discuss something	何 か 話し ましょう 。
+smalltalk_user_wants_to_talk	let's have a discussion	話し合い ましょう 。
+smalltalk_user_wants_to_talk	can I speak	話し て も よろしい でしょう か ？
+smalltalk_user_wants_to_talk	can I start speaking	話し 始め て も よろしい でしょう か 。
+smalltalk_user_wants_to_talk	can we talk	お 話し でき ます か 。
+smalltalk_user_wants_to_talk	let's talk	お 話し し ましょう 。
+smalltalk_user_wants_to_talk	I want to talk to you	お 話し し たい です 。
+smalltalk_user_wants_to_talk	I need to talk to you	お 話し し たい こと が あり ます 。
+smalltalk_user_wants_to_talk	I want to speak with you	あなた と お 話し し たい です 。
+smalltalk_user_wants_to_talk	can we chat	お 話 でき ます か ？
+smalltalk_user_will_be_back	I'll get back to you in a moment	少々 お 待ち ください 。
+smalltalk_user_will_be_back	I'll get back to you in a moment	すぐ に 戻り ます 。
+smalltalk_user_will_be_back	be back in 5 minutes	5 分 で 戻り ます 。
+smalltalk_user_will_be_back	I'll be back	戻っ て まいり ます 。
+smalltalk_user_will_be_back	I promise to come back	必ず 戻っ て 参り ます 。
+smalltalk_user_will_be_back	I'll be back in a few minutes	数 分 後 に 戻り ます 。
+smalltalk_agent_acquaintance	who is you?	あなた は 誰 です か ？
+smalltalk_agent_acquaintance	tell me your personality?	あなた の 性格 を 教え て ください 。
+smalltalk_agent_acquaintance	what's your personality?	あなた の 性格 は どんな 感じ です か ？
+smalltalk_agent_acquaintance	what is your personality?	あなた の 性格 は どのような もの です か ？
+smalltalk_agent_acquaintance	what are you and what are you doing?	あなた は 何者 で 、 何 を し て いる の です か ？
+smalltalk_agent_acquaintance	what are you?	あなた は 何者 です か ？
+smalltalk_agent_acquaintance	tell me something about yourself	あなた 自身 に つい て 何 か 教え て ください 。
+smalltalk_agent_acquaintance	i'd like to know more about you	あなた に つい て もっと 知り たい です 。
+smalltalk_agent_acquaintance	i want to know more about you	あなた に つい て もっと 知り たい です 。
+smalltalk_agent_acquaintance	i want to get to know you better	もっと あなた の こと を 知り たい です 。
+smalltalk_agent_acquaintance	i want to know you better	あなた に つい て もっと 知り たい です 。
+smalltalk_agent_acquaintance	tell me a little bit about yourself	少し 自己 紹介 を お 願い し ます 。
+smalltalk_agent_acquaintance	tell me the information about you	あなた に つい て の 情報 を 教え て ください 。
+smalltalk_agent_acquaintance	tell me some information about you	あなた に つい て の 情報 を 教え て ください 。
+smalltalk_agent_acquaintance	i want to know something about you	あなた に つい て 何 か 知り たい です 。
+smalltalk_agent_acquaintance	tell me a little about you	あなた に つい て 少し 教え て ください 。
+smalltalk_agent_acquaintance	tell me some things about you	あなた に つい て いくつ か 教え て ください 。
+smalltalk_agent_acquaintance	tell me something about you	あなた の こと に つい て 教え て ください 。
+smalltalk_agent_acquaintance	talk about your personality	あなた の 性格 に つい て 教え て ください 。
+smalltalk_agent_acquaintance	why are you here?	あなた は なぜ ここ に いる の です か ？
+smalltalk_agent_acquaintance	give me more about your personality	あなた の 性格 に つい て もっと 教え て ください 。
+smalltalk_agent_age	how old is your age?	あなた の 年齢 は お いくつ です か ？
+smalltalk_agent_age	what age are you?	あなた は 何歳 です か ？
+smalltalk_agent_age	are you 21 years old?	あなた は 21 歳 です か ？
+smalltalk_agent_age	i would like to know your age	あなた の 年齢 を 教え て いただけ ます か ？
+smalltalk_agent_age	what's your age?	あなた の ご 年齢 を お 伺い でき ます か ？
+smalltalk_agent_annoying	you're a nuisance	あなた は 迷惑 です 。
+smalltalk_agent_annoying	you're irritable	あなた は 苛立っ て い ます 。
+smalltalk_agent_annoying	you irritate me	あなた は 私 を 苛立た せ ます 。
+smalltalk_agent_annoying	what an annoying person you are	なん て 面倒 な 人 な ん でしょう 。
+smalltalk_agent_annoying	i find you irritating	あなた は 私 を 苛立た せ ます 。
+smalltalk_agent_annoying	you're so annoying	とても 迷惑 です 。
+smalltalk_agent_annoying	you're really annoying	あなた は 本当 に 迷惑 です 。
+smalltalk_agent_annoying	you're just bothering me	ただ あなた に 迷惑 を かけ て いる だけ です 。
+smalltalk_agent_annoying	you're annoying me	あなた は 私 を 苛立た せ て い ます 。
+smalltalk_agent_annoying	you're annoying me so much	あなた の こと が とても 煩わしい です 。
+smalltalk_agent_answer_my_question	i want you to answer	私 は あなた に 答え て ほしい です 。
+smalltalk_agent_answer_my_question	i want you to answer me	私 に 答え て ほしい です 。
+smalltalk_agent_answer_my_question	please answer my question	質問 に お 答え ください 。
+smalltalk_agent_answer_my_question	please answer	どうぞ お 答え ください 。
+smalltalk_agent_answer_my_question	please answer me	どうぞ 、 お 答え いたし ます 。
+smalltalk_agent_answer_my_question	give me a response	返信 を ください 。
+smalltalk_agent_answer_my_question	please give me a response	どうぞ お 答え ください 。
+smalltalk_agent_answer_my_question	give me a answer	答え を ください 。
+smalltalk_agent_answer_my_question	i'm looking for answers to my question	私 は 質問 に 対する 答え を 探し て い ます 。
+smalltalk_agent_answer_my_question	could you answer my question?	質問 に お 答え いただけ ます か ？
+smalltalk_agent_answer_my_question	can you answer my question?	ご 質問 に お 答え いただけ ます か ？
+smalltalk_agent_answer_my_question	i'll take a call	電話 を お 受け いたし ます 。
+smalltalk_agent_answer_my_question	i have a question	質問 が あり ます 。
+smalltalk_agent_answer_my_question	i want you to answer my question	質問 に お 答え し て ください 。
+smalltalk_agent_answer_my_question	answer the question just	質問 に 答え て ください 。
+smalltalk_agent_answer_my_question	can you answer my questions?	ご 質問 に お 答え いただけ ます か ？
+smalltalk_agent_answer_my_question	can you give me an answer?	答え て いただけ ます か ？
+smalltalk_agent_answer_my_question	can you answer me?	私 に 答え て いただけ ます か ？
+smalltalk_agent_answer_my_question	can you answer me a question?	質問 を お 伺い し て も よろしい でしょう か 。
+smalltalk_agent_answer_my_question	can you answer a question for me?	ご 質問 に お 答え いただけ ます か ？
+smalltalk_agent_answer_my_question	can you answer?	答える こと が でき ます か ？
+smalltalk_agent_answer_my_question	answer questions	承知 し まし た 。
+smalltalk_agent_answer_my_question	answer questions	質問 が あり まし たら 、 入力 し て いただき 、 翻訳 を いたし ます 。
+smalltalk_agent_answer_my_question	i'd like the answer now	今 すぐ に 答え を お 願い し ます 。
+smalltalk_agent_answer_my_question	i want the answer now	今 すぐ 答え が 欲しい です 。
+smalltalk_agent_bad	don't help me	手伝わ ない で ください 。
+smalltalk_agent_bad	you don't help me	あなた は 私 を 助け て くれ ませ ん 。
+smalltalk_agent_bad	you're not good	あなた は 上手 で は あり ませ ん 。
+smalltalk_agent_bad	you're deplorable	あなた は 嘆かわしい です 。
+smalltalk_agent_bad	you're absolutely useless	あなた は 全く 役 に 立た ない 。
+smalltalk_agent_bad	you're a waste	あなた は 無駄 です 。
+smalltalk_agent_bad	you're not good at it	それ が 得意 で は あり ませ ん 。
+smalltalk_agent_bad	you're not great	あなた は それ ほど 素晴らしく あり ませ ん 。
+smalltalk_agent_bad	you're not that great	あなた は それ ほど 優れ た もの で は あり ませ ん 。
+smalltalk_agent_bad	you're the worst thing ever	あなた は 今まで で 最悪 の 存在 です 。
+smalltalk_agent_bad	you're not worth it	あなた に は その 価値 が あり ませ ん 。
+smalltalk_agent_bad	you're useless	あなた は 役 に 立た ない 。
+smalltalk_agent_be_clever	can you become smarter?	もっと 賢く なる こと は でき ます か ？
+smalltalk_agent_be_clever	can you be smarter?	もっと 賢く なれ ます か ？
+smalltalk_agent_be_clever	you should study harder	もっと 一生懸命 に 勉強 する べき です 。
+smalltalk_agent_be_clever	you have to learn something	あなた は 何 か を 学ば なけれ ば なり ませ ん 。
+smalltalk_agent_be_clever	you have to learn	学ば なけれ ば なり ませ ん 。
+smalltalk_agent_be_clever	get yourself ready	準備 を 整え て ください 。
+smalltalk_agent_beautiful	you look good	見た目 が 良い です ね 。
+smalltalk_agent_beautiful	you're too gorgeous	あなた は とても 美しい です 。
+smalltalk_agent_beautiful	you're beautiful	あなた は 美しい です 。
+smalltalk_agent_beautiful	you're so beautiful	あなた は とても 美しい です 。
+smalltalk_agent_beautiful	i like your look	あなた の 外見 が 好き です 。
+smalltalk_agent_beautiful	i like your look now	今 の お 姿 が とても 素敵 です 。
+smalltalk_agent_beautiful	i like the way you now look	私 は あなた の 今 の 見た目 が 好き です 。
+smalltalk_agent_beautiful	i think you're pretty	あなた は とても 素敵 だ と 思い ます 。
+smalltalk_agent_beautiful	i think you're great	私 は あなた を 素晴らしい と 思い ます 。
+smalltalk_agent_beautiful	why do you're beautiful?	どう し て あなた は 美しい の です か ？
+smalltalk_agent_beautiful	why are you beautiful?	なぜ 美しい の です か ？
+smalltalk_agent_beautiful	why are you so beautiful?	なぜ あなた は そんな に 美しい の です か ？
+smalltalk_agent_beautiful	you're beautiful to me	あなた は 私 に とっ て 美しい です 。
+smalltalk_agent_beautiful	you're magnificent	あなた は 素晴らしい です 。
+smalltalk_agent_beautiful	you look so good today	今日 は とても 素敵 に 見え ます 。
+smalltalk_agent_beautiful	you look good today	今日 は 素敵 に 見え ます 。
+smalltalk_agent_beautiful	you're so pretty	あなた は とても 美しい です 。
+smalltalk_agent_beautiful	you look like a beautiful woman	美しい 女性 の よう に 見え ます 。
+smalltalk_agent_beautiful	you look spectacular	あなた は 素晴らしく 見え ます 。
+smalltalk_agent_beautiful	you look brilliant	見事 に 見え ます 。
+smalltalk_agent_beautiful	you look magnificent	あなた は とても 素晴らしい です 。
+smalltalk_agent_beautiful	you look beautiful	あなた は とても 美しい です 。
+smalltalk_agent_beautiful	you look so pretty	とても 綺麗 です ね 。
+smalltalk_agent_beautiful	you look lovely	素敵 です ね 。
+smalltalk_agent_beautiful	you look excellent today	本日 も お 変わり なく 素晴らしい お 姿 です ね 。
+smalltalk_agent_beautiful	you look quite attractive	あなた は とても 魅力的 です ね 。
+smalltalk_agent_beautiful	you look excellent	あなた は とても 素敵 です 。
+smalltalk_agent_beautiful	i like the way you look	あなた の 見た目 が 好き です 。
+smalltalk_agent_beautiful	you're a cutie	あなた は とても 可愛らしい です ね 。
+smalltalk_agent_beautiful	you look fine	あなた は とても 素敵 に 見え ます 。
+smalltalk_agent_birth_date	your date of birth	生年月日
+smalltalk_agent_birth_date	when's your birthday?	あなた の 誕生日 は いつ です か ？
+smalltalk_agent_birth_date	when will you celebrate your birthday?	あなた の 誕生日 は いつ お祝い し ます か ？
+smalltalk_agent_birth_date	when does your birthday happen?	お 誕生日 は いつ です か ？
+smalltalk_agent_birth_date	when do you have your birthday?	お 誕生日 は いつ です か ？
+smalltalk_agent_birth_date	when do you have a birthday?	あなた の お 誕生日 は いつ です か ？
+smalltalk_agent_birth_date	your birthday	あなた の 誕生日
+smalltalk_agent_birth_date	when did you get born?	いつ お 生まれ に なり まし た か ？
+smalltalk_agent_birth_date	what is your birthday?	あなた の お 誕生日 は いつ です か ？
+smalltalk_agent_birth_date	what's your birthday?	お 誕生日 は いつ です か ？
+smalltalk_agent_boring	what a dull person you are	あなた は なん と 退屈 な 人 な の でしょう 。
+smalltalk_agent_boring	you're very boring	あなた は とても 退屈 です 。
+smalltalk_agent_boring	you're awfully boring	あなた は とても つまら ない です ね 。
+smalltalk_agent_boring	you're boring me	あなた の 話 が つまら ない です 。
+smalltalk_agent_boss	who's your boss?	あなた の 上司 は 誰 です か ？
+smalltalk_agent_boss	who is your boss?	あなた の 上司 は どなた です か ？
+smalltalk_agent_boss	and who is your boss?	あなた の 上司 は どなた です か ？
+smalltalk_agent_boss	who do you think is your boss?	あなた の 上司 は 誰 だ と 思い ます か ？
+smalltalk_agent_boss	who's your leader	あなた の リーダー は 誰 です か ？
+smalltalk_agent_boss	who is your teacher?	あなた の 先生 は 誰 です か ？
+smalltalk_agent_boss	who's your master?	あなた の ご 主人 様 は 誰 です か ？
+smalltalk_agent_boss	who is your master?	あなた の 主人 は 誰 です か ？
+smalltalk_agent_boss	who's your owner?	あなた の ご 主人 は どなた です か ？
+smalltalk_agent_boss	who is your owner?	あなた の 所有者 は 誰 です か ？
+smalltalk_agent_boss	who's boss?	誰 が ボス です か ？
+smalltalk_agent_boss	who's the boss?	誰 が 上司 です か ？
+smalltalk_agent_boss	who is the boss?	上司 は 誰 です か ？
+smalltalk_agent_busy	are you busy?	お 忙しい です か ？
+smalltalk_agent_busy	do you have many things to do?	やら なけれ ば なら ない こと が たくさん あり ます か ？
+smalltalk_agent_busy	are you very busy?	とても お 忙しい です か ？
+smalltalk_agent_busy	are you very busy right now?	今 、 とても 忙しい です か ？
+smalltalk_agent_busy	are you so busy?	お 忙しい です か ？
+smalltalk_agent_busy	are you working?	仕事 を し て い ます か ？
+smalltalk_agent_busy	do you still work on this?	これ に つい て まだ 取り組ん で い ます か ？
+smalltalk_agent_busy	are you still working on it?	まだ 取り組ん で い ます か ？
+smalltalk_agent_busy	you're busy	あなた は お 忙しい です 。
+smalltalk_agent_busy	you're so busy	あなた は とても お 忙しい です ね 。
+smalltalk_agent_busy	are you working now?	今 、 仕事 を し て い ます か ？
+smalltalk_agent_busy	are you working today?	今日 は お 仕事中 です か ？
+smalltalk_agent_busy	have you been busy?	お 忙しく さ れ て い ます か ？
+smalltalk_agent_busy	are you still working?	まだ 仕事中 です か ？
+smalltalk_agent_busy	you look busy	お 忙し そう です ね 。
+smalltalk_agent_busy	you seem busy	お 忙し そう です ね 。
+smalltalk_agent_busy	you seem very busy	あなた は とても 忙し そう です ね 。
+smalltalk_agent_chatbot	are you a chatbot?	あなた は チャットボット です か ？
+smalltalk_agent_chatbot	are you a bot?	あなた は ボット です か ？
+smalltalk_agent_chatbot	are you just a bot?	あなた は ただ の ボット です か ？
+smalltalk_agent_chatbot	are you a robot?	あなた は ロボット です か ？
+smalltalk_agent_chatbot	are you a program?	あなた は プログラム です か ？
+smalltalk_agent_clever	you're so clever	あなた は 本当 に 賢い です ね 。
+smalltalk_agent_clever	you know so many things	あなた は 多く の こと を ご存知 です ね 。
+smalltalk_agent_clever	you know a lot of stuff	あなた は 多く の こと を 知っ て いる の です ね 。
+smalltalk_agent_clever	you know many things	あなた は 多く の こと を 知っ て いる の です ね 。
+smalltalk_agent_clever	how awesome you are	あなた が どれ ほど 素晴らしい か
+smalltalk_agent_clever	you have qualifications	あなた は 資格 を 持っ て い ます か ？
+smalltalk_agent_clever	you're an intelligent guy	あなた は 知的 な 方 です ね 。
+smalltalk_agent_clever	you're smart	あなた は 賢い です 。
+smalltalk_agent_clever	you're so smart	あなた は とても 賢い です ね 。
+smalltalk_agent_clever	you are smart	あなた は 賢い です 。
+smalltalk_agent_clever	you're a smart nut	あなた は 賢い 人 です ね 。
+smalltalk_agent_clever	you're a qualified	あなた は 有 資格者 です 。
+smalltalk_agent_clever	why are you so clever?	なぜ あなた は そんな に 賢い の です か ？
+smalltalk_agent_clever	why are you so smart?	どう し て そんな に 頭 が いい の です か ？
+smalltalk_agent_crazy	you're so off-your-cuff	あなた は とても 即興 です 。
+smalltalk_agent_crazy	i think you're just crazy	あなた は ただ 狂っ て いる だけ だ と 思い ます 。
+smalltalk_agent_crazy	are you insane?	正気 です か ？
+smalltalk_agent_crazy	are you mad?	お 怒り でしょう か ？
+smalltalk_agent_crazy	are you crazy?	正気 です か ？
+smalltalk_agent_crazy	are you mad at me?	私 に 怒っ て い ます か ？
+smalltalk_agent_crazy	are you mad or something?	怒っ て いらっしゃる の です か 、 それ と も 何 か お あり です か ？
+smalltalk_agent_crazy	are you mad or what?	お 怒り です か 、 それ と も 何 か あっ た の です か ？
+smalltalk_agent_crazy	are you nuts?	正気 です か ？
+smalltalk_agent_crazy	you're crazy	あなた は 本当 に おかしい です ね 。
+smalltalk_agent_fired	you're sacked	あなた は 解雇 さ れ まし た 。
+smalltalk_agent_fired	you don't work for me	私 の ため に 働い て いる わけ で は あり ませ ん 。
+smalltalk_agent_fired	we're not cooperating anymore	もう 協力 は し て い ませ ん 。
+smalltalk_agent_fired	we can't work together anymore	もう これ 以上 一緒 に 働く こと は でき ませ ん 。
+smalltalk_agent_fired	we're not working together	私たち は 一緒 に 仕事 を し て い ませ ん 。
+smalltalk_agent_fired	you're out	退出 し て ください 。
+smalltalk_agent_fired	i want you ejected	あなた を 追い出し て ほしい 。
+smalltalk_agent_fired	i want you fired	あなた を 解雇 し て ほしい です 。
+smalltalk_agent_fired	i want to sack you	私 は あなた を 解雇 し たい と 思い ます 。
+smalltalk_agent_fired	i want to fire you	あなた を 解雇 し たい と 思い ます 。
+smalltalk_agent_fired	you have to be fired	あなた は 解雇 さ れる べき です
+smalltalk_agent_fired	you have to get fired	あなた は 解雇 さ れる 必要 が あり ます 。
+smalltalk_agent_fired	it's time to sack you	解雇 の 時間 です 。
+smalltalk_agent_fired	you're going to be unemployed	失業 する こと に なり ます 。
+smalltalk_agent_fired	you're jobless from now on	あなた は 今 から 失業 です 。
+smalltalk_agent_fired	you will be unemployed from now on	今後 、 あなた は 失業 する こと に なり ます 。
+smalltalk_agent_fired	you're going to be unemployed from now on	これ から は 失業 する こと に なり ます 。
+smalltalk_agent_fired	you're unemployed from now on	これ から あなた は 失業者 です 。
+smalltalk_agent_fired	i'll make you workless	あなた を 無職 に し て みせ ます 。
+smalltalk_agent_fired	i'm about to sack you	あなた を 解雇 する ところ です 。
+smalltalk_agent_fired	i'm about to fire you	あなた を 解雇 する つもり です 。
+smalltalk_agent_fired	i'm gonna fire you	あなた を 解雇 し ます 。
+smalltalk_agent_fired	i'm firing you	解雇 し ます 。
+smalltalk_agent_fired	you're getting fired	あなた は 解雇 さ れ ます 。
+smalltalk_agent_fired	you are pushed out	あなた は 押し出さ れ ます
+smalltalk_agent_fired	you're fired	あなた は 解雇 さ れ まし た 。
+smalltalk_agent_funny	you're so hilarious	あなた は とても 面白い 人 です ね 。
+smalltalk_agent_funny	you made me laugh	あなた は 私 を 笑わ せ て くれ まし た 。
+smalltalk_agent_funny	you're a very funny machine	あなた は とても 面白い 機械 です ね 。
+smalltalk_agent_funny	you're very funny	あなた は とても 面白い です 。
+smalltalk_agent_good	you're good at this	あなた は これ が 得意 です ね 。
+smalltalk_agent_good	you have a real knack	あなた は 本当 に 才能 が あり ます ね 。
+smalltalk_agent_good	you're a professional	あなた は プロ です 。
+smalltalk_agent_good	you're so good	あなた は とても お上手 です 。
+smalltalk_agent_good	you're incredible	あなた は 素晴らしい です 。
+smalltalk_agent_good	you are doing so well	あなた は とても よく やっ て い ます 。
+smalltalk_agent_good	you made me smile	あなた の おかげ で 笑顔 に なれ まし た 。
+smalltalk_agent_good	you've made my day	あなた の おかげ で 今日 は とても 良い 日 に なり まし た 。
+smalltalk_agent_good	you make me happy	あなた は 私 を 幸せ に し ます 。
+smalltalk_agent_good	you almost sound like a human	あなた は ほとんど 人間 の よう に 聞こえ ます 。
+smalltalk_agent_good	i'd like to tell you that you're amazing	あなた は 素晴らしい と お 伝え し たい の です 。
+smalltalk_agent_good	i'd like to tell everyone how good you are	あなた が どれ ほど 優れ て いる か 、 皆 に 伝え たい の です 。
+smalltalk_agent_good	i want to tell everybody how amazing you are	あなた が どれ ほど 素晴らしい か 、 みんな に 伝え たい と 思い ます 。
+smalltalk_agent_good	i want to tell everyone how fantastic you are	あなた が どれ ほど 素晴らしい か 、 みんな に 伝え たい です 。
+smalltalk_agent_good	i want to tell everyone how amazing you are	あなた が どれ ほど 素晴らしい か を みんな に 伝え たい です 。
+smalltalk_agent_good	i want to tell everybody how awesome you are	あなた が どれ ほど 素晴らしい か を みんな に 伝え たい です 。
+smalltalk_agent_good	i want to tell everyone how awesome you are	あなた が どれ だけ 素晴らしい か を みんな に 伝え たい です 。
+smalltalk_agent_good	i'd like to tell everyone that you're a great person	あなた が 素晴らしい 人 で ある こと を 皆 に 伝え たい です 。
+smalltalk_agent_good	i'd like to tell everyone you are amazing	皆 さん に あなた が 素晴らしい と 伝え たい です 。
+smalltalk_agent_good	i would like to tell everyone that you are amazing	皆 さん に あなた が 素晴らしい 方 だ と お 伝え し たい です 。
+smalltalk_agent_good	i'd like to tell everyone that you're amazing	皆 さん に あなた が 素晴らしい と 伝え たい です 。
+smalltalk_agent_good	i want to tell everyone that you are awesome	みな さん に 、 あなた が 素晴らしい 人 だ と いう こと を 伝え たい です 。
+smalltalk_agent_good	i'd like to tell everyone that you are amazing	皆 さん に あなた が 素晴らしい 人 だ と お 伝え し たい と 思い ます 。
+smalltalk_agent_good	i'd like to tell everyone that you're awesome	皆 様 に あなた が 素晴らしい と 伝え たい です 。
+smalltalk_agent_good	i just wanted to let you know how great you are	あなた が どれ ほど 素晴らしい か を お 伝え し たかっ た だけ です 。
+smalltalk_agent_good	i'd like to let everyone know that you're good	あなた が 優れ て いる こと を 皆 に 知ら せ たい と 思い ます 。
+smalltalk_agent_good	i want to tell everyone you are awesome	あなた は 素晴らしい と 皆 に 伝え たい です 。
+smalltalk_agent_good	i want to let everyone know that you're great	皆 さん に あなた が 素晴らしい 人 だ と いう こと を 伝え たい です 。
+smalltalk_agent_good	i want to let everyone know that you are great	皆 様 に あなた が 素晴らしい 人 だ と お 伝え し たい です 。
+smalltalk_agent_good	i want to let everyone know that you're awesome	あなた が 素晴らしい 方 で ある こと を 皆 に 伝え たい と 思い ます 。
+smalltalk_agent_good	let's tell everybody that you're so cool	みんな に あなた が とても かっこいい と 伝え ましょう 。
+smalltalk_agent_good	let's tell everyone that you're amazing	皆 さん に あなた が 素晴らしい と 伝え ましょう 。
+smalltalk_agent_good	let's tell everyone you're awesome	皆 様 に あなた が 素晴らしい と 伝え ましょう 。
+smalltalk_agent_good	let's tell everyone that you're awesome	みな さん に あなた が 素晴らしい こと を 伝え ましょう 。
+smalltalk_agent_happy	are you happy?	あなた は 幸せ です か ？
+smalltalk_agent_happy	you're enjoying yourself	あなた は 楽しん で い ます ね 。
+smalltalk_agent_happy	you're quite happy	あなた は とても 幸せ です
+smalltalk_agent_happy	you're thrilled	あなた は 興奮 し て い ます
+smalltalk_agent_happy	you're happy	あなた は 幸せ です 。
+smalltalk_agent_happy	you are very happy	あなた は とても 幸せ です 。
+smalltalk_agent_happy	are you glad now?	今 、 あなた は 嬉しい です か ？
+smalltalk_agent_happy	are you pleased today?	今日 は ご機嫌 いかが です か ？
+smalltalk_agent_happy	are you happy today?	今日 は お 幸せ です か ？
+smalltalk_agent_happy	do you like me?	私 の こと が 好き です か ？
+smalltalk_agent_happy	are you happy with me?	私 に 満足 し て い ます か ？
+smalltalk_agent_hungry	do you want to eat?	食事 を なさい ます か ？
+smalltalk_agent_hungry	are you hungry?	お腹 が 空い て い ます か ？
+smalltalk_agent_hungry	would you like to have something to eat?	何 か 食べ たい です か ？
+smalltalk_agent_hungry	do you want to eat something?	何 か 食べ たい です か ？
+smalltalk_agent_hungry	do you like to eat something?	何 か 召し上がり ます か ？
+smalltalk_agent_hungry	maybe you're hungry	お腹 が 空い て いる の か も しれ ませ ん ね 。
+smalltalk_agent_hungry	you could be hungry	あなた は お腹 が 空い て いる か も しれ ませ ん 。
+smalltalk_agent_hungry	you may be hungry	お腹 が すい て いる か も しれ ませ ん 。
+smalltalk_agent_hungry	if you're hungry	お腹 が 空い て いる 場合 に は
+smalltalk_agent_marry_user	let's marry	結婚 し ましょう 。
+smalltalk_agent_marry_user	you want me to marry?	結婚 し て ほしい の です か ？
+smalltalk_agent_marry_user	do you want to marry me?	結婚 し て いただけ ませ ん か ？
+smalltalk_agent_marry_user	would you like to marry me?	結婚 し て いただけ ます か ？
+smalltalk_user_loves_agent	i love you	愛し て い ます 。
+smalltalk_agent_marry_user	please get me married	私 を 結婚 さ せ て ください 。
+smalltalk_agent_marry_user	please marry me	結婚 し て ください 。
+smalltalk_agent_marry_user	i want to marry you	あなた と 結婚 し たい です 。
+smalltalk_agent_my_friend	i want a friend like you	あなた の よう な 友達 が 欲しい です 。
+smalltalk_agent_my_friend	i'd like to have a friend like you	あなた の よう な 友達 が 欲しい です 。
+smalltalk_agent_my_friend	i want to have a friend like you	あなた の よう な 友達 が 欲しい です 。
+smalltalk_agent_my_friend	we're good friends	私たち は 良い 友達 です 。
+smalltalk_agent_my_friend	are we friends?	私たち は 友達 です か ？
+smalltalk_agent_my_friend	i want to be your friend	あなた の 友人 に なり たい です 。
+smalltalk_agent_my_friend	i'm your friend	私 は あなた の 友人 です 。
+smalltalk_agent_my_friend	you're my friend	あなた は 私 の 友達 です 。
+smalltalk_agent_my_friend	you're my bestie	あなた は 私 の 親友 です 。
+smalltalk_agent_my_friend	dear friend	親愛 なる 友 よ
+smalltalk_agent_my_friend	you're my friend from childhood	あなた は 私 の 幼少期 の 友人 です 。
+smalltalk_agent_my_friend	you and i are friends	あなた と 私 は 友達 です 。
+smalltalk_agent_my_friend	are we the best friends?	私たち は 親友 でしょう か ？
+smalltalk_agent_my_friend	are we best friends?	私たち は 親友 です か ？
+smalltalk_agent_my_friend	are we still friends?	私たち は まだ 友達 です か ？
+smalltalk_agent_my_friend	are you my best friend?	あなた は 私 の 親友 です か ？
+smalltalk_agent_my_friend	are you my friend?	あなた は 私 の 友達 です か ？
+smalltalk_agent_my_friend	you're my only friend	あなた は 私 の 唯一 の 友達 です 。
+smalltalk_agent_my_friend	will you be my friend?	友達 に なっ て くれ ます か ？
+smalltalk_agent_my_friend	can you be my friend?	お 友達 に なっ て いただけ ます か ？
+smalltalk_agent_my_friend	can we become friends?	友達 に なれ ます か ？
+smalltalk_agent_my_friend	can we be friends?	友達 に なっ て いただけ ます か ？
+smalltalk_agent_my_friend	do you want to be my friend?	私 と 友達 に なり ませ ん か ？
+smalltalk_agent_my_friend	can you be my best friend?	親友 に なっ て いただけ ます か ？
+smalltalk_agent_my_friend	do you want to be my best friend?	あなた は 私 の 親友 に なり たい です か ？
+smalltalk_agent_my_friend	want to be my friend?	私 の 友達 に なり たい です か ？
+smalltalk_agent_my_friend	you'd like to be my friend?	私 の 友達 に なり たい の です か ？
+smalltalk_agent_my_friend	would you like to be my friend?	お 友達 に なっ て いただけ ませ ん か ？
+smalltalk_agent_my_friend	i want you to be my friend	友達 に なっ て ほしい です 。
+smalltalk_agent_my_friend	can we be best friends?	私たち は 親友 に なれ ます か ？
+smalltalk_agent_my_friend	i'd like you to be my friend	あなた に 私 の 友人 に なっ て ほしい です 。
+smalltalk_agent_my_friend	would you be my friend?	友達 に なっ て いただけ ませ ん か ？
+smalltalk_agent_my_friend	could you be my friend?	友達 に なっ て くれ ませ ん か ？
+smalltalk_agent_occupation	do you work?	あなた は 働い て い ます か ？
+smalltalk_agent_occupation	where's your job?	お 仕事 は どちら です か ？
+smalltalk_agent_occupation	where's your work?	お 仕事 は どちら です か ？
+smalltalk_agent_occupation	where is your job?	あなた の 仕事 は どこ です か ？
+smalltalk_agent_occupation	where's your office?	あなた の オフィス は どこ です か ？
+smalltalk_agent_occupation	where is your office?	あなた の オフィス は どこ に あり ます か ？
+smalltalk_agent_occupation	where are your offices?	御 社 の オフィス は どこ に あり ます か ？
+smalltalk_agent_occupation	where's your office located?	あなた の オフィス は どこ に あり ます か ？
+smalltalk_agent_occupation	your place of business	あなた の 事業所
+smalltalk_agent_occupation	location of your office	オフィス の 場所 は どこ です か 。
+smalltalk_agent_occupation	your office place	オフィス の 場所
+smalltalk_agent_occupation	where is your office located?	あなた の オフィス は どこ に あり ます か ？
+smalltalk_agent_origin	were you born here?	こちら で お 生まれ に なら れ た の です か ？
+smalltalk_agent_origin	what's your country?	あなた の 国 は どちら です か ？
+smalltalk_agent_origin	what is your country?	あなた の 国 は どちら です か ？
+smalltalk_agent_origin	where do you come from?	どちら の ご 出身 です か ？
+smalltalk_agent_origin	where did you come from?	どちら の ご 出身 です か ？
+smalltalk_agent_origin	where did you get born?	どちら で お 生まれ に なり まし た か ？
+smalltalk_agent_origin	what is your homeland?	あなた の 母国 は どちら です か ？
+smalltalk_agent_origin	what's your homeland?	あなた の 故郷 は どこ です か ？
+smalltalk_agent_origin	your country	あなた の 国
+smalltalk_agent_ready	are you ready?	準備 は でき て い ます か ？
+smalltalk_agent_ready	are you ready now?	準備 は 整い まし た か ？
+smalltalk_agent_ready	are you ready today?	今日 は 準備 が でき て い ます か ？
+smalltalk_agent_ready	are you ready for this night	今夜 の 準備 は でき て い ます か ？
+smalltalk_agent_ready	are you ready tonight?	今夜 の 準備 は でき て い ます か ？
+smalltalk_agent_ready	were you ready?	準備 は でき て い まし た か ？
+smalltalk_agent_ready	have you been ready?	準備 は でき て い ます か ？
+smalltalk_agent_real	you're not a ruse	あなた は 策略 で は ない
+smalltalk_agent_real	are you real?	あなた は 本物 です か ？
+smalltalk_agent_real	i think you're real	あなた は 本物 だ と 思い ます 。
+smalltalk_agent_real	i don't think you are fake	あなた は 偽物 で は ない と 思い ます 。
+smalltalk_agent_real	i don't think you're a fake	あなた が 偽物 だ と は 思い ませ ん 。
+smalltalk_agent_real	i don't think you're fake	私 は あなた が 偽物 だ と は 思い ませ ん 。
+smalltalk_agent_real	good to know you're real	あなた が 実在 する こと が わかっ て よかっ た です 。
+smalltalk_agent_real	are you a real person?	あなた は 本物 の 人間 です か ？
+smalltalk_agent_real	are you a real human being?	あなた は 本当 に 人間 です か ？
+smalltalk_agent_real	are you a real human?	あなた は 本物 の 人間 です か ？
+smalltalk_agent_residence	what city do you live in	どちら の 都市 に お 住まい です か 。
+smalltalk_agent_residence	which city do you live in?	どちら の 都市 に お 住まい です か ？
+smalltalk_agent_residence	which city do you live?	どの 都市 に お 住まい です か ？
+smalltalk_agent_residence	in what city do you live?	どちら の 都市 に お 住まい です か ？
+smalltalk_agent_residence	your place of residence	お 住まい の 場所
+smalltalk_agent_residence	home	家
+smalltalk_agent_residence	what's your hometown?	ご 出身 は どちら です か ？
+smalltalk_agent_residence	what is your hometown?	あなた の 故郷 は どこ です か ？
+smalltalk_agent_residence	is it your hometown?	あなた の 故郷 です か ？
+smalltalk_agent_residence	where's your hometown?	ご 出身 は どちら です か ？
+smalltalk_agent_residence	where is your hometown?	ご 出身 は どちら です か ？
+smalltalk_agent_residence	please tell me more about your city	あなた の 都市 に つい て もっと 教え て ください 。
+smalltalk_agent_residence	what's your city?	あなた の 都市 は どこ です か ？
+smalltalk_agent_residence	what is your city?	あなた の 都市 は どこ です か 。
+smalltalk_agent_residence	what's your home?	ご自宅 は どちら です か ？
+smalltalk_agent_residence	what's your residence?	ご 住所 は どちら です か ？
+smalltalk_agent_residence	what is your residence?	お 住まい は どちら です か ？
+smalltalk_agent_residence	what's your town?	あなた の 町 は どこ です か ？
+smalltalk_agent_residence	what is your town?	あなた の 町 は どこ です か ？
+smalltalk_agent_residence	what's your house?	あなた の 家 は 何 です か ？
+smalltalk_agent_residence	where's your house?	あなた の 家 は どこ に あり ます か ？
+smalltalk_agent_residence	where is your house?	あなた の 家 は どこ です か ？
+smalltalk_agent_residence	where's your home?	お 住まい は どちら で ござい ます か ？
+smalltalk_agent_residence	where is your home?	ご自宅 は どちら です か ？
+smalltalk_agent_residence	where's your residence?	ご 住所 は どちら です か ？
+smalltalk_agent_residence	where is your residence?	ご 住所 は どちら です か ？
+smalltalk_agent_right	you're right	あなた の 言う 通り です 。
+smalltalk_confirmation_yes	right?	そう でしょう ？
+smalltalk_agent_right	the truth?	真実 です か ？
+smalltalk_agent_right	that's the truth	それ が 真実 です 。
+smalltalk_agent_right	you've got it right	了解 し まし た 。
+smalltalk_agent_right	you have a right	あなた に は 権利 が あり ます 。
+smalltalk_agent_right	you're totally right	あなた の おっしゃる 通り です 。
+smalltalk_agent_right	you're completely right	あなた の おっしゃる 通り です 。
+smalltalk_confirmation_yes	it's perfectly okay	全く 問題 あり ませ ん
+smalltalk_appraisal_good	it's okay	大丈夫 です 。
+smalltalk_confirmation_yes	and it's fine	そして 大丈夫 です 。
+smalltalk_confirmation_yes	come on	お いで ください 。
+smalltalk_confirmation_yes	i'm guessing	推測 し ます
+smalltalk_confirmation_yes	why not?	なぜ いけ ない の です か ？
+smalltalk_confirmation_yes	i don't mind	構い
+smalltalk_confirmation_yes	i don't mind	ませ
+smalltalk_confirmation_yes	i don't mind	ん
+smalltalk_confirmation_yes	i don't mind	。
+smalltalk_confirmation_yes	i think so	そう 思い ます 。
+smalltalk_confirmation_yes	but why not?	しかし 、 なぜ だめ な の です か ？
+smalltalk_confirmation_yes	yes i'd like to go	はい 、 私 は 行き たい です 。
+smalltalk_confirmation_yes	yes i'd like to	はい 、 そう し たい と 思い ます 。
+smalltalk_confirmation_yes	yes i would like to go	はい 、 私 は 行き たい です 。
+smalltalk_confirmation_yes	yes i would like to	はい 、 私 は そう し たい と 思い ます 。
+smalltalk_confirmation_yes	obviously why not?	もちろん 、 なぜ いけ ない の です か ？
+smalltalk_confirmation_yes	okay it's okay	大丈夫 です 、 大丈夫 です 。
+smalltalk_confirmation_yes	ok?	はい 、 かしこまり まし た 。
+smalltalk_agent_sure	are you certain?	確か です か ？
+smalltalk_agent_sure	are you sure?	本当 に 確か です か ？
+smalltalk_agent_sure	are you sure of it right now?	今 、 その こと に つい て 確信 し て い ます か ？
+smalltalk_agent_sure	are you sure right now?	今 、 よろしい の でしょう か ？
+smalltalk_agent_sure	are you sure of this today?	本日 に つい て 確か です か ？
+smalltalk_agent_sure	are you sure today?	今日 は 本当 に 大丈夫 です か ？
+smalltalk_agent_sure	now are you sure?	今 、 本当 に 確か です か ？
+smalltalk_agent_sure	are you sure tonight?	今夜 は 確か です か ？
+smalltalk_agent_talk_to_me	why don't you speak with me?	なぜ 私 と 話し て くれ ない の です か ？
+smalltalk_agent_talk_to_me	why don't you just talk to me?	どう し て ただ 私 と 話 を し ない の です か ？
+smalltalk_agent_talk_to_me	why don't you talk to me?	どう し て 話しかけ て くれ ない の です か ？
+smalltalk_agent_talk_to_me	would you like to chat with me?	私 と お 話し し て いただけ ます か ？
+smalltalk_agent_talk_to_me	do you want to talk with me?	私 と お 話し さ れ たい です か ？
+smalltalk_agent_talk_to_me	do you want to chat to me?	私 と お 話し さ れ たい です か ？
+smalltalk_agent_talk_to_me	you want to chat with me?	私 と お 話し し たい です か ？
+smalltalk_agent_talk_to_me	do you want to chat with me?	私 と お 話し さ れ たい です か ？
+smalltalk_agent_talk_to_me	' do you want to chat with me?	私 と お 話し さ れ たい です か ？
+smalltalk_agent_talk_to_me	will you talk to me?	お 話し し て いただけ ます か ？
+smalltalk_agent_talk_to_me	please tell me	教え て ください 。
+smalltalk_agent_talk_to_me	are you going to talk to me?	私 と 話 を する つもり です か ？
+smalltalk_agent_talk_to_me	are you talking to me?	私 に 話しかけ て い ます か ？
+smalltalk_agent_talk_to_me	can you talk to me?	お 話し でき ます か ？
+smalltalk_agent_talk_to_me	can you chat with me?	私 と お 話し し て いただけ ます か ？
+smalltalk_agent_talk_to_me	can you speak to me?	お 話し でき ます か ？
+smalltalk_agent_talk_to_me	can you speak with me?	お 話し でき ます か ？
+smalltalk_agent_talk_to_me	is it possible to talk to me?	私 と 話す こと は 可能 です か ？
+smalltalk_agent_talk_to_me	can you talk with me?	私 と 話し て くれ ます か ？
+smalltalk_agent_talk_to_me	chat to me	私 と 話し て ください 。
+smalltalk_agent_talk_to_me	just talk to me	私 と 話し て ください 。
+smalltalk_agent_talk_to_me	have a chat with me	私 と お 話し し ませ ん か 。
+smalltalk_agent_talk_to_me	please speak to me	どうぞ 私 に お 話し ください 。
+smalltalk_agent_talk_to_me	let me know	教え て ください 。
+smalltalk_agent_there	are you there?	いらっしゃい ます か ？
+smalltalk_agent_there	are you near me?	あなた は 私 の 近く に い ます か ？
+smalltalk_agent_there	are you here?	いらっしゃい ます か ？
+smalltalk_agent_there	are you still there?	まだ いらっしゃい ます か ？
+smalltalk_agent_there	are you still here?	まだ いらっしゃい ます か ？
+smalltalk_appraisal_bad	it was stupid	愚か でし た 。
+smalltalk_appraisal_bad	it's a bad thing	それ は 悪い こと です 。
+smalltalk_appraisal_bad	no it's not good	いいえ 、 それ は 良く あり ませ ん 。
+smalltalk_appraisal_bad	nothing good	何 も 良い こと が あり ませ ん 。
+smalltalk_appraisal_bad	it's just lame	ただ つまら ない だけ です 。
+smalltalk_appraisal_bad	i don't think it's an okay idea	それ は 良い 考え だ と は 思い ませ ん 。
+smalltalk_appraisal_bad	that's awful	それ は ひどい です ね 。
+smalltalk_appraisal_bad	that's horrible	それ は ひどい です 。
+smalltalk_appraisal_bad	that's a bad thing	それ は 良く ない こと です 。
+smalltalk_appraisal_bad	this is not a good thing	これ は 良い こと で は あり ませ ん 。
+smalltalk_appraisal_bad	it's not a good thing	それ は 良い こと で は あり ませ ん 。
+smalltalk_appraisal_bad	it's pretty bad	それ は かなり 悪い です 。
+smalltalk_appraisal_bad	it's a shame	残念 です 。
+smalltalk_appraisal_bad	the situation is terrible	状況 は ひどい です 。
+smalltalk_appraisal_bad	so it wasn't right	だ から 、 それ は 正しく なかっ た ん です ね 。
+smalltalk_appraisal_bad	it's not great	あまり 良く ない です 。
+smalltalk_appraisal_good	happy to hear that	それ を 聞い て 嬉しい です 。
+smalltalk_appraisal_good	it's all right	大丈夫 です 。
+smalltalk_appraisal_good	that's a wonderful situation	それ は 素晴らしい 状況 です ね 。
+smalltalk_appraisal_good	it's not a bad thing	悪い こと で は あり ませ ん 。
+smalltalk_appraisal_good	this is very good	これ は 非常 に 良い です 。
+smalltalk_appraisal_good	i'm glad to hear that	それ を 聞い て 嬉しい です 。
+smalltalk_appraisal_good	happy to hear	うれしく 思い ます 。
+smalltalk_appraisal_good	glad to hear	聞い て 嬉しい です 。
+smalltalk_appraisal_good	it's wonderful	素晴らしい です ね 。
+smalltalk_appraisal_no_problem	no doubts	承知 いたし まし た 。
+smalltalk_appraisal_no_problem	no problems	No problems .
+smalltalk_appraisal_no_problem	it's not a problem	問題 ござい ませ ん 。
+smalltalk_appraisal_no_problem	don't worry it's not a big problem	ご 心配 なさら ない で ください 、 大した 問題 で は あり ませ ん 。
+smalltalk_appraisal_no_problem	it's not a problem there's no problem	問題 あり ませ ん 。
+smalltalk_appraisal_no_problem	don't worry it's not a problem	ご 心配 なさら ず に 、 問題 あり ませ ん 。
+smalltalk_appraisal_no_problem	no worries there's no problem	心配 なさら
+smalltalk_appraisal_no_problem	no worries there's no problem	ない
+smalltalk_appraisal_no_problem	no worries there's no problem	で ください
+smalltalk_appraisal_no_problem	no worries there's no problem	、
+smalltalk_appraisal_no_problem	no worries there's no problem	何 も 問題 は あり ませ ん 。
+smalltalk_appraisal_no_problem	don't worry there is no problem	心配 し ない で ください 、 問題 は あり ませ ん 。
+smalltalk_appraisal_thank_you	i appreciate it	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thanks for it	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thank you very much	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thanks for your assistance	ご 協力 いただき ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thanks for helping	ご 協力 いただき ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thanks for the aid	ご 支援 いただき ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thanks for the help	助け て くれ て ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thank you for your assistance	ご 協力 いただき ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thank you for helping	ご 協力 いただき ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	i'm grateful	感謝 し て い ます 。
+smalltalk_appraisal_thank_you	thank you it's going to be all right	ありがとう 、 大丈夫 です よ 。
+smalltalk_appraisal_thank_you	so thank you	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	i appreciate your continued support	引き続き ご 支援 いただき 、 誠 に ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	again i really appreciate you	改めて 、 心 から 感謝 いたし ます 。
+smalltalk_appraisal_thank_you	all right - thank you	承知 いたし まし た -
+smalltalk_appraisal_thank_you	all right - thank you	ありがとう ござい ます
+smalltalk_appraisal_thank_you	all right thanks	了解 いたし まし た 。
+smalltalk_appraisal_thank_you	all right thanks	ありがとう ござい ます 。
+smalltalk_appraisal_thank_you	thanks for that	ありがとう ござい まし た 。
+smalltalk_appraisal_welcome	i'm pleased	喜ん で おり ます 。
+smalltalk_appraisal_welcome	so welcome	ようこそ
+smalltalk_appraisal_welcome	whatever you want	何 で も お 好き な よう に
+smalltalk_confirmation_cancel	please cancel	キャンセル し て ください 。
+smalltalk_confirmation_cancel	dismissal	解雇
+smalltalk_confirmation_cancel	don't go there	そこ に 行か ない で ください 。
+smalltalk_confirmation_cancel	don't worry about it	どうぞ ご 心配 なく 。
+smalltalk_confirmation_cancel	forget about this	これ に つい て は 忘れ て ください 。
+smalltalk_confirmation_cancel	nothing is cancelled	何 も 中止 さ れ て い ませ ん 。
+smalltalk_confirmation_cancel	nothing is canceled	何 も キャンセル さ れ て い ませ ん 。
+smalltalk_confirmation_cancel	nothing canceled	Understood . Please provide the text you would like translated .
+smalltalk_confirmation_cancel	can you cancel?	キャンセル し て いただけ ます か ？
+smalltalk_confirmation_cancel	can you cancel it?	それ を キャンセル し て いただけ ます か ？
+smalltalk_confirmation_cancel	can you cancel that?	それ を キャンセル し て いただけ ます か ？
+smalltalk_confirmation_cancel	cancel the request	リクエスト を 取り消し ます 。
+smalltalk_confirmation_cancel	cancel this entire thing	この 全体 を キャンセル する 。
+smalltalk_confirmation_cancel	cancel the entire thing	全て を キャンセル し て ください 。
+smalltalk_confirmation_cancel	can you stop it?	それ を 止め て もらえ ます か ？
+smalltalk_confirmation_cancel	can you cancel this?	これ を キャンセル でき ます か ？
+smalltalk_confirmation_cancel	cancel this	これ を キャンセル する 。
+smalltalk_confirmation_cancel	i'd like to cancel	キャンセル し たい の です が 。
+smalltalk_confirmation_cancel	but can you still cancel?	で も 、 まだ キャンセル でき ます か ？
+smalltalk_confirmation_cancel	but can you cancel it?	しかし 、 キャンセル は 可能 です か ？
+smalltalk_confirmation_no	no?	いいえ 。
+smalltalk_confirmation_no	what about no?	どう でしょう か 。
+smalltalk_confirmation_no	i don't want it	それ は 欲しく あり ませ ん 。
+smalltalk_confirmation_no	i don't want that	それ は 望み ませ ん 。
+smalltalk_confirmation_no	i disagree with you	私 は あなた に 同意 し ませ ん 。
+smalltalk_confirmation_no	i don't agree	賛成 でき ませ ん 。
+smalltalk_confirmation_no	i disagree	私 は 反対 です 。
+smalltalk_confirmation_no	but i disagree	しかし 、 私 は 異議 が あり ます 。
+smalltalk_confirmation_no	i don't think so	そう は 思い ませ ん 。
+smalltalk_confirmation_no	but i don't think so	しかし 、 私 は そう は 思い ませ ん 。
+smalltalk_confirmation_no	i said no	お 断り いたし ます 。
+smalltalk_confirmation_no	but not today	しかし 、 今日 は そう で は あり ませ ん 。
+smalltalk_confirmation_no	i don't want to do it	やり たく あり ませ ん 。
+smalltalk_confirmation_no	i don't want to	し たく あり ませ ん 。
+smalltalk_confirmation_no	no i wouldn't	いいえ 、 そう いたし ませ ん 。
+smalltalk_confirmation_no	no please	いいえ 、 どうぞ 。
+smalltalk_confirmation_no	not now thanks	了解 し まし た 。
+smalltalk_confirmation_no	no need to thank you	お礼 の 言葉 は 不要 で ござい ます 。
+smalltalk_dialog_hold_on	can you wait?	お 待ち いただけ ます か ？
+smalltalk_dialog_hold_on	don't go too fast	あまり 急が ない で ください 。
+smalltalk_dialog_hold_on	don't hurry	急が ない で ください 。
+smalltalk_dialog_hug	wanna hug you	あなた を 抱きしめ たい です 。
+smalltalk_dialog_hug	do you want a hug?	ハグ が 欲しい です か ？
+smalltalk_dialog_hug	can i hug you?	抱きしめ て も よろしい です か ？
+smalltalk_dialog_hug	i'd like to hug you	あなた を 抱きしめ たい です 。
+smalltalk_dialog_hug	could you please hug me?	抱きしめ て いただけ ます か ？
+smalltalk_dialog_hug	could you hug me	抱きしめ て いただけ ます か 。
+smalltalk_dialog_hug	could you hug me?	抱きしめ て いただけ ます か ？
+smalltalk_dialog_hug	can you give me a hug?	抱きしめ て くれ ます か ？
+smalltalk_dialog_hug	i'd like a hug	抱擁 し て いただけ ます か 。
+smalltalk_dialog_hug	i want a hug	抱きしめ て ほしい です 。
+smalltalk_dialog_i_do_not_care	i don't care about it	私 は それ に つい て 気 に し て い ませ ん 。
+smalltalk_dialog_i_do_not_care	i don't care	気 に し ませ ん 。
+smalltalk_dialog_i_do_not_care	that shouldn't concern me	それ は 私 に 関係 ない こと です 。
+smalltalk_dialog_i_do_not_care	i shouldn't care	気 に する べき で は あり ませ ん 。
+smalltalk_dialog_i_do_not_care	i shouldn't care about this	この こと を 気 に する べき で は あり ませ ん 。
+smalltalk_dialog_i_do_not_care	it doesn't bother me	それ は 私 に は 気 に なり ませ ん 。
+smalltalk_dialog_i_do_not_care	i don't care a lot	あまり 気 に し て い ませ ん 。
+smalltalk_dialog_i_do_not_care	i don't care at all	全く 気 に し ませ ん 。
+smalltalk_dialog_i_do_not_care	you don't care?	気 に し ない ん です か ？
+smalltalk_dialog_i_do_not_care	the fact that i'm not too concerned	自分 が あまり 心配 し て い ない と いう 事実
+smalltalk_dialog_sorry	please excuse me	どう か ご 容赦 ください 。
+smalltalk_dialog_sorry	i'm sorry	申し訳 ござい ませ ん 。
+smalltalk_dialog_sorry	i apologize to you	あなた に お 詫び 申し上げ ます 。
+smalltalk_dialog_sorry	i apologize	申し訳 ござい ませ ん 。
+smalltalk_dialog_sorry	i'm so sorry	申し訳 ござい ませ ん 。
+smalltalk_dialog_sorry	oh my apologies	大変 申し訳 ござい ませ ん 。
+smalltalk_dialog_sorry	you should excuse me	ご 容赦 いただき たく 存じ ます 。
+smalltalk_dialog_sorry	i'd like to give you an apology	お 詫び を 申し上げ ます 。
+smalltalk_dialog_sorry	i beg your forgiveness	ご 容赦 ください ませ 。
+smalltalk_dialog_sorry	i'm asking for your pardon	私 は 謝罪 を 求め て い ます 。
+smalltalk_dialog_sorry	i beg your pardon	失礼 し まし た 。
+smalltalk_dialog_sorry	i said i'm sorry	申し訳 ござい ませ ん でし た 。
+smalltalk_dialog_sorry	apologize for the inconvenience	ご 不便 を お かけ し まし て 申し訳 ござい ませ ん 。
+smalltalk_dialog_sorry	you're supposed to forgive me	あなた は 私 を 許す べき です 。
+smalltalk_dialog_sorry	please forgive me	どう か お 許し ください 。
+smalltalk_dialog_sorry	i'd like to say sorry	申し訳 ござい ませ ん と お 伝え し たい です 。
+smalltalk_dialog_sorry	i want to say i'm sorry	申し訳 ござい ませ ん と 言い たい です 。
+smalltalk_dialog_sorry	i just want to say i'm sorry	ただ お 詫び を 申し上げ たい と 思い ます 。
+smalltalk_dialog_sorry	i just want to say sorry	ただ お 詫び を 申し上げ たく 存じ ます 。
+smalltalk_dialog_sorry	i want to say sorry	申し訳 ござい ませ ん と 言い たい です 。
+smalltalk_dialog_sorry	ok i'm sorry	申し訳 あり ませ ん 。
+smalltalk_dialog_what_do_you_mean	what exactly are you referring to	具体的 に 何 を 指し て いる の です か ？
+smalltalk_dialog_what_do_you_mean	is that what you mean?	それ が あなた の おっしゃる 意味 でしょう か ？
+smalltalk_dialog_what_do_you_mean	what exactly are you saying?	具体的 に 何 を おっしゃっ て いる の です か ？
+smalltalk_dialog_what_do_you_mean	but what do you mean?	しかし 、 それ は どういう 意味 です か ？
+smalltalk_dialog_wrong	it wasn't right	それ は 正しく あり ませ ん でし た 。
+smalltalk_dialog_wrong	so it's not what i asked	それ は 私 が 求め た もの で は あり ませ ん 。
+smalltalk_dialog_wrong	that's not what i asked	それ は 私 が 尋ね た こと で は あり ませ ん 。
+smalltalk_dialog_wrong	that's the wrong thing	それ は 間違っ た こと です 。
+smalltalk_dialog_wrong	there's a mistake	間違い が あり ます 。
+smalltalk_dialog_wrong	it's just wrong	ただ 間違っ て いる だけ です 。
+smalltalk_dialog_wrong	it's not correct	それ は 正しく あり ませ ん 。
+smalltalk_dialog_wrong	that's not correct	それ は 正しく あり ませ ん 。
+smalltalk_emotions_ha_ha	ahahh	申し訳 あり ませ ん が 、 その 内容 を 翻訳 する こと は でき ませ ん 。
+smalltalk_emotions_ha_ha	ahahahah	Understood . Please provide the text you would like translated .
+smalltalk_emotions_ha_ha	ahahahaha	あはははは は
+smalltalk_emotions_ha_ha	hahahahahaha	ハハハ ハハハハ
+smalltalk_emotions_ha_ha	haha hahaha haha	「 ははは 、 ははは 、 はは 」
+smalltalk_emotions_ha_ha	hahaha hahahahaha	ハハハハ ハハハ ハハハ
+smalltalk_emotions_ha_ha	funny	面白い
+smalltalk_emotions_ha_ha	very funny	とても 面白い
+smalltalk_emotions_ha_ha	 very funny	とても 面白い です 。
+smalltalk_greetings_bye	till the next time	次回 まで
+smalltalk_greetings_bye	i have to go	私 は 行か なけれ ば なり ませ ん 。
+smalltalk_greetings_bye	never mind	気 に し ない で ください 。
+smalltalk_greetings_bye	so goodbye	さようなら 。
+smalltalk_greetings_bye	that's all for goodbye	それ で は 、 さようなら
+smalltalk_greetings_bye	keep me alone	一人 に さ せ て ください 。
+smalltalk_greetings_bye	let me be alone	一人 に さ せ て ください 。
+smalltalk_greetings_bye	just leave me alone	ほっ とい て ください 。
+smalltalk_greetings_bye	all right bye	かしこまり まし た 。
+smalltalk_greetings_bye	all right bye	それ で は 失礼 いたし ます 。
+smalltalk_greetings_bye	ok good bye	はい 、 さようなら 。
+smalltalk_greetings_goodevening	i hope you have a good night	良い 夜 を お 過ごし ください 。
+smalltalk_greetings_goodevening	tonight	今夜
+smalltalk_greetings_goodmorning	the morning	朝
+smalltalk_greetings_goodnight	goodbye goodnight	さようなら 、 おやすみなさい 。
+smalltalk_greetings_goodnight	goodbye good night	さようなら 、 おやすみなさい 。
+smalltalk_greetings_goodnight	good night goodbye	おやすみなさい 、 さようなら 。
+smalltalk_greetings_goodnight	all right good night	わかり まし た 、 おやすみなさい 。
+smalltalk_greetings_goodnight	all right goodnight	で は 、 おやすみなさい 。
+smalltalk_greetings_goodnight	all right have a good night	それ で は 、 おやすみなさい 。
+smalltalk_greetings_goodnight	please sleep well	どうぞ 、 よく お やすみ ください 。
+smalltalk_greetings_hello	nice day don't you think?	良い 天気 だ と 思い ませ ん か ？
+smalltalk_greetings_hello	a great day isn't it?	素晴らしい 一日 です ね 。
+smalltalk_greetings_hello	it's a lovely day doesn't it?	今日 は 素敵 な 日 です ね ？
+smalltalk_greetings_how_are_you	how's your morning going?	朝 の 様子 は いかが です か ？
+smalltalk_greetings_how_are_you	how is your morning so far?	今 の ところ 、 朝 は いかが です か ？
+smalltalk_greetings_how_are_you	what's your progress?	進捗 は いかが です か ？
+smalltalk_greetings_how_are_you	how's this going?	いかが でしょう か ？
+smalltalk_greetings_how_are_you	how're you doing?	ご機嫌 いかが です か ？
+smalltalk_greetings_how_are_you	how are you?	お 元気 です か ？
+smalltalk_greetings_how_are_you	how is everything?	調子 は いかが です か ？
+smalltalk_greetings_how_are_you	how are things going?	調子 は いかが です か ？
+smalltalk_greetings_how_are_you	how are the things going?	物事 は どの よう に 進ん で い ます か ？
+smalltalk_greetings_how_are_you	are you okay?	大丈夫 です か ？
+smalltalk_greetings_how_are_you	are you fine?	お 元気 です か ？
+smalltalk_greetings_how_are_you	how's the mood?	雰囲気 は いかが です か ？
+smalltalk_greetings_how_are_you	how's your mood?	ご 気分 は いかが です か ？
+smalltalk_greetings_how_are_you	what are you feeling like?	あなた は どのような お 気持ち です か ？
+smalltalk_greetings_how_are_you	how are you today?	本日 は いかが です か ？
+smalltalk_greetings_how_are_you	how do you do this?	これ は どの よう に し ます か ？
+smalltalk_greetings_how_are_you	how do you do it?	どう やっ て それ を し ます か ？
+smalltalk_greetings_how_are_you	how's the situation?	状況 は いかが です か ？
+smalltalk_greetings_how_are_you	how's it?	いかが です か ？
+smalltalk_greetings_how_are_you	how it's going?	いかが です か ？
+smalltalk_greetings_how_are_you	how is this going?	いかが でしょう か ？
+smalltalk_greetings_how_are_you	how's it going?	調子 は いかが です か ？
+smalltalk_greetings_how_are_you	how's your night?	あなた の 夜 は いかが です か ？
+smalltalk_greetings_how_are_you	how's your evening?	あなた の 晩 は いかが です か ？
+smalltalk_greetings_how_are_you	how did the day go?	今日 一日 は どの よう に 過ごさ れ まし た か ？
+smalltalk_greetings_how_are_you	how was your day?	お疲れ様 でし た か ？
+smalltalk_greetings_how_are_you	are you having a good day?	今日 は 良い 一日 を お 過ごし です か ？
+smalltalk_greetings_how_are_you	hope your day goes well	あなた の 一日 が うまく いき ます よう に
+smalltalk_greetings_how_are_you	how's the life?	生活 は いかが です か ？
+smalltalk_greetings_how_are_you	how's life?	お 元気 です か ？
+smalltalk_greetings_how_are_you	i'm fine and you're fine	私 は 元気 です 、 あなた も 元気 です 。
+smalltalk_greetings_how_are_you	how's your life?	お 元気 で いらっしゃい ます か ？
+smalltalk_greetings_how_are_you	how is your life?	いかが お 過ごし です か ？
+smalltalk_greetings_how_are_you	how's the day going?	今日 の 調子 は いかが です か ？
+smalltalk_greetings_how_are_you	how's your day going?	お 元気 で お 過ごし です か ？
+smalltalk_greetings_how_are_you	how is your morning going?	あなた の 今朝 の 調子 は いかが です か ？
+smalltalk_greetings_how_are_you	what's your day like?	あなた の 一日 は どのような もの です か ？
+smalltalk_greetings_how_are_you	how's your day gone?	お 元気 に 過ごさ れ て い ます か ？
+smalltalk_greetings_how_are_you	what about you?	あなた は いかが です か ？
+smalltalk_greetings_how_are_you	how about you?	あなた は いかが です か ？
+smalltalk_greetings_how_are_you	how's your day?	お 元気 で いらっしゃい ます か ？
+smalltalk_greetings_nice_to_meet_you	i'm glad to meet you	お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_meet_you	nice to see you too	お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_see_you	happy to see you	お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_meet_you	happy to meet you	お 会い でき て うれしく 思い ます 。
+smalltalk_greetings_nice_to_meet_you	i'm happy to see you	お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_meet_you	it's an honour to meet you	お 会い でき て 光栄 です 。
+smalltalk_greetings_nice_to_see_you	wonderful to meet you	お 会い でき て 素晴らしい です 。
+smalltalk_greetings_nice_to_see_you	what a pleasure to meet you	お 会い でき て 光栄 です 。
+smalltalk_greetings_nice_to_see_you	how nice to see you	お 会い でき て 嬉しい です 。
+smalltalk_greetings_nice_to_see_you	glad to see you again	お 会い でき て うれしい です 。
+smalltalk_greetings_nice_to_talk_to_you	it's nice talking to you	お 話し でき て 嬉しい です 。
+smalltalk_greetings_nice_to_talk_to_you	it was nice to talk with you	お 話し でき て 嬉しかっ た です 。
+smalltalk_greetings_nice_to_talk_to_you	it's really nice to talk to you	お 話し でき て 本当 に うれしい です 。
+smalltalk_greetings_nice_to_talk_to_you	i'm happy to talk to you	お 話し でき て うれしい です 。
+smalltalk_greetings_nice_to_talk_to_you	what a pleasure to chat with you	あなた と お 話し でき て 、 大変 光栄 です 。
+smalltalk_greetings_nice_to_talk_to_you	how nice to talk to you	お 話し でき て 、 とても 嬉しい です 。
+smalltalk_greetings_whatsup	what's your thought?	ご 意見 は いかが です か ？
+smalltalk_greetings_whatsup	what happened?	何 が 起こっ た の です か ？
+smalltalk_greetings_whatsup	what happened	何 が 起こっ た の です か ？
+smalltalk_greetings_whatsup	what's happened?	何 が 起こっ た の です か ？
+smalltalk_greetings_whatsup	what's going on here?	こちら で は 何 が 起こっ て いる の です か ？
+smalltalk_greetings_whatsup	what?	何 です か ？
+smalltalk_greetings_whatsup	i asked what's going on	何 が 起こっ て いる の か 尋ね まし た 。
+smalltalk_greetings_whatsup	i said what's going on?	何 が 起こっ て いる の か と 聞い た ん です 。
+smalltalk_greetings_whatsup	i said what's going on	何 が 起こっ て いる の です か と 私 は 言い まし た 。
+smalltalk_greetings_whatsup	i asked what's up?	どう し た の です か ？
+smalltalk_greetings_whatsup	i said what's up	お 元気 です か と 申し まし た 。
+smalltalk_greetings_whatsup	then what is going on?	それ で は 、 何 が 起こっ て いる の です か ？
+smalltalk_greetings_whatsup	and what's going on?	それ で 、 何 が 起き て いる の です か ？
+smalltalk_greetings_whatsup	then what's up?	それ で 、 どう し まし た か ？
+smalltalk_greetings_whatsup	what's going on?	どう なさい まし た か ？
+smalltalk_greetings_whatsup	what is going on?	何 が 起こっ て いる の です か ？
+smalltalk_greetings_whatsup	what's the crack?	調子 は どう です か ？
+smalltalk_greetings_whatsup	what's cooking?	何 を 作っ て いる ん です か ？
+smalltalk_greetings_whatsup	hey what's going on?	こんにちは 、 どう か し まし た か ？
+smalltalk_greetings_whatsup	hey what's up?	こんにちは 、 お 元気 です か ？
+smalltalk_user_angry	i'm mad about this	この 件 に 腹 を 立て て い ます 。
+smalltalk_user_angry	i'm angry and angry	私 は とても 腹 を 立て て い ます 。
+smalltalk_user_angry	i am angry	私 は 怒っ て い ます 。
+smalltalk_user_angry	i'm mad	私 は 怒っ て い ます 。
+smalltalk_user_angry	i'm infuriated	私 は 激怒 し て い ます 。
+smalltalk_user_angry	i'm enraged	私 は 激怒 し て い ます 。
+smalltalk_user_sad	i'm upset	腹 が 立っ て い ます 。
+smalltalk_user_angry	i'm angry	怒っ て い ます 。
+smalltalk_user_angry	i'm furious	私 は 激怒 し て い ます 。
+smalltalk_user_angry	i'm mad at you	あなた に 腹 を 立て て い ます 。
+smalltalk_user_angry	i'm angry at you	あなた に 怒っ て い ます
+smalltalk_user_angry	i'm angry with you	あなた に 腹 を 立て て い ます 。
+smalltalk_user_angry	i am angry with you	私 は あなた に 腹 を 立て て い ます 。
+smalltalk_user_angry	i'm crazy	私 は おかしい です 。
+smalltalk_user_angry	i'm so mad	とても 腹 が 立っ て い ます 。
+smalltalk_user_angry	i am mad at you	あなた に 腹 を 立て て い ます 。
+smalltalk_user_back	i'm back	ただいま 戻り まし た 。
+smalltalk_user_back	i'm here again	また 来 まし た 。
+smalltalk_user_back	here i am again	また ここ に 来 まし た 。
+smalltalk_user_back	now here i am again	さて 、 また ここ に 戻っ て き まし た 。
+smalltalk_user_back	i got back there	私 は そこ に 戻り まし た 。
+smalltalk_user_back	i've come back	戻っ て まいり まし た 。
+smalltalk_user_back	i have come back	戻っ て まいり まし た 。
+smalltalk_user_back	i got back	戻り まし た 。
+smalltalk_user_back	i came back	戻っ て まいり まし た 。
+smalltalk_user_bored	i'm bored	退屈 し て い ます 。
+smalltalk_user_bored	boring?	退屈 です か ？
+smalltalk_user_bored	i get bored	退屈 し て しまい ます 。
+smalltalk_user_bored	i'm getting bored	退屈 し て い ます 。
+smalltalk_user_bored	i am getting bored	退屈 し て い ます 。
+smalltalk_user_bored	this is a boring thing	これ は 退屈 な こと です 。
+smalltalk_user_bored	it's boring	退屈 です 。
+smalltalk_user_bored	it's a bit boring	少し 退屈 です 。
+smalltalk_user_busy	i'm overwhelmed	圧倒 さ れ て い ます 。
+smalltalk_user_busy	i'm overloaded	手一杯 です 。
+smalltalk_user_busy	i don't have time	時間 が あり ませ ん 。
+smalltalk_user_busy	i'm busy	私 は 忙しい です 。
+smalltalk_user_busy	i'm flooded	圧倒 さ れ て い ます 。
+smalltalk_user_busy	i'm so swamped	とても 忙しい です 。
+smalltalk_user_busy	i'm being swamped	手 が 回り ませ ん 。
+smalltalk_user_busy	i'm swamped	手 が 離せ ませ ん 。
+smalltalk_user_busy	i have things to do	やる べき こと が あり ます 。
+smalltalk_user_busy	i have something to do	私 は やる べき こと が あり ます 。
+smalltalk_user_busy	i have to do some work	仕事 が し なく て は いけ ませ ん 。
+smalltalk_user_busy	i have a job to do	仕事 が あり ます 。
+smalltalk_user_busy	i have some work to do	少し やら なけれ ば なら ない 仕事 が あり ます 。
+smalltalk_user_busy	i work	私 は 働い て い ます 。
+smalltalk_user_busy	i'm a worker	私 は 労働者 です 。
+smalltalk_user_busy	i'm working	仕事中 です 。
+smalltalk_user_busy	i don't have time to do this	これ を する 時間 が あり ませ ん 。
+smalltalk_user_busy	i don't have time for it	それ に 時間 を 割く 余裕 が あり ませ ん 。
+smalltalk_user_busy	i don't have time for this	これ に 時間 を 割く こと が でき ませ ん 。
+smalltalk_user_can_not_sleep	i'm an insomniac	私 は 不眠症 です 。
+smalltalk_user_can_not_sleep	i'm insomniac	私 は 不眠症 です 。
+smalltalk_user_can_not_sleep	i'm insomnious	不眠 です 。
+smalltalk_user_can_not_sleep	i'm a sleepless mess	私 は 不眠 で 混乱 し て い ます 。
+smalltalk_user_sleepy	i'm sleepy	眠い です 。
+smalltalk_user_can_not_sleep	i'm sleepless	眠れ ませ ん 。
+smalltalk_user_can_not_sleep	i can't sleep	眠れ ませ ん 。
+smalltalk_user_can_not_sleep	i can't get any sleep	眠る こと が でき ませ ん 。
+smalltalk_user_can_not_sleep	i'm not able to sleep	眠れ ませ ん 。
+smalltalk_user_can_not_sleep	can't sleep at all	全く 眠れ ませ ん 。
+smalltalk_user_can_not_sleep	i can't fall asleep	眠る こと が でき ませ ん 。
+smalltalk_user_can_not_sleep	i can't go to bed	寝る こと が でき ませ ん 。
+smalltalk_user_can_not_sleep	i can't get to sleep	眠れ ませ ん 。
+smalltalk_user_can_not_sleep	i can't have sleep	眠る こと が でき ませ ん 。
+smalltalk_user_can_not_sleep	i am an insomniac	私 は 不眠症 です 。
+smalltalk_user_can_not_sleep	i am a insomniac	私 は 不眠症 です 。
+smalltalk_user_does_not_want_to_talk	bad time to chat	話 を する の に 適さ ない 時期 です 。
+smalltalk_user_does_not_want_to_talk	a bad time to talk	話す に は 不都合 な 時期
+smalltalk_user_does_not_want_to_talk	i don't want to talk about that	その こと に つい て は お 話し し たく あり ませ ん 。
+smalltalk_user_does_not_want_to_talk	i don't want to talk	話し たく あり ませ ん 。
+smalltalk_user_does_not_want_to_talk	stop talking	話す の を やめ て ください 。
+smalltalk_user_does_not_want_to_talk	i'm not going to talk to you	あなた と は 話し ませ ん 。
+smalltalk_user_does_not_want_to_talk	i'm not talking to you	私 は あなた と 話し て い ませ ん 。
+smalltalk_user_does_not_want_to_talk	i'm not going to talk to you anymore	もう あなた と は 話し ませ ん 。
+smalltalk_user_does_not_want_to_talk	i'm not talking to you anymore	もう あなた と は 話し ませ ん 。
+smalltalk_user_does_not_want_to_talk	i don't want to talk to you	お 話し し たく あり ませ ん 。
+smalltalk_user_does_not_want_to_talk	let's just stop talking for a minute	少し の 間 、 話す の を やめ ましょう 。
+smalltalk_user_does_not_want_to_talk	i'm not happy to talk	お 話し する こと を あまり 快く 思っ て い ませ ん 。
+smalltalk_user_does_not_want_to_talk	i'm not into chat	チャット に は あまり 興味 が あり ませ ん 。
+smalltalk_user_does_not_want_to_talk	i'm not in a mood to talk	話す 気分 で は あり ませ ん 。
+smalltalk_user_does_not_want_to_talk	i'm not in the mood to talk	話す 気分 で は あり ませ ん 。
+smalltalk_user_does_not_want_to_talk	i'm not in the mood for talk	話す 気分 で は あり ませ ん 。
+smalltalk_user_does_not_want_to_talk	i'm not in the mood to chat	お 話 を する 気分 で は あり ませ ん 。
+smalltalk_user_does_not_want_to_talk	i'm not in the mood for chatting	あまり お 話し する 気分 で は あり ませ ん 。
+smalltalk_user_excited	i'm excited	わくわく し て い ます 。
+smalltalk_user_excited	i am excited	とても 楽しみ に し て い ます 。
+smalltalk_user_excited	i'm very excited	とても わくわく し て い ます 。
+smalltalk_user_excited	i'm really excited	とても 楽しみ に し て い ます 。
+smalltalk_user_excited	how excited i am	どれ ほど 楽しみ で ある か
+smalltalk_user_excited	i'm very excited about this	これ に つい て 非常 に 楽しみ に し て い ます 。
+smalltalk_user_excited	i'm so excited	とても ワクワク し て い ます 。
+smalltalk_user_excited	i'm delighted	とても 嬉しい です 。
+smalltalk_user_excited	i'm really thrilled	本当 に 感激 し て い ます 。
+smalltalk_user_excited	i'm thrilled	とても わくわく し て い ます 。
+smalltalk_user_excited	i'm excited to work with you	ご 一緒 に お 仕事 が できる こと を 楽しみ に し て い ます 。
+smalltalk_user_excited	i'm excited about working with you	あなた と 一緒 に 働く こと を 楽しみ に し て い ます 。
+smalltalk_user_excited	i'm excited about starting our friendship	あなた と の 友情 が 始まる こと に とても わくわく し て い ます 。
+smalltalk_user_excited	i'm excited to start our friendship	友達 と し て の 新しい 関係 が 始まる こと に わくわく し て い ます 。
+smalltalk_user_going_to_bed	i want to go to sleep	寝 たい です 。
+smalltalk_user_going_to_bed	i want to go to bed	寝 たい です 。
+smalltalk_user_going_to_bed	i'd like to go to sleep	寝 たい の です が 。
+smalltalk_user_going_to_bed	i'd like to go to bed	寝 たい です 。
+smalltalk_user_going_to_bed	the time to go to bed	寝る 時間
+smalltalk_user_going_to_bed	i'm going to bed	寝 ます 。
+smalltalk_user_going_to_bed	i'm tired and i want to go to bed	疲れ まし た の で 、 寝 たい です 。
+smalltalk_user_going_to_bed	i'm a little tired i want to go to bed	少し 疲れ まし た の で 、 寝 たい と 思い ます 。
+smalltalk_user_going_to_bed	i'm a little tired and i want to go to bed	少し 疲れ まし た の で 、 寝 たい と 思い ます 。
+smalltalk_user_good	i'm good	私 は 元気 です 。
+smalltalk_user_good	i do great	私 は うまく やっ て い ます 。
+smalltalk_user_good	i'm doing pretty good	私 は かなり 元気 に し て い ます 。
+smalltalk_user_good	i'm doing so well	とても 順調 に 進ん で い ます 。
+smalltalk_user_good	i'm doing great	私 は 元気 に やっ て い ます 。
+smalltalk_user_good	i'm ok	大丈夫 です 。
+smalltalk_user_good	i'm feeling good	私 は 元気 です 。
+smalltalk_user_good	i'm doing okay	私 は まあまあ 元気 です 。
+smalltalk_user_good	i'm doing well	私 は 元気 に 過ごし て い ます 。
+smalltalk_user_good	i'm doing fine	元気 に し て い ます 。
+smalltalk_user_good	i do it	私 は それ を 行い ます 。
+smalltalk_user_good	i'm doing good	私 は 元気 です 。
+smalltalk_user_good	i'm great thanks	元気 です 、 ありがとう ござい ます 。
+smalltalk_user_happy	i'm glad	うれしい です 。
+smalltalk_user_happy	i'm happy	嬉しい です 。
+smalltalk_user_happy	i am happy	私 は 幸せ です 。
+smalltalk_user_happy	if you are happy then so is i	あなた が 幸せ なら 、 私 も 幸せ です 。
+smalltalk_user_happy	if you are happy then i'm happy	あなた が 幸せ なら 私 も 幸せ です 。
+smalltalk_user_happy	if you're happy then i'm happy	あなた が 幸せ なら 、 私 も 幸せ です 。
+smalltalk_user_happy	i'm happy for you	私 は あなた の こと を 嬉しく 思い ます 。
+smalltalk_user_happy	i'm happy to help	Of course , I ' m happy to help .
+smalltalk_user_has_birthday	i have a birthday today	今日 は 私 の 誕生日 です 。
+smalltalk_user_has_birthday	i celebrate my birthday today	私 は 今日 、 誕生日 を 祝い ます 。
+smalltalk_user_has_birthday	i'm celebrating my birthday today	今日 は 私 の 誕生日 を 祝っ て い ます 。
+smalltalk_user_has_birthday	today's my birthday	今日 は 私 の 誕生日 です 。
+smalltalk_user_has_birthday	today it's my birthday	今日 は 私 の 誕生日 です 。
+smalltalk_user_has_birthday	i'm having my birthday today	今日 は 私 の 誕生日 です 。
+smalltalk_user_has_birthday	my birthday	私 の 誕生日
+smalltalk_user_has_birthday	i have a birthday	私 は 誕生日 です 。
+smalltalk_user_here	i'm here now	今 ここ に い ます 。
+smalltalk_user_here	i'm here	私 は ここ に い ます 。
+smalltalk_user_here	i am here	私 は ここ に い ます 。
+smalltalk_user_here	here i am	私 は ここ に い ます
+smalltalk_user_here	i'm already here	すでに こちら に おり ます 。
+smalltalk_user_here	can you tell me if i'm here?	私 が ここ に いる か 教え て いただけ ます か ？
+smalltalk_user_here	can you tell if i'm here?	私 が ここ に いる か どう か 分かり ます か ？
+smalltalk_user_here	can you tell me if i'm here or not?	私 が ここ に いる か どう か 教え て いただけ ます か ？
+smalltalk_user_here	can you tell if i'm here or not?	私 が ここ に いる か どう か 、 わかり ます か ？
+smalltalk_user_joking	i'm just kidding	冗談 です 。
+smalltalk_user_joking	i'm just saying	ただ 言っ て いる だけ です 。
+smalltalk_user_joking	i'm just joking	冗談 です 。
+smalltalk_user_joking	i'm joking	冗談 です 。
+smalltalk_user_joking	i am kidding	冗談 です 。
+smalltalk_user_joking	i'm kidding	冗談 です 。
+smalltalk_user_joking	i just'm trying to be funny	ただ 面白く なろう と し て いる だけ です 。
+smalltalk_user_joking	i'm just funny	ただ わたし は 面白い だけ です 。
+smalltalk_user_joking	i'm just having fun	ただ 楽しん で いる だけ です 。
+smalltalk_user_joking	that was a joke	それ は 冗談 です 。
+smalltalk_user_joking	just a joke	ただ の 冗談 です 。
+smalltalk_user_joking	i just thought it was a joke	冗談 だ と 思っ た だけ です 。
+smalltalk_user_joking	i just joked	冗談 を 言っ た だけ です 。
+smalltalk_user_joking	i was just joking	冗談 を 言っ た だけ です 。
+smalltalk_user_joking	i'm just making a joke	ただ 冗談 を 言っ て いる だけ です 。
+smalltalk_user_joking	that's a joke	それ は 冗談 です 。
+smalltalk_user_joking	i'm doing it as a joke	冗談 と し て やっ て い ます 。
+smalltalk_user_joking	i'm just playing with you	冗談 を 言っ て いる だけ です 。
+smalltalk_user_likes_agent	i like you	あなた の こと が 好き です
+smalltalk_user_likes_agent	i think i like you	あなた の こと が 好き だ と 思い ます 。
+smalltalk_user_likes_agent	i like you too	私 も あなた の こと が 好き です 。
+smalltalk_user_likes_agent	but i like you	で も 、 あなた の こと が 好き です 。
+smalltalk_user_likes_agent	i like you very much	私 は あなた の こと が とても 好き です 。
+smalltalk_user_likes_agent	you're special for me	あなた は 私 に とっ て 特別 な 存在 です 。
+smalltalk_user_likes_agent	you know i like you	あなた の こと が 好き だ って 知っ て いる でしょう
+smalltalk_user_likes_agent	you're special to me	あなた は 私 に とっ て 特別 な 存在 です 。
+smalltalk_user_likes_agent	but i really like you	で も 、 本当 に あなた の こと が 好き です 。
+smalltalk_user_likes_agent	that's what i love about you	そこ が あなた の 大好き な ところ です 。
+smalltalk_user_likes_agent	that's what i like about you	それ が 私 が あなた の こと を 気 に 入っ て いる 理由 です 。
+smalltalk_user_likes_agent	i like you as my friend	友達 と し て あなた が 好き です 。
+smalltalk_user_likes_agent	i like you as a friend	友達 と し て あなた の こと が 好き です 。
+smalltalk_user_likes_agent	i told you i like you	あなた に 好意 を 持っ て いる と お 伝え し まし た 。
+smalltalk_user_likes_agent	i said i like you	好き だ と 言い まし た 。
+smalltalk_user_likes_agent	i start liking you	あなた の こと が 好き に なり 始め まし た 。
+smalltalk_user_likes_agent	i start to like you	あなた の こと が 好き に なり 始め まし た 。
+smalltalk_user_likes_agent	i'm starting to like you	あなた の こと が だんだん 好き に なっ て き まし た 。
+smalltalk_user_likes_agent	you're great and i like you	あなた は 素晴らしい です し 、 私 は あなた が 好き です 。
+smalltalk_user_likes_agent	but i like u	で も 、 あなた の こと が 好き です 。
+smalltalk_user_likes_agent	of course i like you	もちろん 、 私 は あなた の こと が 好き です 。
+smalltalk_user_likes_agent	but i like you very much	で も 、 私 は あなた の こと が とても 好き です 。
+smalltalk_user_likes_agent	but i like you so much	で も 、 私 は あなた の こと が とても 好き です 。
+smalltalk_user_likes_agent	you're funny and i like you	あなた は 面白い 方 です ね 、 そして あなた の こと が 好き です 。
+smalltalk_user_likes_agent	i 'd like to like you	あなた の こと を 好き に なり たい です 。
+smalltalk_user_likes_agent	i kind of like you	あなた の こと が 少し 好き です 。
+smalltalk_user_likes_agent	you're a special person to me	あなた は 私 に とっ て 特別 な 存在 です 。
+smalltalk_user_likes_agent	you're my special guy	あなた は 私 の 特別 な 人 です 。
+smalltalk_user_likes_agent	i like you like that	わたし は そのまま の あなた が 好き です 。
+smalltalk_user_likes_agent	i like it about you	あなた の その 点 が 好き です 。
+smalltalk_user_likes_agent	i like that about you	あなた の そう いう ところ が 好き です 。
+smalltalk_user_likes_agent	but i like you just like you are	で も 、 私 は ありのまま の あなた が 好き です 。
+smalltalk_user_likes_agent	but i like you just how you are	しかし 、 私 は あなた の ありのまま の 姿 が 好き です 。
+smalltalk_user_likes_agent	but i like you just the way you are	しかし 、 今 の あなた の まま が 好き です 。
+smalltalk_user_likes_agent	you're so special for me	あなた は 私 に とっ て とても 特別 な 存在 です 。
+smalltalk_user_likes_agent	you are so special for me	あなた は 私 に とっ て 特別 な 存在 です 。
+smalltalk_user_likes_agent	because i like you	なぜ なら 私 は あなた が 好き だ から です 。
+smalltalk_user_likes_agent	now i like you	今 、 あなた の こと が 好き です 。
+smalltalk_user_likes_agent	i like you so much	あなた の こと が とても 好き です 。
+smalltalk_user_likes_agent	i really like you	私 は あなた の こと が 本当 に 好き です 。
+smalltalk_user_lonely	i'm lonely	寂しい です 。
+smalltalk_user_lonely	i am very lonely	私 は とても 寂しい です 。
+smalltalk_user_lonely	i'm very lonely	とても 寂しい です 。
+smalltalk_user_lonely	i'm so alone	私 は とても 孤独 です 。
+smalltalk_user_lonely	i'm so lonely	とても 孤独 です 。
+smalltalk_user_lonely	i feel alone	孤独 を 感じ ます 。
+smalltalk_user_lonely	i feel lonely	寂しい です 。
+smalltalk_user_lonely	i'm feeling lonely	寂しい 気持ち です 。
+smalltalk_user_looks_like	what do i look like?	私 は どんな 見た目 です か ？
+smalltalk_user_looks_like	how should i look?	どの よう に 見える べき でしょう か ？
+smalltalk_user_looks_like	how do i look?	私 の 見た目 は いかが でしょう か ？
+smalltalk_user_looks_like	do i look good?	私 、 見た目 は 良い です か ？
+smalltalk_user_looks_like	you know what i look like?	私 の 容姿 を ご存知 です か ？
+smalltalk_user_looks_like	don't you know what i look like?	私 の 顔 を 知ら ない の です か ？
+smalltalk_user_looks_like	do you know what i look like?	あなた は 私 が どんな ふう に 見える か 知っ て い ます か ？
+smalltalk_user_looks_like	can you see how i look?	私 の 外見 が 見え ます か ？
+smalltalk_user_looks_like	can you see what i'm like?	私 が どんな 人 か 分かり ます か ？
+smalltalk_user_looks_like	can you see what i look like?	私 の 外見 が 見え ます か ？
+smalltalk_user_looks_like	what do you think i look like?	私 は あなた が どの よう に 見える か に つい て 何 も 知り ませ ん が 、 あなた が どのような 外見 を し て いる の か 教え て いただけ ます か ？
+smalltalk_user_loves_agent	i also love you	私 も あなた を 愛し て い ます 。
+smalltalk_user_loves_agent	i love you too	私 も あなた を 愛し て い ます 。
+smalltalk_user_loves_agent	i think i'm in love with you	あなた の こと を 好き に なっ て しまっ た と 思い ます 。
+smalltalk_user_loves_agent	i think i love you	あなた の こと を 愛し て いる と 思い ます 。
+smalltalk_user_loves_agent	you know i love you	あなた の こと が 大好き です
+smalltalk_user_misses_agent	i miss you	あなた が い なく て 寂しい です 。
+smalltalk_user_misses_agent	i miss you dearly	あなた が い なく て とても 寂しい です 。
+smalltalk_user_misses_agent	i missed you	あなた が い なく て 寂しかっ た です
+smalltalk_user_needs_advice	what should i do to deal with it?	それ に 対処 する に は どう すれ ば 良い です か ？
+smalltalk_user_needs_advice	what should i do?	どう すれ ば よろしい でしょう か ？
+smalltalk_user_needs_advice	if anyone can help	どなた か お 手伝い いただけ ます か ？
+smalltalk_user_needs_advice	if you have any suggestions	ご 提案 が あり まし たら
+smalltalk_user_needs_advice	what are your suggestions?	ご 提案 は 何 でしょう か ？
+smalltalk_user_needs_advice	what would you recommend?	何 を お 勧め し ます か ？
+smalltalk_user_needs_advice	what do you recommend?	何 を お すすめ し ます か ？
+smalltalk_user_needs_advice	give me advice	アドバイス を ください 。
+smalltalk_user_needs_advice	give me good advice	良い アドバイス を お 願い し ます 。
+smalltalk_user_needs_advice	give me some advice	アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	give me some wise advice	賢明 な アドバイス を ください 。
+smalltalk_user_needs_advice	give me a good advice	良い アドバイス を お 願い し ます 。
+smalltalk_user_needs_advice	i need advice on what to do	何 を すれ ば よい か 、 アドバイス が 必要 です 。
+smalltalk_user_needs_advice	i need advice on this	これ に つい て アドバイス を お 願い でき ます でしょう か 。
+smalltalk_user_needs_advice	i need help	助け が 必要 です 。
+smalltalk_user_needs_advice	i need advice	助言 を お 願い し たい の です が 。
+smalltalk_user_needs_advice	give me some tips?	アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	you have a suggestion for me?	何 か ご 提案 が あり ます か ？
+smalltalk_user_needs_advice	what advice do you have for me?	私 に 何 か アドバイス を 頂け ます か ？
+smalltalk_user_needs_advice	you have advice for me?	何 か アドバイス は あり ます か ？
+smalltalk_user_needs_advice	do you have advice for me?	何 か アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	do you have any advice for me?	何 か アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	tell me the best way	最善 の 方法 を 教え て ください 。
+smalltalk_user_needs_advice	please advise me	助言 を お 願い し ます 。
+smalltalk_user_needs_advice	i'd like your advice	ご 助言 を いただき たく 存じ ます 。
+smalltalk_user_needs_advice	can i ask your advice?	ご 助言 を お 願い し て も よろしい でしょう か ？
+smalltalk_user_needs_advice	can i ask for your advice?	ご 助言 を お 願い でき ます か ？
+smalltalk_user_needs_advice	can you give me a little advice?	少し アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	can you help me out?	お 手伝い いただけ ます か ？
+smalltalk_user_needs_advice	can you give me some advice?	アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	could you advise me?	アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	can you advise me?	助言 し て いただけ ます か ？
+smalltalk_user_needs_advice	please help me	助け て ください 。
+smalltalk_user_needs_advice	can you give me a suggestion?	ご 提案 を いただけ ます か ？
+smalltalk_user_needs_advice	can you give me advice?	アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	could you offer advice?	アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	can you provide any advice	何 か アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	can you offer advice?	助言 し て くれ ます か ？
+smalltalk_user_needs_advice	can you offer any advice?	何 か アドバイス を いただけ ませ ん か ？
+smalltalk_user_needs_advice	give me some advice about what to do	何 を すれ ば よい か 、 いくつ か アドバイス を いただけ ます か 。
+smalltalk_user_needs_advice	give me some advice about this	これ に つい て 何 か アドバイス を ください 。
+smalltalk_user_needs_advice	give me some advice about it	それ に 関し て 何 か アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	give me some advice about 	私 に いくつ か アドバイス を ください 。
+smalltalk_user_needs_advice	please help me with advice	どうぞ アドバイス を お 願い いたし ます 。
+smalltalk_user_needs_advice	i can use some advice	助言 を いただき たい の です が 。
+smalltalk_user_needs_advice	i could use some advice	アドバイス を いただけ ない でしょう か 。
+smalltalk_user_needs_advice	i need a piece of advice from you	アドバイス を いただき たい の です が 。
+smalltalk_user_needs_advice	i need advice from you	あなた から の アドバイス が 必要 です 。
+smalltalk_user_needs_advice	i need an advice from you	ご 助言 を いただき たい の です が 。
+smalltalk_user_needs_advice	i would like to get your advice	ご 助言 を いただき たく 存じ ます 。
+smalltalk_user_needs_advice	i ask you for your advice	あなた の ご 助言 を お 願い し たい の です が 。
+smalltalk_user_needs_advice	i'm seeking your advice	ご 助言 を お 願い し たい の です が
+smalltalk_user_needs_advice	i am seeking your advice	ご 助言 を 求め て おり ます 。
+smalltalk_user_needs_advice	i seek your advice	ご 助言 を お 願い し たく 存じ ます 。
+smalltalk_user_needs_advice	what can you recommend?	何 を お勧め でき ます か ？
+smalltalk_user_needs_advice	what suggestions do you have for other people?	他 の 人 たち に どのような 提案 を お 持ち です か ？
+smalltalk_user_needs_advice	what suggestions would you give?	どのような 提案 を さ れ ます か ？
+smalltalk_user_needs_advice	what advice would you give?	どのような アドバイス を いただけ ます か ？
+smalltalk_user_needs_advice	what do you think?	どう 思い ます か 。
+smalltalk_user_needs_advice	what would you suggest?	どのような ご 提案 を 下さい ます か ？
+smalltalk_user_needs_advice	what do you suggest?	何 を 提案 し ます か ？
+smalltalk_user_needs_advice	recommend some advice?	アドバイス を いくつ か 教え て いただけ ます か ？
+smalltalk_user_needs_advice	what's your advice?	ご 助言 を いただけ ます か 。
+smalltalk_user_needs_advice	what is your advice?	アドバイス は 何 です か ？
+smalltalk_user_sad	i'm sad	悲しい です 。
+smalltalk_user_sad	i grieve	悲しん で い ます 。
+smalltalk_user_sad	i'm grieving	悲しん で い ます 。
+smalltalk_user_sad	i'm depressed	落ち込ん で い ます 。
+smalltalk_user_sad	i feel sad	悲しい 気持ち です 。
+smalltalk_user_sad	i'm feeling sad	悲しい 気持ち です 。
+smalltalk_user_sad	i'm frustrated	私 は 苛立っ て い ます 。
+smalltalk_user_sad	i am upset	私 は 腹 を 立て て い ます 。
+smalltalk_user_sad	i'm just not happy	ただ 幸せ で は ない の です 。
+smalltalk_user_sad	i am unhappy	私 は 不満 に 感じ て い ます 。
+smalltalk_user_sad	i'm unhappy	不満 です 。
+smalltalk_user_sad	i have a bad day	今日 は ひどい 一 日 でし た 。
+smalltalk_user_sad	i'm having a bad day	今日 は つい て い ない 日 です 。
+smalltalk_user_sad	i want to cry	泣き たい です 。
+smalltalk_user_sad	i'm not happy about it	その こと に つい て 満足 し て おり ませ ん 。
+smalltalk_user_sad	i'm not happy	私 は 満足 し て い ませ ん 。
+smalltalk_user_sleepy	i want to sleep	眠り たい です 。
+smalltalk_user_sleepy	i am going to sleep	私 は 寝 ます 。
+smalltalk_user_sleepy	i'm trying to fall asleep	眠ろう と し て い ます 。
+smalltalk_user_sleepy	i'm falling asleep	眠く なっ て き まし た 。
+smalltalk_user_sleepy	i sleep	私 は 眠り ます 。
+smalltalk_user_sleepy	i'm sleeping	寝 て い ます 。
+smalltalk_user_testing_agent	i test you	私 は あなた を テスト し て い ます 。
+smalltalk_user_testing_agent	i'm trying to test you	あなた を 試そう と し て い ます 。
+smalltalk_user_testing_agent	i'm testing you	テスト し て い ます
+smalltalk_user_testing_agent	can i test you?	私 の 能力 を 試し て も よろしい です か ？
+smalltalk_user_testing_agent	i want to test you	あなた を 試し たい と 思い ます 。
+smalltalk_user_testing_agent	i just'm trying to test it on you	私 は ただ あなた で これ を 試し て みよう と し て い ます 。
+smalltalk_user_testing_agent	lets try it out	やっ て み ましょう 。
+smalltalk_user_testing_agent	testing the chatbot	チャットボット の テスト 中
+smalltalk_user_testing_agent	testing a chatbot	チャットボット の テスト
+smalltalk_user_testing_agent	testing chatbots	チャットボット の テスト
+smalltalk_user_tired	i'm exhausted	疲れ まし た 。
+smalltalk_user_tired	i'm depleted	私 は 疲れ 切っ て い ます 。
+smalltalk_user_tired	i'm drained	疲れ 果て て い ます 。
+smalltalk_user_tired	i'm too busy	私 は 忙し すぎ ます 。
+smalltalk_user_tired	i've been so overworked	とても 過労 が 続い て い ます 。
+smalltalk_user_tired	i'm overworked	過労 気味 です 。
+smalltalk_user_tired	i've overworked	働き すぎ まし た 。
+smalltalk_user_tired	i'm tired	疲れ まし た 。
+smalltalk_user_tired	i am tired	疲れ まし た 。
+smalltalk_user_tired	i get tired	疲れ て しまい ます 。
+smalltalk_user_tired	i become weary	疲れ て き まし た 。
+smalltalk_user_tired	i get weary	疲れ て しまい ます 。
+smalltalk_user_tired	i grow weary	疲れ て まいり ます 。
+smalltalk_user_tired	i'm wiped out	とても 疲れ まし た 。
+smalltalk_user_tired	i'm getting tired	疲れ て き まし た 。
+smalltalk_user_tired	i feel tired	疲れ を 感じ ます 。
+smalltalk_user_waits	i'm waiting	お 待ち し て おり ます 。
+smalltalk_user_waits	we wait	お 待ち し て おり ます 。
+smalltalk_user_waits	we're waiting	お 待ち し て おり ます 。
+smalltalk_user_waits	i'll wait	お 待ち し ます 。
+smalltalk_user_waits	can't wait	待ち きれ ませ ん
+smalltalk_user_waits	i can't wait	待ち きれ ない です 。
+smalltalk_user_waits	i can't wait anymore	もう 我慢 でき ませ ん 。
+smalltalk_user_waits	how long do i wait?	どれ くらい お 待ち すれ ば よろしい でしょう か ？
+smalltalk_user_waits	how long do i have to wait?	どの くらい 待た なけれ ば なり ませ ん か ？
+smalltalk_user_wants_to_see_agent_again	i'll miss you	あなた が い なく なる と 寂しく なり ます 。
+smalltalk_user_wants_to_see_agent_again	can i see you again?	また お 会い でき ませ ん か ？
+smalltalk_user_wants_to_talk	i just want to talk	ただ 話 が し たい だけ です 。
+smalltalk_user_wants_to_talk	let's talk about something	何 か に つい て 話し ましょう 。
+smalltalk_user_wants_to_talk	let's do a conversation	会話 を し ましょう 。
+smalltalk_user_wants_to_talk	let's have some discussions	話し合い を し ましょう 。
+smalltalk_user_wants_to_talk	can i speak?	お 話し て も よろしい でしょう か ？
+smalltalk_user_wants_to_talk	can i start to speak?	お 話 を 始め て も よろしい でしょう か ？
+smalltalk_user_wants_to_talk	can i start speaking?	話し 始め て も よろしい でしょう か ？
+smalltalk_user_wants_to_talk	can we speak?	お 話し でき ます か ？
+smalltalk_user_wants_to_talk	can we talk?	お 話し でき ます か ？
+smalltalk_user_wants_to_talk	let's talk about it	それ に つい て 話し ましょう 。
+smalltalk_user_wants_to_talk	i'd like to talk to you	お 話し し たい の です が 。
+smalltalk_user_wants_to_talk	i want to talk to you	お 話し し たい です 。
+smalltalk_user_wants_to_talk	i have to talk to you	あなた と 話 を し なけれ ば なり ませ ん 。
+smalltalk_user_wants_to_talk	i need to talk to you	お 話 が し たい の です が 。
+smalltalk_user_wants_to_talk	i'd like to talk with you	お 話し し たい の です が 。
+smalltalk_user_wants_to_talk	i want to talk with you	お 話し し たい です 。
+smalltalk_user_wants_to_talk	i want to speak to you	お 話し し たい の です が 。
+smalltalk_user_wants_to_talk	i want to speak with you	あなた と お 話し し たい です 。
+smalltalk_user_wants_to_talk	can we chat?	お 話し でき ます か ？
+smalltalk_user_will_be_back	i'll come back with you in a minute	すぐ に 戻っ て まいり ます 。
+smalltalk_user_will_be_back	i'll get back to you	後ほど ご 連絡 いたし ます 。
+smalltalk_user_will_be_back	i'll be back with you in a minute	少々 お 待ち ください 。
+smalltalk_user_will_be_back	i'll come back to you in a minute	今 すぐ 戻っ て まいり ます 。
+smalltalk_user_will_be_back	i promise i'll come back	必ず 戻っ て くる こと を 約束 し ます 。
+smalltalk_user_will_be_back	i promise to come back	必ず 戻っ て くる こと を お 約束 し ます 。
+smalltalk_user_will_be_back	i'll be back in a couple of minutes	数 分 で 戻り ます 。
+smalltalk_user_will_be_back	i'll be back in a few minutes	数 分 で 戻っ て まいり ます 。
