@@ -1,5 +1,6 @@
 # smalldataaugmentation
 ## File構成
+```
 small_data_augmentation
 ├── README.txt (このファイル）
 ├── batch_da.sh　（データ拡張手法ごとにBERTのファインチューニングでカテゴリ分類を一括で実行）
@@ -19,6 +20,7 @@ small_data_augmentation
 ├── wn_DA.py　　（日本語WordNetによるデータ拡張）
 ├── wnjpn.db　（日本語WordNetのデータベースファイル）
 └── wordnet_jp.py　（日本語WordNetのデータベースを扱うためのライブラリ）
+```
 
 ## Datasets
 Small Data Augmentation (https://www.kaggle.com/datasets/salmanfaroz/small-talk-intent-classification-data)
