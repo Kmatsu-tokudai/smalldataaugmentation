@@ -30,6 +30,7 @@ Small Data Augmentation (https://www.kaggle.com/datasets/salmanfaroz/small-talk-
 （一部翻訳ミスあり）
 
 ## Small Data Augmentation
+※データ拡張に成功したデータのみを拡張データとする．（拡張データ：ID,Converted,Sentence,Intent）
 ### GPT4o
 以下の箇所に，取得したAPI Keyに変更
 ```python:da_gpt4o.py
@@ -40,10 +41,6 @@ openai.api_key="OPENAI_API_KEY"
 ##########################################
 ~
 ```
-以下を実行
-```
-python da_gpt4o.py
-```
 #### 実行環境
 ```
 python 3.10.9
@@ -53,17 +50,8 @@ natto-py 1.0.1
 mecab 0.996.5
 ```
 ### BERT
-```
-python bert_da.py
-```
 ### sudachi
-```
-python sudachi_DA.py
-```
 ### 日本語WordNet
-```
-python wn_DA.py
-```
 #### 実行環境
 ```
 python 3.7
@@ -72,25 +60,27 @@ transformers 4.30.2
 SudachiPy 0.6.7
 ```
 ## カテゴリ分類
+拡張データのみでカテゴリ分類を行う．（withoutは，元の英日翻訳データセットを用いる）
 ### without(accuracy)
-|BERT|E5|
-|---:|---:|
-|0.23|0.67|
+||acc|DataSize|
+|:---|---:|---:|
+|BERT|0.23|2596|
+|E5|0.67|2596|
 
 ### BERT
-```
-./batch_da.sh
-```
 #### Results(accuracy)
-|GPT4o|BERT|Sudachi|Wordnet|
-|---:|---:|---:|---:|
-|0.39|0.52|0.15|0.43|
+||acc|DataSize|
+|:---|---:|---:|
+|GPT4o|0.39|24757|
+|BERT|0.52|37801|
+|Sudachi|0.15|500|
+|WordNet|0.43|7730|
 
 ### E5
-```
-./batch_da_E5.sh
-```
 #### Results(accuracy)
-|GPT4o|BERT|Sudachi|Wordnet|
-|---:|---:|---:|---:|
-|0.65|0.73|0.60|0.62|
+||acc|DataSize|
+|:---|---:|---:|
+|GPT4o|0.65|24757|
+|BERT|0.73|37801|
+|Sudachi|0.60|500|
+|WordNet|0.62|7730|
