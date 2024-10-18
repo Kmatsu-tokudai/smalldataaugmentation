@@ -10,15 +10,17 @@ small_data_augmentation
 ├── da_ML_classification.py　（BERTのファインチューニングによるカテゴリ分類）
 ├── da_gpt4o.py　（GPT-4oによるデータ拡張）
 ├── data
-│   ├── ej_small_wakati_DA.tsv (英日翻訳済み分かち書きテキストデータ・発話意図ラベル付き）/*翻訳できていない箇所がある*/
+│   ├── ej_small_wakati_DA.tsv (英日翻訳済み分かち書きテキストデータ・発話意図ラベル付き）/*一部誤(未)翻訳*/
 │   ├── synonyms.txt　（SudachiPy同義語辞書）
 │   └── synonyms_base.csv 　（SudachiPy同義語辞書からIDと単語のみ抽出したCSVファイル）
-├── eval_acc_DAresult.py　（データ拡張手法ごとのBERTファインチューニングカテゴリ分類の評価）
+├── eval_acc_DAresult.py （データ拡張手法ごとのBERTファインチューニングカテゴリ分類の評価）
 ├── eval_acc_DAresult_E5.py　（データ拡張手法ごとのE5ファインチューニングカテゴリ分類の評価）
-├── eval_acc_withoutDAresult.py   (データ拡張無しのBERTファインチューニングカテゴリ分類の評価）
+├── eval_acc_withoutDAresult.py   (データ拡張無しのファインチューニングカテゴリ分類の評価）
+├── ml_classification.py （データ拡張無しのBERTファインチューニングカテゴリ分類の評価）
+├── ml_classification_E5.py （データ拡張無しのE5ファインチューニングカテゴリ分類の評価）
 ├── sudachi_DA.py　（SudachiPy辞書によるデータ拡張）
 ├── wn_DA.py　　（日本語WordNetによるデータ拡張）
-├── wnjpn.db　（日本語WordNetのデータベースファイル）
+├── wnjpn.db　（日本語WordNetのデータベースファイル）/*Not here*/
 └── wordnet_jp.py　（日本語WordNetのデータベースを扱うためのライブラリ）
 ```
 
@@ -43,12 +45,13 @@ openai.api_key="OPENAI_API_KEY"
 python da_gpt4o.py
 ```
 #### 実行環境
+```
 python 3.10.9
 openai 1.51.2
 pandas 2.0.3
 natto-py 1.0.1
 mecab 0.996.5
-
+```
 ### BERT
 ```
 python bert_da.py
@@ -62,12 +65,18 @@ python sudachi_DA.py
 python wn_DA.py
 ```
 #### 実行環境
+```
 python 3.7
 pandas 1.1.5
 transformers 4.30.2
 SudachiPy 0.6.7
-
+```
 ## カテゴリ分類
+### without(accuracy)
+|BERT|E5|
+|---:|---:|
+|0.23|0.67|
+
 ### BERT
 ```
 ./batch_da.sh
